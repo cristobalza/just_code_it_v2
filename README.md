@@ -17,6 +17,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/cristobalza/just_code_it_v2/tree/master/0112-path-sum) |
 | [0322-coin-change](https://github.com/cristobalza/just_code_it_v2/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/cristobalza/just_code_it_v2/tree/master/0463-island-perimeter) |
 ## Math
@@ -47,5 +48,14 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/cristobalza/just_code_it_v2/tree/master/0112-path-sum) |
 | [0463-island-perimeter](https://github.com/cristobalza/just_code_it_v2/tree/master/0463-island-perimeter) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/cristobalza/just_code_it_v2/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/cristobalza/just_code_it_v2/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
