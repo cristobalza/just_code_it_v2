@@ -40,6 +40,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/cristobalza/just_code_it_v2/tree/master/0073-set-matrix-zeroes) |
+| [0141-linked-list-cycle](https://github.com/cristobalza/just_code_it_v2/tree/master/0141-linked-list-cycle) |
 ## Matrix
 |  |
 | ------- |
@@ -58,4 +59,12 @@
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/cristobalza/just_code_it_v2/tree/master/0112-path-sum) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/cristobalza/just_code_it_v2/tree/master/0141-linked-list-cycle) |
+## Two Pointers
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/cristobalza/just_code_it_v2/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
