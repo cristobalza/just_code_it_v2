@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/cristobalza/just_code_it_v2/tree/master/0112-path-sum) |
+| [0226-invert-binary-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/cristobalza/just_code_it_v2/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/cristobalza/just_code_it_v2/tree/master/0463-island-perimeter) |
 ## Math
@@ -50,15 +51,18 @@
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/cristobalza/just_code_it_v2/tree/master/0112-path-sum) |
+| [0226-invert-binary-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/cristobalza/just_code_it_v2/tree/master/0463-island-perimeter) |
 ## Tree
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/cristobalza/just_code_it_v2/tree/master/0112-path-sum) |
+| [0226-invert-binary-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/cristobalza/just_code_it_v2/tree/master/0112-path-sum) |
+| [0226-invert-binary-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/0226-invert-binary-tree) |
 ## Linked List
 |  |
 | ------- |
