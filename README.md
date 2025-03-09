@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/cristobalza/just_code_it_v2/tree/master/0001-two-sum) |
 | [0056-merge-intervals](https://github.com/cristobalza/just_code_it_v2/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/cristobalza/just_code_it_v2/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/cristobalza/just_code_it_v2/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -48,6 +49,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/cristobalza/just_code_it_v2/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/cristobalza/just_code_it_v2/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/cristobalza/just_code_it_v2/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/cristobalza/just_code_it_v2/tree/master/0217-contains-duplicate) |
