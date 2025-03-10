@@ -10,6 +10,7 @@
 | [0056-merge-intervals](https://github.com/cristobalza/just_code_it_v2/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/cristobalza/just_code_it_v2/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/cristobalza/just_code_it_v2/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/cristobalza/just_code_it_v2/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/cristobalza/just_code_it_v2/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/cristobalza/just_code_it_v2/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/cristobalza/just_code_it_v2/tree/master/0238-product-of-array-except-self) |
@@ -58,6 +59,7 @@
 | [0036-valid-sudoku](https://github.com/cristobalza/just_code_it_v2/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/cristobalza/just_code_it_v2/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/cristobalza/just_code_it_v2/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/cristobalza/just_code_it_v2/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/cristobalza/just_code_it_v2/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/cristobalza/just_code_it_v2/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/cristobalza/just_code_it_v2/tree/master/0242-valid-anagram) |
@@ -140,4 +142,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/cristobalza/just_code_it_v2/tree/master/0238-product-of-array-except-self) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/cristobalza/just_code_it_v2/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
