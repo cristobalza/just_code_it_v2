@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/cristobalza/just_code_it_v2/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/cristobalza/just_code_it_v2/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/cristobalza/just_code_it_v2/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/cristobalza/just_code_it_v2/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/cristobalza/just_code_it_v2/tree/master/0073-set-matrix-zeroes) |
@@ -54,6 +55,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/cristobalza/just_code_it_v2/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/cristobalza/just_code_it_v2/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/cristobalza/just_code_it_v2/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/cristobalza/just_code_it_v2/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/cristobalza/just_code_it_v2/tree/master/0141-linked-list-cycle) |
@@ -63,6 +65,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/cristobalza/just_code_it_v2/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/cristobalza/just_code_it_v2/tree/master/0073-set-matrix-zeroes) |
 | [0417-pacific-atlantic-water-flow](https://github.com/cristobalza/just_code_it_v2/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/cristobalza/just_code_it_v2/tree/master/0463-island-perimeter) |
