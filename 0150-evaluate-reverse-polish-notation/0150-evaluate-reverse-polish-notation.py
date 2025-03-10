@@ -22,7 +22,6 @@ class Solution:
                 digit_a = stack.pop()
                 digit_b = stack.pop()
                 stack.append(digit_a * digit_b)
-                print(stack[-1])
             elif token == "/":
                 digit_a = stack.pop()
                 digit_b = stack.pop()
