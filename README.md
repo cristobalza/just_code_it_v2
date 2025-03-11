@@ -24,6 +24,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/cristobalza/just_code_it_v2/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/cristobalza/just_code_it_v2/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/cristobalza/just_code_it_v2/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/cristobalza/just_code_it_v2/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -51,6 +52,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/cristobalza/just_code_it_v2/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/cristobalza/just_code_it_v2/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/cristobalza/just_code_it_v2/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/cristobalza/just_code_it_v2/tree/master/0242-valid-anagram) |
 ## Stack
@@ -165,4 +167,8 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/cristobalza/just_code_it_v2/tree/master/0055-jump-game) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/cristobalza/just_code_it_v2/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
