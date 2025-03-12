@@ -55,6 +55,7 @@
 | [0020-valid-parentheses](https://github.com/cristobalza/just_code_it_v2/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/cristobalza/just_code_it_v2/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/cristobalza/just_code_it_v2/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/cristobalza/just_code_it_v2/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/cristobalza/just_code_it_v2/tree/master/0242-valid-anagram) |
 ## Stack
 |  |
@@ -108,6 +109,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/cristobalza/just_code_it_v2/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/cristobalza/just_code_it_v2/tree/master/0141-linked-list-cycle) |
 ## Recursion
 |  |
