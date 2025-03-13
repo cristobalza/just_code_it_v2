@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/cristobalza/just_code_it_v2/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/cristobalza/just_code_it_v2/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/cristobalza/just_code_it_v2/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/cristobalza/just_code_it_v2/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/cristobalza/just_code_it_v2/tree/master/0049-group-anagrams) |
@@ -111,6 +112,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/cristobalza/just_code_it_v2/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/cristobalza/just_code_it_v2/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/cristobalza/just_code_it_v2/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/cristobalza/just_code_it_v2/tree/master/0141-linked-list-cycle) |
@@ -176,6 +178,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/cristobalza/just_code_it_v2/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/cristobalza/just_code_it_v2/tree/master/0055-jump-game) |
 ## Backtracking
 |  |
