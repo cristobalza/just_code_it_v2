@@ -1,25 +1,24 @@
 class Solution:
     def generateParenthesis(self, n: int) -> List[str]:
 
-
-        def backtrack(start, end, stack):
-            nonlocal res, n
+        def backtrack(start, end, subset):
 
             if start == end == n:
-                res.append("".join(stack))
-                return 
-            
+                res.append("".join(subset))
+                return
+
             if start < n:
-                stack.append("(")
-                backtrack(start + 1, end, stack)
-                stack.pop()
+                subset.append("(")
+                backtrack(start + 1, end, subset)
+                subset.pop()
             if end < start:
-                stack.append(")")
-                backtrack(start, end + 1, stack)
-                stack.pop() 
+                subset.append(")")
+                backtrack(start, end + 1, subset)
+                subset.pop()
+            
+            return
 
         res = []
         backtrack(0, 0, [])
         return res
-
-
+        
