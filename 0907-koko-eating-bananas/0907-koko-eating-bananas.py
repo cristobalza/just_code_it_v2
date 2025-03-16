@@ -20,7 +20,3 @@ class Solution:
                 l = speed_k + 1
 
         return res
-
-                
-
-
