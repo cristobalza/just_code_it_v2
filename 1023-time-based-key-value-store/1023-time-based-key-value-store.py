@@ -10,9 +10,6 @@ class TimeMap:
         arr = self.hashmap.get(key, None)
         if arr is None:
             return ""
-        
-        if len(arr) == 0:
-            return ""
 
         l, r = 0, len(arr)
 
