@@ -70,6 +70,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/cristobalza/just_code_it_v2/tree/master/0020-valid-parentheses) |
+| [0143-reorder-list](https://github.com/cristobalza/just_code_it_v2/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/cristobalza/just_code_it_v2/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/cristobalza/just_code_it_v2/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/cristobalza/just_code_it_v2/tree/master/0739-daily-temperatures) |
@@ -118,6 +119,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/cristobalza/just_code_it_v2/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/cristobalza/just_code_it_v2/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/cristobalza/just_code_it_v2/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/cristobalza/just_code_it_v2/tree/master/0206-reverse-linked-list) |
 ## Two Pointers
 |  |
@@ -126,11 +128,13 @@
 | [0015-3sum](https://github.com/cristobalza/just_code_it_v2/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/cristobalza/just_code_it_v2/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/cristobalza/just_code_it_v2/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/cristobalza/just_code_it_v2/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/cristobalza/just_code_it_v2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/cristobalza/just_code_it_v2/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/cristobalza/just_code_it_v2/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/cristobalza/just_code_it_v2/tree/master/0206-reverse-linked-list) |
 ## Sorting
 |  |
