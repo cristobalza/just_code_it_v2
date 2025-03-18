@@ -42,6 +42,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/cristobalza/just_code_it_v2/tree/master/0112-path-sum) |
 | [0207-course-schedule](https://github.com/cristobalza/just_code_it_v2/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/0226-invert-binary-tree) |
@@ -102,6 +103,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/0098-validate-binary-search-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/cristobalza/just_code_it_v2/tree/master/0112-path-sum) |
 | [0207-course-schedule](https://github.com/cristobalza/just_code_it_v2/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/0226-invert-binary-tree) |
@@ -111,12 +113,14 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/0098-validate-binary-search-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/cristobalza/just_code_it_v2/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/0098-validate-binary-search-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/cristobalza/just_code_it_v2/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/0226-invert-binary-tree) |
 ## Linked List
