@@ -1,18 +1,19 @@
 class Solution:
     def coinChange(self, coins: List[int], amount: int) -> int:
-        memo = {}
+        dp = [float("inf")] * (amount + 1)
 
-        def dp(total):
-            if total == 0:
-                return 0
-            if total in memo:
-                return memo[total]
-            fewest_number_res = float("inf")
+        dp[0] = 0
+
+        for i in range(1, amount + 1):
+
             for coin in coins:
-                if total - coin >= 0:
-                    fewest_number_res = min(fewest_number_res, 1 + dp(total - coin))
-            memo[total] = fewest_number_res
-            return fewest_number_res
 
-        res = dp(amount)
-        return res if res != float("inf") else -1
+                if 0 <= i - coin:
+
+                    dp[i] = min(dp[i], 1 + dp[i - coin])
+
+        
+        return dp[-1] if dp[-1] != float("inf") else -1 
+
+        
+        
