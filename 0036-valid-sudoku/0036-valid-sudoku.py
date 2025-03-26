@@ -1,25 +1,28 @@
 class Solution:
     def isValidSudoku(self, board: List[List[str]]) -> bool:
-        # Check no dups in given row
-        # Check no dups in given col
-        # Check no dups in given square -> check r//3, c//3
+
+        m, n = len(board), len(board[0])
 
         row_dict = collections.defaultdict(set)
         col_dict = collections.defaultdict(set)
         square_dict = collections.defaultdict(set)
 
-        for row in range(9):
-            for col in range(9):
-                if board[row][col] == ".":
+        for r in range(m):
+            for c in range(n):
+                current_entry = board[r][c]
+                if current_entry == ".":
                     continue
+
                 if (
-                    board[row][col] in row_dict[row] or
-                    board[row][col] in col_dict[col] or
-                    board[row][col] in square_dict[(row // 3, col // 3)]
-                ):
+                    current_entry in row_dict[r] or
+                    current_entry in col_dict[c] or 
+                    current_entry in square_dict[(r // 3, c // 3)]
+                    ):
                     return False
                 else:
-                    row_dict[row].add(board[row][col])
-                    col_dict[col].add(board[row][col])
-                    square_dict[(row // 3, col // 3)].add(board[row][col])
+                    row_dict[r].add(current_entry)
+                    col_dict[c].add(current_entry)
+                    square_dict[(r // 3, c // 3)].add(current_entry)
+
         return True
+
