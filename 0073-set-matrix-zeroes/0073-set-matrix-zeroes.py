@@ -3,27 +3,34 @@ class Solution:
         """
         Do not return anything, modify matrix in-place instead.
         """
-        hs = set()
+
         m, n = len(matrix), len(matrix[0])
+        zeroes_hs = set()
+        
+        # Collect zeroes
+        for r in range(m):
+            for c in range(n):
+                if matrix[r][c] == 0:
+                    zeroes_hs.add((r, c))
 
-        for row in range(m):
-            for col in range(n):
-                if matrix[row][col] == 0:
-                    hs.add((row, col))
         
-        if len(hs) == 0:
-            return None
-        
-        def helper(target_row, target_col):
-            
-            # Set all rows to zero.
-            for row in range(m):
-                matrix[row][target_col] = 0
-        
-            # Set all cols to zero.
-            for col in range(n):
-                matrix[target_row][col] = 0
+        # Explore
 
-        for row, col in hs:
-            helper(row, col)
-        
+        while zeroes_hs:
+            pivot_r, pivot_c = zeroes_hs.pop()
+
+            # Go down
+            for r in range(pivot_r, m):
+                matrix[r][pivot_c] = 0
+
+            # Go up
+            for r in range(m - 1, -pivot_r, -1):
+                matrix[r][pivot_c] = 0
+
+            # Go right
+            for c in range(pivot_c, n):
+                matrix[pivot_r][c] = 0
+
+            # Go left
+            for c in range(n - 1, -pivot_c, -1):
+                matrix[pivot_r][c] = 0
