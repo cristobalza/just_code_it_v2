@@ -15,22 +15,21 @@ class Solution:
 
         
         # Explore
-
         while zeroes_hs:
             pivot_r, pivot_c = zeroes_hs.pop()
 
             # Go down
-            for r in range(pivot_r, m):
+            for r in range(pivot_r + 1, m):
                 matrix[r][pivot_c] = 0
 
             # Go up
-            for r in range(m - 1, -pivot_r, -1):
+            for r in range(m - 1, -pivot_r - 1, -1):
                 matrix[r][pivot_c] = 0
 
             # Go right
-            for c in range(pivot_c, n):
+            for c in range(pivot_c + 1, n):
                 matrix[pivot_r][c] = 0
 
             # Go left
-            for c in range(n - 1, -pivot_c, -1):
+            for c in range(n - 1, -pivot_c - 1, -1):
                 matrix[pivot_r][c] = 0
