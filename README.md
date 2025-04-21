@@ -9,6 +9,7 @@
 | [0015-3sum](https://github.com/cristobalza/just_code_it_v2/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/cristobalza/just_code_it_v2/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/cristobalza/just_code_it_v2/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/cristobalza/just_code_it_v2/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/cristobalza/just_code_it_v2/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/cristobalza/just_code_it_v2/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/cristobalza/just_code_it_v2/tree/master/0054-spiral-matrix) |
@@ -58,6 +59,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/cristobalza/just_code_it_v2/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/cristobalza/just_code_it_v2/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/cristobalza/just_code_it_v2/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/cristobalza/just_code_it_v2/tree/master/0268-missing-number) |
@@ -104,6 +106,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/cristobalza/just_code_it_v2/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/cristobalza/just_code_it_v2/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/cristobalza/just_code_it_v2/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/cristobalza/just_code_it_v2/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/cristobalza/just_code_it_v2/tree/master/0074-search-a-2d-matrix) |
