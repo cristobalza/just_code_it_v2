@@ -46,6 +46,7 @@
 | [0053-maximum-subarray](https://github.com/cristobalza/just_code_it_v2/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/cristobalza/just_code_it_v2/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/cristobalza/just_code_it_v2/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/cristobalza/just_code_it_v2/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/cristobalza/just_code_it_v2/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/cristobalza/just_code_it_v2/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/cristobalza/just_code_it_v2/tree/master/0198-house-robber) |
@@ -79,6 +80,7 @@
 | [0020-valid-parentheses](https://github.com/cristobalza/just_code_it_v2/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/cristobalza/just_code_it_v2/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/cristobalza/just_code_it_v2/tree/master/0049-group-anagrams) |
+| [0091-decode-ways](https://github.com/cristobalza/just_code_it_v2/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/cristobalza/just_code_it_v2/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/cristobalza/just_code_it_v2/tree/master/0242-valid-anagram) |
 | [0271-encode-and-decode-strings](https://github.com/cristobalza/just_code_it_v2/tree/master/0271-encode-and-decode-strings) |
