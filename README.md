@@ -29,6 +29,7 @@
 | [0238-product-of-array-except-self](https://github.com/cristobalza/just_code_it_v2/tree/master/0238-product-of-array-except-self) |
 | [0252-meeting-rooms](https://github.com/cristobalza/just_code_it_v2/tree/master/0252-meeting-rooms) |
 | [0268-missing-number](https://github.com/cristobalza/just_code_it_v2/tree/master/0268-missing-number) |
+| [0271-encode-and-decode-strings](https://github.com/cristobalza/just_code_it_v2/tree/master/0271-encode-and-decode-strings) |
 | [0322-coin-change](https://github.com/cristobalza/just_code_it_v2/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/cristobalza/just_code_it_v2/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/cristobalza/just_code_it_v2/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -80,6 +81,7 @@
 | [0049-group-anagrams](https://github.com/cristobalza/just_code_it_v2/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/cristobalza/just_code_it_v2/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/cristobalza/just_code_it_v2/tree/master/0242-valid-anagram) |
+| [0271-encode-and-decode-strings](https://github.com/cristobalza/just_code_it_v2/tree/master/0271-encode-and-decode-strings) |
 | [1023-time-based-key-value-store](https://github.com/cristobalza/just_code_it_v2/tree/master/1023-time-based-key-value-store) |
 ## Stack
 |  |
@@ -237,6 +239,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/cristobalza/just_code_it_v2/tree/master/0155-min-stack) |
+| [0271-encode-and-decode-strings](https://github.com/cristobalza/just_code_it_v2/tree/master/0271-encode-and-decode-strings) |
 | [0295-find-median-from-data-stream](https://github.com/cristobalza/just_code_it_v2/tree/master/0295-find-median-from-data-stream) |
 | [1023-time-based-key-value-store](https://github.com/cristobalza/just_code_it_v2/tree/master/1023-time-based-key-value-store) |
 ## Binary Search
