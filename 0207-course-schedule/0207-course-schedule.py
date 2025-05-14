@@ -1,9 +1,8 @@
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
-        course_visit_set = set()
-
+        
         def dfs(course, course_cycle_set):
-            nonlocal course_visit_set
+            nonlocal course_visit_set, graph
 
             if course in course_cycle_set:
                 return False
@@ -21,6 +20,8 @@ class Solution:
             course_visit_set.add(course)
 
             return True
+
+        course_visit_set = set()
 
         graph = {course_num : [] for course_num in range(numCourses)}
 
