@@ -1,33 +1,34 @@
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
-        def dfs(course):
-            nonlocal cycle_set, course_set, graph
+        course_visit_set = set()
 
-            if course in cycle_set:
+        def dfs(course, course_cycle_set):
+            nonlocal course_visit_set
+
+            if course in course_cycle_set:
                 return False
-            if course in course_set:
-                return True
-            
-            cycle_set.add(course)
 
-            for course_explore in graph[course]:
-                if not dfs(course_explore):
+            if course in course_visit_set:
+                return True
+
+            course_cycle_set.add(course)
+
+            for next_course in graph[course]:
+                if not dfs(next_course, course_cycle_set):
                     return False
-            course_set.add(course)
-            cycle_set.remove(course)
+            
+            course_cycle_set.remove(course)
+            course_visit_set.add(course)
 
             return True
 
-        cycle_set, course_set = set(), set()
-        
-        graph = {course: [] for course in range(numCourses)}
+        graph = {course_num : [] for course_num in range(numCourses)}
 
-        for pre_req, course in prerequisites:
-            graph[pre_req].append(course)
-
+        for a, b in prerequisites:
+            graph[a].append(b)
 
         for course in range(numCourses):
-            if not dfs(course):
+            if not dfs(course, set()):
                 return False
-        
         return True
+        
