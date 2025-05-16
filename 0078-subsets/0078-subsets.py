@@ -8,8 +8,11 @@ class Solution:
                 res.append(subset[:])
                 return
 
+            # Decision to add current value
             subset.append(nums[i])
             backtrack(i + 1, subset)
+
+            # Decision to rm current value
             subset.pop()
             backtrack(i + 1, subset)
 
@@ -20,6 +23,3 @@ class Solution:
         backtrack(0, [])
 
         return res
-            
-
-        
