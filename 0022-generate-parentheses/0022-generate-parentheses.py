@@ -11,14 +11,23 @@ class Solution:
                 subset.append("(")
                 backtrack(start + 1, end, subset)
                 subset.pop()
+
             if end < start:
                 subset.append(")")
                 backtrack(start, end + 1, subset)
                 subset.pop()
-            
+
             return
 
         res = []
+
         backtrack(0, 0, [])
+
         return res
+
+
+            
+
+
+                
         
