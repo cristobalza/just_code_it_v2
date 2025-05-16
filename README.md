@@ -17,6 +17,7 @@
 | [0056-merge-intervals](https://github.com/cristobalza/just_code_it_v2/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/cristobalza/just_code_it_v2/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/cristobalza/just_code_it_v2/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/cristobalza/just_code_it_v2/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/cristobalza/just_code_it_v2/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/cristobalza/just_code_it_v2/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/cristobalza/just_code_it_v2/tree/master/0128-longest-consecutive-sequence) |
@@ -265,6 +266,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/cristobalza/just_code_it_v2/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/cristobalza/just_code_it_v2/tree/master/0078-subsets) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -282,6 +284,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/cristobalza/just_code_it_v2/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/cristobalza/just_code_it_v2/tree/master/0268-missing-number) |
 ## Data Stream
 |  |
