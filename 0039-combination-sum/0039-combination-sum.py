@@ -2,7 +2,6 @@ class Solution:
     def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
 
         def backtrack(i, subset):
-            nonlocal target, res, candidates
 
             if subset and sum(subset) == target:
                 res.add(tuple(subset[:]))
