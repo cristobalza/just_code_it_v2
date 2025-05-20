@@ -21,6 +21,7 @@
 | [0073-set-matrix-zeroes](https://github.com/cristobalza/just_code_it_v2/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/cristobalza/just_code_it_v2/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/cristobalza/just_code_it_v2/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/cristobalza/just_code_it_v2/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/cristobalza/just_code_it_v2/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/cristobalza/just_code_it_v2/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/cristobalza/just_code_it_v2/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -85,6 +86,7 @@
 | [0020-valid-parentheses](https://github.com/cristobalza/just_code_it_v2/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/cristobalza/just_code_it_v2/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/cristobalza/just_code_it_v2/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/cristobalza/just_code_it_v2/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/cristobalza/just_code_it_v2/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/cristobalza/just_code_it_v2/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/cristobalza/just_code_it_v2/tree/master/0242-valid-anagram) |
@@ -123,12 +125,14 @@
 | [0054-spiral-matrix](https://github.com/cristobalza/just_code_it_v2/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/cristobalza/just_code_it_v2/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/cristobalza/just_code_it_v2/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/cristobalza/just_code_it_v2/tree/master/0079-word-search) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/cristobalza/just_code_it_v2/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/cristobalza/just_code_it_v2/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/cristobalza/just_code_it_v2/tree/master/0463-island-perimeter) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/cristobalza/just_code_it_v2/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/cristobalza/just_code_it_v2/tree/master/0112-path-sum) |
@@ -274,6 +278,7 @@
 | [0040-combination-sum-ii](https://github.com/cristobalza/just_code_it_v2/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/cristobalza/just_code_it_v2/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/cristobalza/just_code_it_v2/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/cristobalza/just_code_it_v2/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/cristobalza/just_code_it_v2/tree/master/0090-subsets-ii) |
 ## Monotonic Stack
 |  |
