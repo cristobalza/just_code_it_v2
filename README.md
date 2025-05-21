@@ -170,6 +170,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/cristobalza/just_code_it_v2/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/cristobalza/just_code_it_v2/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/cristobalza/just_code_it_v2/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/cristobalza/just_code_it_v2/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/cristobalza/just_code_it_v2/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/cristobalza/just_code_it_v2/tree/master/0143-reorder-list) |
@@ -218,12 +219,14 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/cristobalza/just_code_it_v2/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/cristobalza/just_code_it_v2/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/cristobalza/just_code_it_v2/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/cristobalza/just_code_it_v2/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/cristobalza/just_code_it_v2/tree/master/0023-merge-k-sorted-lists) |
 | [0295-find-median-from-data-stream](https://github.com/cristobalza/just_code_it_v2/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/cristobalza/just_code_it_v2/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/cristobalza/just_code_it_v2/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -311,4 +314,8 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/cristobalza/just_code_it_v2/tree/master/0054-spiral-matrix) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/cristobalza/just_code_it_v2/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
