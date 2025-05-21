@@ -5,24 +5,39 @@
 #         self.next = next
 class Solution:
     def mergeKLists(self, lists: List[Optional[ListNode]]) -> Optional[ListNode]:
+        if not lists or len(lists) == 0:
+            return None
 
-        minheap = []
+        curr = lists[0]
+        dummy = ListNode(-1, curr)
 
-        for _linkedlist in lists:
-            curr = _linkedlist
-            while curr:
-                heapq.heappush(minheap, curr.val)
-                curr = curr.next
+        for i in range(1, len(lists)):
+            new_linkedlist = lists[i]
+            curr = self.mergeTwoLinkedLists(curr, new_linkedlist)
+        
+        return curr
+
+
+        
+    def mergeTwoLinkedLists(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
 
         dummy = ListNode(-1)
-        prev = dummy
+        curr = dummy
 
-        while minheap:
-            val = heapq.heappop(minheap)
-
-            curr = ListNode(val)
-
-            prev.next = curr
-            prev = curr
+        while l1 and l2:
+            if l1.val < l2.val:
+                new_node = ListNode(l1.val)
+                l1 = l1.next
+            else:
+                new_node = ListNode(l2.val)
+                l2 = l2.next
+            
+            curr.next = new_node
+            curr = curr.next
+        
+        if l1:
+            curr.next = l1
+        else:
+            curr.next = l2
 
         return dummy.next
