@@ -1,33 +1,42 @@
 class Solution:
     def pacificAtlantic(self, heights: List[List[int]]) -> List[List[int]]:
+        # Run dfs from atlantic (ROWS, 0) to pacific (0, COLS)
 
-        def dfs(row, col, ocean_set, prev_height):
-            nonlocal m, n, heights
-
-            if 0 <= row < m and 0 <= col < n and (row, col) not in ocean_set and heights[row][col] >= prev_height:
-                ocean_set.add((row, col))
+        def dfs(r, c, visited, prev_h):
             
-                for next_row, next_col in [(row + 1, col), (row - 1, col), (row, col + 1), (row, col - 1)]:
-                    dfs(next_row, next_col, ocean_set, heights[row][col])
+            if (r, c) in visited or r < 0 or c < 0 or r == ROWS or c == COLS:
+                return 
+
+            curr_h = heights[r][c]
+
+            if prev_h > curr_h:
+                return
+            
+            visited.add((r, c))
         
+            for _r, _c in [(r + 1, c), (r - 1, c), (r, c + 1), (r, c - 1)]:
+                dfs(_r, _c, visited, curr_h)
+            
+            return
 
-        m, n = len(heights), len(heights[0])
+        
+        ROWS, COLS = len(heights), len(heights[0])
 
-        pacific_set, atlantic_set = set(), set()
+        atlantic_set, pacific_set = set(), set()
 
-        for row in range(m):
-            dfs(row, 0, pacific_set, heights[row][0])
-            dfs(row, n - 1, atlantic_set, heights[row][n - 1])
+        for r in range(ROWS):
+            dfs(r, 0, pacific_set, heights[r][0])
+            dfs(r, COLS - 1, atlantic_set, heights[r][COLS - 1])
 
-        for col in range(n):
-            dfs(0, col, pacific_set, heights[0][col])
-            dfs(m - 1, col, atlantic_set, heights[m - 1][col])
-
+        for c in range(COLS):
+            dfs(0, c, pacific_set, heights[0][c])
+            dfs(ROWS - 1, c, atlantic_set, heights[ROWS - 1][c])
 
         res = []
-        for row in range(m):
-            for col in range(n):
-                if (row, col) in pacific_set and (row, col) in atlantic_set:
-                    res.append([row, col])
 
-        return res 
+        for r in range(ROWS):
+            for c in range(COLS):
+                if (r, c) in pacific_set and (r, c) in atlantic_set:
+                    res.append((r, c))
+
+        return res
