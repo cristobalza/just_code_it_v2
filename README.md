@@ -143,6 +143,7 @@
 | [0207-course-schedule](https://github.com/cristobalza/just_code_it_v2/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/cristobalza/just_code_it_v2/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/cristobalza/just_code_it_v2/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/cristobalza/just_code_it_v2/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/0543-diameter-of-binary-tree) |
@@ -158,6 +159,7 @@
 | [0112-path-sum](https://github.com/cristobalza/just_code_it_v2/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/cristobalza/just_code_it_v2/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/0572-subtree-of-another-tree) |
 ## Binary Tree
@@ -170,6 +172,7 @@
 | [0112-path-sum](https://github.com/cristobalza/just_code_it_v2/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/cristobalza/just_code_it_v2/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/0572-subtree-of-another-tree) |
 ## Linked List
@@ -307,6 +310,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/cristobalza/just_code_it_v2/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
