@@ -60,6 +60,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/cristobalza/just_code_it_v2/tree/master/0112-path-sum) |
 | [0207-course-schedule](https://github.com/cristobalza/just_code_it_v2/tree/master/0207-course-schedule) |
@@ -136,6 +137,7 @@
 | ------- |
 | [0079-word-search](https://github.com/cristobalza/just_code_it_v2/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/cristobalza/just_code_it_v2/tree/master/0112-path-sum) |
 | [0207-course-schedule](https://github.com/cristobalza/just_code_it_v2/tree/master/0207-course-schedule) |
@@ -149,6 +151,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/cristobalza/just_code_it_v2/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/cristobalza/just_code_it_v2/tree/master/0112-path-sum) |
@@ -159,6 +162,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/cristobalza/just_code_it_v2/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/cristobalza/just_code_it_v2/tree/master/0112-path-sum) |
