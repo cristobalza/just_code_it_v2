@@ -31,6 +31,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/cristobalza/just_code_it_v2/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/cristobalza/just_code_it_v2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/cristobalza/just_code_it_v2/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/cristobalza/just_code_it_v2/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/cristobalza/just_code_it_v2/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/cristobalza/just_code_it_v2/tree/master/0238-product-of-array-except-self) |
 | [0252-meeting-rooms](https://github.com/cristobalza/just_code_it_v2/tree/master/0252-meeting-rooms) |
@@ -64,6 +65,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/cristobalza/just_code_it_v2/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/cristobalza/just_code_it_v2/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/cristobalza/just_code_it_v2/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/cristobalza/just_code_it_v2/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/cristobalza/just_code_it_v2/tree/master/0322-coin-change) |
@@ -130,6 +132,7 @@
 | [0073-set-matrix-zeroes](https://github.com/cristobalza/just_code_it_v2/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/cristobalza/just_code_it_v2/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/cristobalza/just_code_it_v2/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/cristobalza/just_code_it_v2/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/cristobalza/just_code_it_v2/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/cristobalza/just_code_it_v2/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/cristobalza/just_code_it_v2/tree/master/0463-island-perimeter) |
@@ -141,6 +144,7 @@
 | [0100-same-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/cristobalza/just_code_it_v2/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/cristobalza/just_code_it_v2/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/cristobalza/just_code_it_v2/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/cristobalza/just_code_it_v2/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -263,6 +267,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/cristobalza/just_code_it_v2/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/cristobalza/just_code_it_v2/tree/master/0200-number-of-islands) |
 | [2793-count-the-number-of-complete-components](https://github.com/cristobalza/just_code_it_v2/tree/master/2793-count-the-number-of-complete-components) |
 ## Design
 |  |
