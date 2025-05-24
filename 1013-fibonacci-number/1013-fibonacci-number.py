@@ -1,10 +1,15 @@
 class Solution:
     def fib(self, n: int) -> int:
         
-        def _fib(n):
+        def _fib(n, memo):
             if n <= 1:
                 return n
 
-            return _fib(n - 1) + _fib(n - 2)
+            if n in memo:
+                return memo[n]
+            
+            memo[n] = _fib(n - 1, memo) + _fib(n - 2, memo)
+            
+            return memo[n]
 
-        return _fib(n)
+        return _fib(n, {})
