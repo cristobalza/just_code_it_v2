@@ -1,16 +1,22 @@
 class Solution:
     def rob(self, nums: List[int]) -> int:
+        
+        def helper(i):
 
-        if len(nums) < 3:
-            return max(nums)
-            
-        dp = [0] * len(nums)
+            if i >= n:
+                return 0
 
-        dp[0] = nums[0]
+            if memo[i] != float("inf"):
+                return memo[i]
 
-        dp[1] = max(nums[0], nums[1])
+            memo[i] = max(helper(i + 1), nums[i] + helper(i + 2))
 
-        for i in range(2, len(nums)):
-            dp[i] = max(dp[i-2] + nums[i], dp[i-1])
+            return memo[i]
 
-        return dp[-1]
+        n = len(nums)
+        memo = [float("inf")] * (n)
+        
+        return helper(0)
+
+        
+        
