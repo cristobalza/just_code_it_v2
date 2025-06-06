@@ -50,6 +50,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/cristobalza/just_code_it_v2/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/cristobalza/just_code_it_v2/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/cristobalza/just_code_it_v2/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/cristobalza/just_code_it_v2/tree/master/0055-jump-game) |
@@ -93,6 +94,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/cristobalza/just_code_it_v2/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/cristobalza/just_code_it_v2/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/cristobalza/just_code_it_v2/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/cristobalza/just_code_it_v2/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/cristobalza/just_code_it_v2/tree/master/0049-group-anagrams) |
@@ -202,6 +204,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/cristobalza/just_code_it_v2/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/cristobalza/just_code_it_v2/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/cristobalza/just_code_it_v2/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/cristobalza/just_code_it_v2/tree/master/0019-remove-nth-node-from-end-of-list) |
