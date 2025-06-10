@@ -1,23 +1,22 @@
 class Solution:
     def insert(self, intervals: List[List[int]], newInterval: List[int]) -> List[List[int]]:
-        # case 1 you insert the newInterval and append the rest of the intervals
-        # case 2 
-
-
         stack = []
 
-        for i, interval in enumerate(intervals):
+        for i, iv in enumerate(intervals):
 
-            if newInterval[1] < interval[0]:
+            if newInterval[1] < iv[0]:
                 stack.append(newInterval)
                 return stack + intervals[i:]
 
-            elif interval[1] < newInterval[0]:
-                stack.append(interval)
-
+            elif iv[1] < newInterval[0]:
+                stack.append(iv)
+            
             else:
-                newInterval = [min(interval[0], newInterval[0]), max(interval[1], newInterval[1])]
-
+                newInterval = [
+                    min(iv[0], newInterval[0]),
+                    max(iv[1], newInterval[1])
+                    ]
+            
         stack.append(newInterval)
 
         return stack
