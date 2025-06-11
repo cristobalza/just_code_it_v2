@@ -1,26 +1,33 @@
 class Solution:
     def eraseOverlapIntervals(self, intervals: List[List[int]]) -> int:
-        # sort it 
-        # iterate through and check for start and end 
-            # use a stack store only the non overlapping ones
-        # substract the len(stack) - len(intervals)
+
+        """
+
+            ---
+          ---
+        -----
+        ---
+        1 2 3 4
+        """
+
+        res = 0
 
         intervals.sort(key=lambda x: x[0])
 
-        stack = []
+        prev = intervals[0]
 
-        for i, interval in enumerate(intervals):
+        for i, iv in enumerate(intervals[1:]):
 
-            if i == 0:
-                stack.append(interval)
+            if prev[1] > iv[0]:
+                res += 1
+                prev = [iv[0], min(iv[1], prev[1])]
 
-            elif interval[1] < stack[-1][1]:
-                stack.pop()
-                stack.append(interval)
-            elif stack[-1][1] > interval[0]:
-                continue
             else:
-                stack.append(interval)
+                prev = iv
+                
+        return res
+        
 
-        return len(intervals) - len(stack)
+
+
         
