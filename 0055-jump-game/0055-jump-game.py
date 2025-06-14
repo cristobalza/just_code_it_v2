@@ -1,29 +1,21 @@
 class Solution:
     def canJump(self, nums: List[int]) -> bool:
-        
-        def helper(i):
-            
-            if i in memo:
-                return memo[i]
 
-            if i >= (n - 1):
-                memo[i] = True
-                return True
+        n = len(nums)
 
-            if nums[i] == 0:
-                memo[i] = False
+        dp = [False] * n
+
+        dp[0] = True
+
+        for i in range(n):
+
+            if dp[i] is False:
                 return False
-
-            jump = min(i + nums[i], n - 1) # keep in bound for the iteration
+ 
+            jump = min(i + nums[i], n - 1)
 
             for j in range(i + 1, jump + 1):
-                if helper(j):
-                    memo[i] = True
-                    return True
+                dp[j] = True
 
-            memo[i] = False
-            return False
-            
-        n = len(nums)
-        memo = {}
-        return helper(0)
+        return dp[-1]
+        
