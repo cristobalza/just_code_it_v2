@@ -1,16 +1,14 @@
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
 
-        if len(s) != len(t):
-            return False 
+        def helper(word):
+            res = [0] * 26
 
-        s_list = [0] * 26
-        t_list = [0] * 26
+            for char in word:
+                res[ord(char) - ord("a")] += 1
+            
+            return res
 
-        for char in s:
-            s_list[ord(char) - ord("a")] += 1
+        s_res, t_res = helper(s), helper(t)
 
-        for char in t:
-            t_list[ord(char) - ord("a")] += 1
-
-        return s_list == t_list
+        return s_res == t_res
