@@ -12,9 +12,6 @@ class Solution:
 
         hmap = {A: 2, B: 3}
 
-
-
-
         """
 
         if len(s) == 0:
