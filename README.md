@@ -384,5 +384,6 @@
 ## Database
 |  |
 | ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/cristobalza/just_code_it_v2/tree/master/1908-recyclable-and-low-fat-products) |
 | [2484-compute-the-rank-as-a-percentage](https://github.com/cristobalza/just_code_it_v2/tree/master/2484-compute-the-rank-as-a-percentage) |
 <!---LeetCode Topics End-->
