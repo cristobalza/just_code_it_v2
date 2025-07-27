@@ -9,7 +9,7 @@ def compute_rating(students: pd.DataFrame) -> pd.DataFrame:
     
     df['percentage']=np.where(
         df['count']>1,
-        round((df['rank']-1)*100/(df['count']-1),2),0.0
+        np.round((df['rank']-1)*100/(df['count']-1),2),0.0
     )
     
     result = df[["student_id", "department_id", "percentage"]].sort_values(
