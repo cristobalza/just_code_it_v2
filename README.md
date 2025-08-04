@@ -384,6 +384,7 @@
 ## Database
 |  |
 | ------- |
+| [1415-students-and-examinations](https://github.com/cristobalza/just_code_it_v2/tree/master/1415-students-and-examinations) |
 | [1908-recyclable-and-low-fat-products](https://github.com/cristobalza/just_code_it_v2/tree/master/1908-recyclable-and-low-fat-products) |
 | [2484-compute-the-rank-as-a-percentage](https://github.com/cristobalza/just_code_it_v2/tree/master/2484-compute-the-rank-as-a-percentage) |
 | [3340-snaps-analysis](https://github.com/cristobalza/just_code_it_v2/tree/master/3340-snaps-analysis) |
