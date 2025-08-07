@@ -397,6 +397,7 @@
 | [2484-compute-the-rank-as-a-percentage](https://github.com/cristobalza/just_code_it_v2/tree/master/2484-compute-the-rank-as-a-percentage) |
 | [2830-count-artist-occurrences-on-spotify-ranking-list](https://github.com/cristobalza/just_code_it_v2/tree/master/2830-count-artist-occurrences-on-spotify-ranking-list) |
 | [3340-snaps-analysis](https://github.com/cristobalza/just_code_it_v2/tree/master/3340-snaps-analysis) |
+| [3539-customer-purchasing-behavior-analysis](https://github.com/cristobalza/just_code_it_v2/tree/master/3539-customer-purchasing-behavior-analysis) |
 | [3660-second-highest-salary-ii](https://github.com/cristobalza/just_code_it_v2/tree/master/3660-second-highest-salary-ii) |
 | [3891-find-category-recommendation-pairs](https://github.com/cristobalza/just_code_it_v2/tree/master/3891-find-category-recommendation-pairs) |
 <!---LeetCode Topics End-->
