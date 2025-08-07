@@ -391,6 +391,7 @@
 | [1291-immediate-food-delivery-i](https://github.com/cristobalza/just_code_it_v2/tree/master/1291-immediate-food-delivery-i) |
 | [1415-students-and-examinations](https://github.com/cristobalza/just_code_it_v2/tree/master/1415-students-and-examinations) |
 | [1607-rectangles-area](https://github.com/cristobalza/just_code_it_v2/tree/master/1607-rectangles-area) |
+| [1718-warehouse-manager](https://github.com/cristobalza/just_code_it_v2/tree/master/1718-warehouse-manager) |
 | [1759-find-the-missing-ids](https://github.com/cristobalza/just_code_it_v2/tree/master/1759-find-the-missing-ids) |
 | [1908-recyclable-and-low-fat-products](https://github.com/cristobalza/just_code_it_v2/tree/master/1908-recyclable-and-low-fat-products) |
 | [2484-compute-the-rank-as-a-percentage](https://github.com/cristobalza/just_code_it_v2/tree/master/2484-compute-the-rank-as-a-percentage) |
