@@ -48,7 +48,7 @@ category_frequency AS (
         MAX(transaction_date) as latest_transaction_date,
         RANK() OVER (
             PARTITION BY customer_id 
-            ORDER BY COUNT(*) DESC, MAX(transaction_date) DESC
+            ORDER BY COUNT(category) DESC, MAX(transaction_date) DESC
         ) as rn
     FROM tx_products_tbl
     GROUP BY customer_id, category
