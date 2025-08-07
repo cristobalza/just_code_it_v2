@@ -44,7 +44,7 @@ category_frequency AS (
     SELECT
         customer_id,
         category,
-        COUNT(*) as category_count,
+        COUNT(category) as category_count,
         MAX(transaction_date) as latest_transaction_date,
         RANK() OVER (
             PARTITION BY customer_id 
