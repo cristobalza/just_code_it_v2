@@ -10,6 +10,5 @@ WITH count_tbl AS (
 SELECT
     customer_number
 FROM count_tbl
-ORDER BY count_orders DESC
-LIMIT 1
+WHERE count_orders = (SELECT MAX(count_orders) FROM count_tbl)
 ;
