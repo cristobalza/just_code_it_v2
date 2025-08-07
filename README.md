@@ -396,6 +396,7 @@
 | [1908-recyclable-and-low-fat-products](https://github.com/cristobalza/just_code_it_v2/tree/master/1908-recyclable-and-low-fat-products) |
 | [2484-compute-the-rank-as-a-percentage](https://github.com/cristobalza/just_code_it_v2/tree/master/2484-compute-the-rank-as-a-percentage) |
 | [2830-count-artist-occurrences-on-spotify-ranking-list](https://github.com/cristobalza/just_code_it_v2/tree/master/2830-count-artist-occurrences-on-spotify-ranking-list) |
+| [2841-bikes-last-time-used](https://github.com/cristobalza/just_code_it_v2/tree/master/2841-bikes-last-time-used) |
 | [3340-snaps-analysis](https://github.com/cristobalza/just_code_it_v2/tree/master/3340-snaps-analysis) |
 | [3539-customer-purchasing-behavior-analysis](https://github.com/cristobalza/just_code_it_v2/tree/master/3539-customer-purchasing-behavior-analysis) |
 | [3660-second-highest-salary-ii](https://github.com/cristobalza/just_code_it_v2/tree/master/3660-second-highest-salary-ii) |
