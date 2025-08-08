@@ -388,6 +388,7 @@
 | [1215-reported-posts](https://github.com/cristobalza/just_code_it_v2/tree/master/1215-reported-posts) |
 | [1225-active-businesses](https://github.com/cristobalza/just_code_it_v2/tree/master/1225-active-businesses) |
 | [1226-user-purchase-platform](https://github.com/cristobalza/just_code_it_v2/tree/master/1226-user-purchase-platform) |
+| [1246-user-activity-for-the-past-30-days-ii](https://github.com/cristobalza/just_code_it_v2/tree/master/1246-user-activity-for-the-past-30-days-ii) |
 | [1291-immediate-food-delivery-i](https://github.com/cristobalza/just_code_it_v2/tree/master/1291-immediate-food-delivery-i) |
 | [1415-students-and-examinations](https://github.com/cristobalza/just_code_it_v2/tree/master/1415-students-and-examinations) |
 | [1607-rectangles-area](https://github.com/cristobalza/just_code_it_v2/tree/master/1607-rectangles-area) |
