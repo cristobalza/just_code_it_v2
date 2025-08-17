@@ -36,7 +36,6 @@ class Solution:
 
         for each_digit in total_sum_reversed_str:
             node = ListNode(val=int(each_digit))
-            curr.next = node
-            curr = node
+            curr.next, curr = node, node
         
         return dummy.next
