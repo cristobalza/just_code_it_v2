@@ -89,6 +89,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/cristobalza/just_code_it_v2/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/cristobalza/just_code_it_v2/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/cristobalza/just_code_it_v2/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/cristobalza/just_code_it_v2/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/cristobalza/just_code_it_v2/tree/master/0150-evaluate-reverse-polish-notation) |
