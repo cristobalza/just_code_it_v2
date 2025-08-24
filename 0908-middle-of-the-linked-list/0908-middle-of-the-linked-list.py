@@ -7,9 +7,7 @@ class Solution:
     def middleNode(self, head: Optional[ListNode]) -> Optional[ListNode]:
         """
         calculate the size of the LL
-        if odd then get size // 2 LL
-        else then get (size // 2) + 1 LL 
-
+        get the target using size // 2
         """
 
         curr = head
