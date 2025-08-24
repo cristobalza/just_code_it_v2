@@ -53,6 +53,7 @@
 | [0883-car-fleet](https://github.com/cristobalza/just_code_it_v2/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/cristobalza/just_code_it_v2/tree/master/0907-koko-eating-bananas) |
 | [0954-maximum-sum-circular-subarray](https://github.com/cristobalza/just_code_it_v2/tree/master/0954-maximum-sum-circular-subarray) |
+| [1020-longest-turbulent-subarray](https://github.com/cristobalza/just_code_it_v2/tree/master/1020-longest-turbulent-subarray) |
 | [1603-running-sum-of-1d-array](https://github.com/cristobalza/just_code_it_v2/tree/master/1603-running-sum-of-1d-array) |
 ## Dynamic Programming
 |  |
@@ -72,6 +73,7 @@
 | [0435-non-overlapping-intervals](https://github.com/cristobalza/just_code_it_v2/tree/master/0435-non-overlapping-intervals) |
 | [0954-maximum-sum-circular-subarray](https://github.com/cristobalza/just_code_it_v2/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/cristobalza/just_code_it_v2/tree/master/1013-fibonacci-number) |
+| [1020-longest-turbulent-subarray](https://github.com/cristobalza/just_code_it_v2/tree/master/1020-longest-turbulent-subarray) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/cristobalza/just_code_it_v2/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 ## Breadth-First Search
 |  |
@@ -360,6 +362,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/cristobalza/just_code_it_v2/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/cristobalza/just_code_it_v2/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/cristobalza/just_code_it_v2/tree/master/0567-permutation-in-string) |
+| [1020-longest-turbulent-subarray](https://github.com/cristobalza/just_code_it_v2/tree/master/1020-longest-turbulent-subarray) |
 ## Binary Search Tree
 |  |
 | ------- |
