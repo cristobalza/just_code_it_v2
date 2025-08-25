@@ -1,15 +1,14 @@
 class Solution:
     def removeDuplicates(self, nums: List[int]) -> int:
         """
-        Input: nums = [0,1,2,1,1,0,2,3,3,4]
-                           l
-                                   r
+        Input: nums = [0,1,2,3,4,2,2,3,3,4]
+                               l
+                                          r
         
-        if l and r are differnet
-            l++
-            swap l and r values 
+        if r - 1 and r are differnet
+            set l to r
+            l ++
 
-        r ++
         """
 
         l = 1
