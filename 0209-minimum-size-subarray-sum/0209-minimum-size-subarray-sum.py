@@ -20,10 +20,11 @@ class Solution:
         sliding window
         """
 
-        l = 0
+        l, r = 0, 0
         res = float("inf")
         curr = 0
-        for r in range(len(nums)):
+
+        while r < len(nums):
             curr += nums[r]
 
             while l <= r and curr >= target:
@@ -31,4 +32,6 @@ class Solution:
                 curr -= nums[l]
                 l += 1
             
+            r += 1
+
         return res if res != float("inf") else 0
