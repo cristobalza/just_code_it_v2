@@ -1,6 +1,5 @@
 class Solution:
     def characterReplacement(self, s: str, k: int) -> int:
-
         """
         Input: s = "ABAB", k = 2 ; k=0
                     l
@@ -23,6 +22,7 @@ class Solution:
         l = 0
         res = 0
         hmap = collections.defaultdict(int) # char: frequency
+        max_frequency = 0 # number of characters we don't want to repleace
 
         for r in range(len(s)):
 
@@ -30,9 +30,9 @@ class Solution:
 
             size_substring = r - l + 1
 
-            max_count = max(hmap.values())
+            max_frequency = max(max_frequency, hmap[s[r]])
 
-            if size_substring - max_count > k:
+            if size_substring - max_frequency > k:
                 hmap[s[l]] -= 1
                 l += 1
             
