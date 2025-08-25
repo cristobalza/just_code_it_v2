@@ -44,6 +44,7 @@
 | [0253-meeting-rooms-ii](https://github.com/cristobalza/just_code_it_v2/tree/master/0253-meeting-rooms-ii) |
 | [0268-missing-number](https://github.com/cristobalza/just_code_it_v2/tree/master/0268-missing-number) |
 | [0271-encode-and-decode-strings](https://github.com/cristobalza/just_code_it_v2/tree/master/0271-encode-and-decode-strings) |
+| [0287-find-the-duplicate-number](https://github.com/cristobalza/just_code_it_v2/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/cristobalza/just_code_it_v2/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/cristobalza/just_code_it_v2/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/cristobalza/just_code_it_v2/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -244,6 +245,7 @@
 | [0143-reorder-list](https://github.com/cristobalza/just_code_it_v2/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/cristobalza/just_code_it_v2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0253-meeting-rooms-ii](https://github.com/cristobalza/just_code_it_v2/tree/master/0253-meeting-rooms-ii) |
+| [0287-find-the-duplicate-number](https://github.com/cristobalza/just_code_it_v2/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/cristobalza/just_code_it_v2/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/cristobalza/just_code_it_v2/tree/master/0567-permutation-in-string) |
 | [0908-middle-of-the-linked-list](https://github.com/cristobalza/just_code_it_v2/tree/master/0908-middle-of-the-linked-list) |
@@ -342,6 +344,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/cristobalza/just_code_it_v2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/cristobalza/just_code_it_v2/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/cristobalza/just_code_it_v2/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/cristobalza/just_code_it_v2/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/cristobalza/just_code_it_v2/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0792-binary-search](https://github.com/cristobalza/just_code_it_v2/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/cristobalza/just_code_it_v2/tree/master/0907-koko-eating-bananas) |
@@ -392,6 +395,7 @@
 | [0078-subsets](https://github.com/cristobalza/just_code_it_v2/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/cristobalza/just_code_it_v2/tree/master/0090-subsets-ii) |
 | [0268-missing-number](https://github.com/cristobalza/just_code_it_v2/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/cristobalza/just_code_it_v2/tree/master/0287-find-the-duplicate-number) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/cristobalza/just_code_it_v2/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 ## Data Stream
 |  |
