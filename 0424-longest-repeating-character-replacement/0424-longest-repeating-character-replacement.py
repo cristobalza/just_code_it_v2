@@ -1,37 +1,41 @@
 class Solution:
     def characterReplacement(self, s: str, k: int) -> int:
-        """
-
-        s = "AABABBA", k = 1
-                  r
-               l
-
-        lenght of word - max count <= k
-        
-        5             -  3      ==> 2 <= 1 
-
-        hmap = {A: 2, B: 3}
 
         """
+        Input: s = "ABAB", k = 2 ; k=0
+                    l
+                       r
+                r - l + 1
+                s[l] != s[r] -> what's the count of s[l]?
 
-        if len(s) == 0:
-            return 0
+                s[l] = 2, k = 2 , totla = r - l + 1 = 3 - 0 + 1 = 4
 
-        res = 1
+                4 - 2 <= k = 2
+
+        {
+            A: 2
+            B: 2
+        }
+        sliding window approach
+
+        """
+
         l = 0
-        hmap = collections.defaultdict(int)
+        res = 0
+        hmap = collections.defaultdict(int) # char: frequency
 
         for r in range(len(s)):
 
             hmap[s[r]] = hmap.get(s[r], 0) + 1
 
-            lenght_word = r - l + 1
+            size_substring = r - l + 1
+
             max_count = max(hmap.values())
 
-            if lenght_word - max_count > k:
-                hmap[s[l]] = hmap.get(s[l]) - 1
+            if size_substring - max_count > k:
+                hmap[s[l]] -= 1
                 l += 1
-
+            
             res = max(res, r - l + 1)
 
         return res
