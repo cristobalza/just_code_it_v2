@@ -1,20 +1,19 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-        parenthesis_dict = {
-            '(': ')', 
-            '{': '}', 
-            '[': ']',
+        hmap = {
+            "(": ")",
+            "{": "}",
+            "[": "]"
         }
-        
+
         stack = []
 
-        for char in s:
-            if char in parenthesis_dict.keys():
-                stack.append(char)
+        for ch in s:
+            if ch in ["(", "{", "["]:
+                stack.append(ch)
             else:
-                if stack and parenthesis_dict[stack[-1]] == char:
-                    stack.pop()
-                else:
+                if not stack or ch != hmap[stack[-1]]:
                     return False
-                    
+                stack.pop()
+
         return True if len(stack) == 0 else False
