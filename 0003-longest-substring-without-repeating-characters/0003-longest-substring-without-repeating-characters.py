@@ -9,7 +9,7 @@ class Solution:
 
         for r in range(len(s)):
             if s[r] in hmap:
-                l = max(hmap[s[r]] + 1, l)
+                l = max(l, hmap[s[r]] + 1) # position after the duplicate index is located
 
             hmap[s[r]] = r
 
