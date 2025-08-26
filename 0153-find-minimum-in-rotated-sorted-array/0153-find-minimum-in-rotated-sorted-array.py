@@ -5,15 +5,13 @@ class Solution:
 
         while l < r:
             m = (l + r) // 2
+            print(l)
 
-            if nums[m] > nums[r]:
+            if nums[l] > nums[m]:
+                r = m
+            elif nums[m] > nums[r]:
                 l = m + 1
-
             else:
-
                 r = m
 
         return nums[l]
-
-        
-        
