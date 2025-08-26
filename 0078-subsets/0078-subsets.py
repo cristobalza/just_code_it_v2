@@ -3,28 +3,21 @@ class Solution:
 
         def backtrack(i, subset):
 
-            if tuple(subset) not in res:
-                res.add(tuple(subset.copy()))
+            if i == len(nums):
+                res.append(subset[::])
+                return
 
-            for j in range(i, len(nums)):
+            subset.append(nums[i])
+            backtrack(i + 1, subset)
 
-                subset.append(nums[j])
-
-                backtrack(j + 1, subset)
-
-                subset.pop()
-
-                backtrack(j + 1, subset)
+            subset.pop()
+            backtrack(i + 1, subset)
 
             return
 
-        
-        res = set()
+        res = []
 
-        backtrack(0, list())
+        backtrack(0, [])
 
-        return list(res)
-
-
-            
+        return res
         
