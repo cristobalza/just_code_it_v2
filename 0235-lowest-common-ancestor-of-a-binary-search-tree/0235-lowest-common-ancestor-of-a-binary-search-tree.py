@@ -8,18 +8,12 @@
 class Solution:
     def lowestCommonAncestor(self, root: 'TreeNode', p: 'TreeNode', q: 'TreeNode') -> 'TreeNode':
         
-        def dfs(node, p, q):
-            if not node:
-                return None
+        curr = root
 
-            # Catch the ancestor of itself
-            if node.val == p.val or node.val == q.val:
-                return node
-
-            l = dfs(node.left, p, q)
-            r = dfs(node.right, p, q)
-
-            # Catch the split ancestor
-            return node if l and r else l or r
-
-        return dfs(root, p, q)
+        while curr:
+            if curr.val < p.val and curr.val < q.val:
+                curr = curr.right
+            elif p.val < curr.val and q.val < curr.val:
+                curr = curr.left
+            else:
+                return curr
