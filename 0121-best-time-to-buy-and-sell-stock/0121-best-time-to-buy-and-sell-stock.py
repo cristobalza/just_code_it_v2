@@ -4,10 +4,9 @@ class Solution:
         l = 0
 
         for r in range(len(prices)):
-            
-            if prices[l] >= prices[r]:
+            if prices[l] > prices[r]:
                 l = r
-
+            
             res = max(res, prices[r] - prices[l])
 
         return res
