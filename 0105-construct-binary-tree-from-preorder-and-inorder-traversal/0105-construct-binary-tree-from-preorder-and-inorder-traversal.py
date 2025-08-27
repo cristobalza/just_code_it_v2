@@ -9,19 +9,17 @@ class Solution:
 
         def dfs(preorder, inorder):
 
-            if not inorder:
+            if not preorder or not inorder:
                 return None
 
             val = preorder.pop(0)
 
-            idx = inorder.index(val)
-
             node = TreeNode(val=val)
-            
-            node.left = dfs(preorder, inorder[:idx])
-            node.right = dfs(preorder, inorder[idx+1:])
+            inorder_idx = inorder.index(val)
+
+            node.left = dfs(preorder, inorder[:inorder_idx])
+            node.right = dfs(preorder, inorder[inorder_idx + 1:])
 
             return node
 
         return dfs(preorder, inorder)
-        
