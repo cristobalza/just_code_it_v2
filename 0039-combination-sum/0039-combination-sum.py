@@ -7,7 +7,7 @@ class Solution:
                 res.append(subset.copy())
                 return 
 
-            if curr_sum > target or i >= len(candidates):
+            if curr_sum > target:
                 return
                 
             for j in range(i, len(candidates)):
