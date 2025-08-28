@@ -1,7 +1,7 @@
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
 
-        def dfs(curr_course, prev_course, cycle_set):
+        def dfs(curr_course, cycle_set):
 
             if curr_course in visited:
                 return True
@@ -12,7 +12,7 @@ class Solution:
             cycle_set.add(curr_course)
 
             for prev in graph[curr_course]:
-                if not dfs(prev, graph.get(prev, None), cycle_set):
+                if not dfs(prev, cycle_set):
                     return False
 
             cycle_set.remove(curr_course)
@@ -27,7 +27,7 @@ class Solution:
         visited = set()
         for course in range(numCourses):
             if course in graph:
-                if not dfs(course, graph.get(course, None), set()):
+                if not dfs(course, set()):
                     return False
 
         return True
