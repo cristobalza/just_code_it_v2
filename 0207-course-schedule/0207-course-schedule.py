@@ -3,10 +3,10 @@ class Solution:
 
         def dfs(curr_course, prev_course, cycle_set):
 
-            if curr_course is None or curr_course in visited:
+            if curr_course in visited:
                 return True
 
-            if curr_course == prev_course or curr_course in cycle_set:
+            if curr_course in cycle_set:
                 return False
 
             cycle_set.add(curr_course)
@@ -27,7 +27,7 @@ class Solution:
         visited = set()
         for course in range(numCourses):
             if course in graph:
-                if not dfs(course, None, set()):
+                if not dfs(course, graph.get(course, None), set()):
                     return False
 
         return True
