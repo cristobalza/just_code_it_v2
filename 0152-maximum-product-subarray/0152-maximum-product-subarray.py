@@ -1,17 +1,31 @@
 class Solution:
-    def maxProduct(self, nums: List[int]) -> int:   
+    def maxProduct(self, nums: List[int]) -> int:
+        """
 
-        dp = [(0, 0) for i in range(len(nums))]
+        nums = [2,3,-2,4]
+                       i
 
-        dp[0] = (nums[0], nums[0])
 
-        for i in range(1, len(nums)):
+       max_value = 6//
+       min_value = -8
 
-            max_val = max(nums[i], dp[i-1][0] * nums[i], dp[i-1][1] * nums[i])
 
-            min_val = min(nums[i], dp[i-1][0] * nums[i], dp[i-1][1] * nums[i])
+        dp = [(max, min), (), ()]
 
-            dp[i] = (max_val, min_val)
+        """
+        # kadane's
 
-        return max(dp)[0]
+        res = float("-inf")
+        max_value, min_value = 1, 1
+
+        for num in nums:
+            temp = max_value * num
+
+            max_value = max(max_value * num, min_value * num, num)
+            min_value = min(temp           , min_value * num, num)
+
+            res = max(res, max_value)
+
+        return res # O(N) time and O(1) space
+
         
