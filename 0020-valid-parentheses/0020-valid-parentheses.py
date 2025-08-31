@@ -1,19 +1,20 @@
 class Solution:
     def isValid(self, s: str) -> bool:
         hmap = {
-            "(": ")",
-            "{": "}",
-            "[": "]"
+            '(': ')', 
+            '{': '}',
+            '[': ']'
         }
 
         stack = []
 
-        for ch in s:
-            if ch in ["(", "{", "["]:
-                stack.append(ch)
+        for char in s:
+            if char in hmap:
+                stack.append(char)
             else:
-                if not stack or ch != hmap[stack[-1]]:
+                if not stack or char != hmap[stack.pop()]:
                     return False
-                stack.pop()
+
 
         return True if len(stack) == 0 else False
+
