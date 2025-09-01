@@ -178,6 +178,7 @@
 | [0242-valid-anagram](https://github.com/cristobalza/just_code_it_v2/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/cristobalza/just_code_it_v2/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/cristobalza/just_code_it_v2/tree/master/0347-top-k-frequent-elements) |
+| [0359-logger-rate-limiter](https://github.com/cristobalza/just_code_it_v2/tree/master/0359-logger-rate-limiter) |
 | [0424-longest-repeating-character-replacement](https://github.com/cristobalza/just_code_it_v2/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/cristobalza/just_code_it_v2/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/cristobalza/just_code_it_v2/tree/master/0567-permutation-in-string) |
@@ -380,6 +381,7 @@
 | [0295-find-median-from-data-stream](https://github.com/cristobalza/just_code_it_v2/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/cristobalza/just_code_it_v2/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/cristobalza/just_code_it_v2/tree/master/0304-range-sum-query-2d-immutable) |
+| [0359-logger-rate-limiter](https://github.com/cristobalza/just_code_it_v2/tree/master/0359-logger-rate-limiter) |
 | [1023-time-based-key-value-store](https://github.com/cristobalza/just_code_it_v2/tree/master/1023-time-based-key-value-store) |
 ## Binary Search
 |  |
@@ -449,6 +451,7 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/cristobalza/just_code_it_v2/tree/master/0295-find-median-from-data-stream) |
+| [0359-logger-rate-limiter](https://github.com/cristobalza/just_code_it_v2/tree/master/0359-logger-rate-limiter) |
 ## Simulation
 |  |
 | ------- |
