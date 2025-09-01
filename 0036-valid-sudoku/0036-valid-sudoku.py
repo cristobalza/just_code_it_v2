@@ -1,28 +1,28 @@
 class Solution:
     def isValidSudoku(self, board: List[List[str]]) -> bool:
+        ROWS, COLS = len(board), len(board[0])
 
-        m, n = len(board), len(board[0])
+        rows_hmap = collections.defaultdict(set) # value
+        cols_hmap = collections.defaultdict(set)
+        square_hmap = collections.defaultdict(set)
 
-        row_dict = collections.defaultdict(set)
-        col_dict = collections.defaultdict(set)
-        square_dict = collections.defaultdict(set)
-
-        for r in range(m):
-            for c in range(n):
-                current_entry = board[r][c]
-                if current_entry == ".":
+        for r in range(ROWS):
+            for c in range(COLS):
+                if board[r][c] == ".":
                     continue
-
-                if (
-                    current_entry in row_dict[r] or
-                    current_entry in col_dict[c] or 
-                    current_entry in square_dict[(r // 3, c // 3)]
-                    ):
-                    return False
                 else:
-                    row_dict[r].add(current_entry)
-                    col_dict[c].add(current_entry)
-                    square_dict[(r // 3, c // 3)].add(current_entry)
+
+                    # check existance
+                    if (
+                        board[r][c] in rows_hmap[r] 
+                        or board[r][c] in cols_hmap[c] 
+                        or board[r][c] in square_hmap[(r//3,c//3)]
+                    ):
+                        return False
+                    
+                    # add new board value
+                    rows_hmap[r].add(board[r][c])
+                    cols_hmap[c].add(board[r][c])
+                    square_hmap[(r//3, c//3)].add(board[r][c])
 
         return True
-
