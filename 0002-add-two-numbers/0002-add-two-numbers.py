@@ -5,37 +5,28 @@
 #         self.next = next
 class Solution:
     def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
-        '''
+        """
+        243 + 564 = 807 => 708
+        """
+        num1, num2 = "", ""
+        c1, c2 = l1, l2
 
-        l1 = [2,4,9], l2 = [5,6,4,9]
+        while c1:
+            num1 += str(c1.val)
+            c1 = c1.next
 
-        942 + 9465 = 10387
+        while c2:
+            num2 += str(c2.val)
+            c2 = c2.next
 
-        turn the intger into a string
-        reverse it
-        iterate through it and create new linked list
-        '''
-
-        def sum_ll(ll: Optional[ListNode]) -> int:
-            ll_vals_list = []
-
-            while ll:
-                ll_vals_list.append(str(ll.val))
-                ll = ll.next
-
-            return int("".join(ll_vals_list)[::-1])
-
-        l1_sum, l2_sum = sum_ll(l1), sum_ll(l2)
-
-        total_sum = l1_sum + l2_sum
-
-        total_sum_reversed_str = str(total_sum)[::-1]
+        total_reversed_str = str(int(num1[::-1]) + int(num2[::-1]))[::-1]
 
         dummy = ListNode(-1)
         curr = dummy
 
-        for each_digit in total_sum_reversed_str:
-            node = ListNode(val=int(each_digit))
-            curr.next, curr = node, node
+        for val in total_reversed_str:
+            node = ListNode(val=int(val))
+            curr.next = node
+            curr = curr.next
         
         return dummy.next
