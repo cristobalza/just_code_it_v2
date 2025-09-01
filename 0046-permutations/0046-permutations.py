@@ -1,22 +1,40 @@
 class Solution:
     def permute(self, nums: List[int]) -> List[List[int]]:
+        """
+        Input: nums = [1,2,3]
 
-        def backtrack(subset, i):
+        all subsets have n size
+        no dups
 
-            if i == n:
+        backtrack approach
+
+        edg case: subset reach same size of nums
+
+        mark candidate: do a permutation with next value
+
+        explore: call recursively to i + 1
+
+        remove candidate: do the same permutation 
+
+
+        Output: [[1,2,3],[1,3,2],[2,1,3],[2,3,1],[3,1,2],[3,2,1]]
+
+        """
+
+        def backtrack(i, subset):
+            if i == len(subset):
                 res.append(subset.copy())
                 return
 
-            for j in range(i, n):
-                nums[i], nums[j] = nums[j], nums[i]
-                backtrack(nums, i + 1)
-                nums[i], nums[j] = nums[j], nums[i]
+            for j in range(i, len(nums)):
+                subset[i], subset[j] = subset[j], subset[i]
 
-            return
+                backtrack(i+1, subset)
 
-        n = len(nums)
+                subset[i], subset[j] = subset[j], subset[i]
+            
+            return 
+
         res = []
-        backtrack(nums, 0)
+        backtrack(0, nums)
         return res
-
-        
