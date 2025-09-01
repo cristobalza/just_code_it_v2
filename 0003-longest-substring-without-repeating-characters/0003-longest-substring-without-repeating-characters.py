@@ -1,16 +1,24 @@
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
-        if len(s) == 0:
-            return 0
-        
+        """
+        Input: s = "abcabcbb"
+                     l
+                       r 
+
+     {b, c, a}
+
+     res = 3
+
+        """
+
         l = 0
-        res = 1
-        hmap = {}
+        hmap = {} # ch: idx
+        res = 0
 
         for r in range(len(s)):
             if s[r] in hmap:
-                l = max(l, hmap[s[r]] + 1) # position after the duplicate index is located
-
+                l = max(l, 1 + hmap[s[r]])
+            
             hmap[s[r]] = r
 
             res = max(res, r - l + 1)
