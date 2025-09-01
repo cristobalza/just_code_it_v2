@@ -50,6 +50,7 @@
 | [0253-meeting-rooms-ii](https://github.com/cristobalza/just_code_it_v2/tree/master/0253-meeting-rooms-ii) |
 | [0268-missing-number](https://github.com/cristobalza/just_code_it_v2/tree/master/0268-missing-number) |
 | [0271-encode-and-decode-strings](https://github.com/cristobalza/just_code_it_v2/tree/master/0271-encode-and-decode-strings) |
+| [0283-move-zeroes](https://github.com/cristobalza/just_code_it_v2/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/cristobalza/just_code_it_v2/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/cristobalza/just_code_it_v2/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/cristobalza/just_code_it_v2/tree/master/0303-range-sum-query-immutable) |
@@ -279,6 +280,7 @@
 | [0143-reorder-list](https://github.com/cristobalza/just_code_it_v2/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/cristobalza/just_code_it_v2/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0253-meeting-rooms-ii](https://github.com/cristobalza/just_code_it_v2/tree/master/0253-meeting-rooms-ii) |
+| [0283-move-zeroes](https://github.com/cristobalza/just_code_it_v2/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/cristobalza/just_code_it_v2/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/cristobalza/just_code_it_v2/tree/master/0295-find-median-from-data-stream) |
 | [0567-permutation-in-string](https://github.com/cristobalza/just_code_it_v2/tree/master/0567-permutation-in-string) |
