@@ -146,6 +146,7 @@
 | [0071-simplify-path](https://github.com/cristobalza/just_code_it_v2/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/cristobalza/just_code_it_v2/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/cristobalza/just_code_it_v2/tree/master/0091-decode-ways) |
+| [0093-restore-ip-addresses](https://github.com/cristobalza/just_code_it_v2/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/cristobalza/just_code_it_v2/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/cristobalza/just_code_it_v2/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/cristobalza/just_code_it_v2/tree/master/0242-valid-anagram) |
@@ -435,6 +436,7 @@
 | [0078-subsets](https://github.com/cristobalza/just_code_it_v2/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/cristobalza/just_code_it_v2/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/cristobalza/just_code_it_v2/tree/master/0090-subsets-ii) |
+| [0093-restore-ip-addresses](https://github.com/cristobalza/just_code_it_v2/tree/master/0093-restore-ip-addresses) |
 ## Monotonic Stack
 |  |
 | ------- |
