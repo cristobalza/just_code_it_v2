@@ -287,6 +287,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/cristobalza/just_code_it_v2/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/cristobalza/just_code_it_v2/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/cristobalza/just_code_it_v2/tree/master/0206-reverse-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/cristobalza/just_code_it_v2/tree/master/0237-delete-node-in-a-linked-list) |
 | [0817-design-hashmap](https://github.com/cristobalza/just_code_it_v2/tree/master/0817-design-hashmap) |
 | [0908-middle-of-the-linked-list](https://github.com/cristobalza/just_code_it_v2/tree/master/0908-middle-of-the-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/cristobalza/just_code_it_v2/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
