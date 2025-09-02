@@ -143,6 +143,7 @@
 | [0022-generate-parentheses](https://github.com/cristobalza/just_code_it_v2/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/cristobalza/just_code_it_v2/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/cristobalza/just_code_it_v2/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/cristobalza/just_code_it_v2/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/cristobalza/just_code_it_v2/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/cristobalza/just_code_it_v2/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/cristobalza/just_code_it_v2/tree/master/0125-valid-palindrome) |
@@ -159,6 +160,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/cristobalza/just_code_it_v2/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/cristobalza/just_code_it_v2/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/cristobalza/just_code_it_v2/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/cristobalza/just_code_it_v2/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/cristobalza/just_code_it_v2/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/cristobalza/just_code_it_v2/tree/master/0155-min-stack) |
