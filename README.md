@@ -125,6 +125,7 @@
 | [0048-rotate-image](https://github.com/cristobalza/just_code_it_v2/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/cristobalza/just_code_it_v2/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/cristobalza/just_code_it_v2/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0171-excel-sheet-column-number](https://github.com/cristobalza/just_code_it_v2/tree/master/0171-excel-sheet-column-number) |
 | [0268-missing-number](https://github.com/cristobalza/just_code_it_v2/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/cristobalza/just_code_it_v2/tree/master/0441-arranging-coins) |
 | [1013-fibonacci-number](https://github.com/cristobalza/just_code_it_v2/tree/master/1013-fibonacci-number) |
@@ -152,6 +153,7 @@
 | [0093-restore-ip-addresses](https://github.com/cristobalza/just_code_it_v2/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/cristobalza/just_code_it_v2/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/cristobalza/just_code_it_v2/tree/master/0139-word-break) |
+| [0171-excel-sheet-column-number](https://github.com/cristobalza/just_code_it_v2/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/cristobalza/just_code_it_v2/tree/master/0242-valid-anagram) |
 | [0271-encode-and-decode-strings](https://github.com/cristobalza/just_code_it_v2/tree/master/0271-encode-and-decode-strings) |
 | [0383-ransom-note](https://github.com/cristobalza/just_code_it_v2/tree/master/0383-ransom-note) |
