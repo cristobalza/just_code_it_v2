@@ -1,44 +1,54 @@
 class Solution:
     def spiralOrder(self, matrix: List[List[int]]) -> List[int]:
+        ROWS, COLS = len(matrix), len(matrix[0])
 
-        m, n = len(matrix), len(matrix[0])
-
-        area = m * n
-
-        upper_limit, bottom_limit, left_limit, right_limit = 0, m, 0, n
+        limit_top = 0
+        limit_bottom = 0
+        limit_left = 0
+        limit_right = 0
 
         res = []
 
-        while area > 0: 
+        i = 0
+        size = ROWS * COLS
 
-            # To Right
-            for col in range(left_limit, right_limit):
-                area -= 1
-                res.append(matrix[upper_limit][col])
-            upper_limit += 1
-            if area == 0:
-                break
+        while i < size:
 
-            # To Down
-            for row in range(upper_limit, bottom_limit):
-                area -= 1
-                res.append(matrix[row][right_limit - 1])
-            right_limit -= 1
-            if area == 0:
-                break
+            # Right traversal
+            for c in range(limit_left, COLS - limit_right):
+                if i == size:
+                    break
+                i += 1
+                res.append(matrix[limit_top][c])
 
-            # To Left
-            for col in range(right_limit - 1, left_limit - 1 , -1):
-                area -= 1
-                res.append(matrix[bottom_limit - 1][col])
-            bottom_limit -= 1
-            if area == 0:
-                break
+            limit_top += 1
 
-            # To Up
-            for row in range(bottom_limit - 1, upper_limit - 1, -1):
-                area -= 1
-                res.append(matrix[row][left_limit])
-            left_limit += 1
+            # Down traversal
+            for r in range(limit_top, ROWS - limit_bottom):
+                if i == size:
+                    break
+                i += 1
+                res.append(matrix[r][COLS - 1 - limit_right])
+            
+            limit_right += 1
+
+            # Left traversal
+            for c in range(COLS - 1 - limit_right, limit_left - 1, -1):
+                if i == size:
+                    break
+                i += 1
+                res.append(matrix[ROWS - 1 - limit_bottom][c])
+            
+            limit_bottom += 1
+
+            # Up traversal
+            for r in range(ROWS - 1 - limit_top, limit_bottom - 1, -1):
+                if i == size:
+                    break
+                i += 1
+                res.append(matrix[r][limit_left])
+
+            limit_left += 1
         
         return res
+
