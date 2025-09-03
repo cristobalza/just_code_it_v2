@@ -47,7 +47,7 @@ class Solution:
                 curr_sum -= 1
 
                 if not hmap[tree_fruit]: 
-                    hmap.pop(tree_fruit)
+                    del hmap[tree_fruit]
             
             res = max(res, curr_sum)
 
