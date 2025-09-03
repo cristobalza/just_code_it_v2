@@ -73,6 +73,7 @@
 | [0878-shifting-letters](https://github.com/cristobalza/just_code_it_v2/tree/master/0878-shifting-letters) |
 | [0883-car-fleet](https://github.com/cristobalza/just_code_it_v2/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/cristobalza/just_code_it_v2/tree/master/0907-koko-eating-bananas) |
+| [0940-fruit-into-baskets](https://github.com/cristobalza/just_code_it_v2/tree/master/0940-fruit-into-baskets) |
 | [0954-maximum-sum-circular-subarray](https://github.com/cristobalza/just_code_it_v2/tree/master/0954-maximum-sum-circular-subarray) |
 | [1020-longest-turbulent-subarray](https://github.com/cristobalza/just_code_it_v2/tree/master/1020-longest-turbulent-subarray) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/cristobalza/just_code_it_v2/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -205,6 +206,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/cristobalza/just_code_it_v2/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/cristobalza/just_code_it_v2/tree/master/0567-permutation-in-string) |
 | [0817-design-hashmap](https://github.com/cristobalza/just_code_it_v2/tree/master/0817-design-hashmap) |
+| [0940-fruit-into-baskets](https://github.com/cristobalza/just_code_it_v2/tree/master/0940-fruit-into-baskets) |
 | [1023-time-based-key-value-store](https://github.com/cristobalza/just_code_it_v2/tree/master/1023-time-based-key-value-store) |
 | [1635-number-of-good-pairs](https://github.com/cristobalza/just_code_it_v2/tree/master/1635-number-of-good-pairs) |
 ## Matrix
@@ -475,6 +477,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/cristobalza/just_code_it_v2/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/cristobalza/just_code_it_v2/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/cristobalza/just_code_it_v2/tree/master/0643-maximum-average-subarray-i) |
+| [0940-fruit-into-baskets](https://github.com/cristobalza/just_code_it_v2/tree/master/0940-fruit-into-baskets) |
 | [1020-longest-turbulent-subarray](https://github.com/cristobalza/just_code_it_v2/tree/master/1020-longest-turbulent-subarray) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/cristobalza/just_code_it_v2/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Binary Search Tree
