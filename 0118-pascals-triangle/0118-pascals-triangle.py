@@ -25,7 +25,6 @@ class Solution:
         res = [] 
         dp = [1]
         res.append(dp)
-        n = numRows
 
         for i in range(numRows - 1):
             prev = res[-1]
