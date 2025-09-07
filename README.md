@@ -536,6 +536,7 @@
 ## Database
 |  |
 | ------- |
+| [0197-rising-temperature](https://github.com/cristobalza/just_code_it_v2/tree/master/0197-rising-temperature) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/cristobalza/just_code_it_v2/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [1215-reported-posts](https://github.com/cristobalza/just_code_it_v2/tree/master/1215-reported-posts) |
 | [1225-active-businesses](https://github.com/cristobalza/just_code_it_v2/tree/master/1225-active-businesses) |
