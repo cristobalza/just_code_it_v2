@@ -1,14 +1,7 @@
 class Solution:
     def intersection(self, nums1: List[int], nums2: List[int]) -> List[int]:
-        hs = set()
 
-        for num in nums1:
-            hs.add(num)
+        hset1 = set(nums1)
+        hset2 = set(nums2)
 
-        res = []
-
-        for num in nums2:
-            if num in hs and num not in res:
-                res.append(num)
-
-        return res
+        return list(hset1 & hset2)
