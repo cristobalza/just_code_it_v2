@@ -141,6 +141,7 @@
 | [0231-power-of-two](https://github.com/cristobalza/just_code_it_v2/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/cristobalza/just_code_it_v2/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/cristobalza/just_code_it_v2/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/cristobalza/just_code_it_v2/tree/master/0342-power-of-four) |
 | [0441-arranging-coins](https://github.com/cristobalza/just_code_it_v2/tree/master/0441-arranging-coins) |
 | [1013-fibonacci-number](https://github.com/cristobalza/just_code_it_v2/tree/master/1013-fibonacci-number) |
 | [1635-number-of-good-pairs](https://github.com/cristobalza/just_code_it_v2/tree/master/1635-number-of-good-pairs) |
@@ -347,6 +348,7 @@
 | [0206-reverse-linked-list](https://github.com/cristobalza/just_code_it_v2/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/cristobalza/just_code_it_v2/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/cristobalza/just_code_it_v2/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/cristobalza/just_code_it_v2/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/cristobalza/just_code_it_v2/tree/master/1013-fibonacci-number) |
 ## Sorting
 |  |
@@ -517,6 +519,7 @@
 | [0231-power-of-two](https://github.com/cristobalza/just_code_it_v2/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/cristobalza/just_code_it_v2/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/cristobalza/just_code_it_v2/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/cristobalza/just_code_it_v2/tree/master/0342-power-of-four) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/cristobalza/just_code_it_v2/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 ## Data Stream
 |  |
