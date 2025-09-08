@@ -140,6 +140,7 @@
 | [0202-happy-number](https://github.com/cristobalza/just_code_it_v2/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/cristobalza/just_code_it_v2/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/cristobalza/just_code_it_v2/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/cristobalza/just_code_it_v2/tree/master/0326-power-of-three) |
 | [0441-arranging-coins](https://github.com/cristobalza/just_code_it_v2/tree/master/0441-arranging-coins) |
 | [1013-fibonacci-number](https://github.com/cristobalza/just_code_it_v2/tree/master/1013-fibonacci-number) |
 | [1635-number-of-good-pairs](https://github.com/cristobalza/just_code_it_v2/tree/master/1635-number-of-good-pairs) |
@@ -345,6 +346,7 @@
 | [0143-reorder-list](https://github.com/cristobalza/just_code_it_v2/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/cristobalza/just_code_it_v2/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/cristobalza/just_code_it_v2/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/cristobalza/just_code_it_v2/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/cristobalza/just_code_it_v2/tree/master/1013-fibonacci-number) |
 ## Sorting
 |  |
