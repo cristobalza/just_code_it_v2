@@ -138,6 +138,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/cristobalza/just_code_it_v2/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/cristobalza/just_code_it_v2/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/cristobalza/just_code_it_v2/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/cristobalza/just_code_it_v2/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/cristobalza/just_code_it_v2/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/cristobalza/just_code_it_v2/tree/master/0441-arranging-coins) |
 | [1013-fibonacci-number](https://github.com/cristobalza/just_code_it_v2/tree/master/1013-fibonacci-number) |
@@ -343,6 +344,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/cristobalza/just_code_it_v2/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/cristobalza/just_code_it_v2/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/cristobalza/just_code_it_v2/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/cristobalza/just_code_it_v2/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/cristobalza/just_code_it_v2/tree/master/1013-fibonacci-number) |
 ## Sorting
 |  |
@@ -510,6 +512,7 @@
 | ------- |
 | [0078-subsets](https://github.com/cristobalza/just_code_it_v2/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/cristobalza/just_code_it_v2/tree/master/0090-subsets-ii) |
+| [0231-power-of-two](https://github.com/cristobalza/just_code_it_v2/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/cristobalza/just_code_it_v2/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/cristobalza/just_code_it_v2/tree/master/0287-find-the-duplicate-number) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/cristobalza/just_code_it_v2/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
