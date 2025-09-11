@@ -4,82 +4,66 @@ class Solution:
         Do not return anything, modify board in-place instead.
         """
 
-        def backtrack(index):
+        def backtrack(i):
             nonlocal solved
 
-            # Base case: all empty cells have been filled successfully
-            if index == len(empty_cells):
+            # Base case: empty_cells_tuple_list have been reached
+            if i == len(empty_cells_tuple_list):
                 solved = True
-                return
+                return 
 
-            # Get the current empty cell's position
-            row_idx, col_idx = empty_cells[index]
+            list_r, list_c = empty_cells_tuple_list[i]
 
-            # Try each digit from 1 to 9
-            for digit in range(9):
-                # Check if placing digit+1 is valid in current position
-                if (not row_used[row_idx][digit] and 
-                    not col_used[col_idx][digit] and 
-                    not block_used[row_idx // 3][col_idx // 3][digit]):
+            for num in range(0, 9):
 
-                    # Mark the digit as used in row, column, and 3x3 block
-                    row_used[row_idx][digit] = True
-                    col_used[col_idx][digit] = True
-                    block_used[row_idx // 3][col_idx // 3][digit] = True
-                    # Place the digit on the board
-                    board[row_idx][col_idx] = str(digit + 1)
-                    # Recursively solve for the next empty cell
-                    backtrack(index + 1)
+                if (
+                    rows_used[num][list_r] is False
+                    and cols_used[num][list_c] is False
+                    and block_used[list_r // 3][list_c // 3][num] is False
+                    ):
 
-                    # If solution found, stop backtracking
+                    # Mark candidate
+                    rows_used[num][list_r] = True
+                    cols_used[num][list_c] = True
+                    block_used[list_r // 3][list_c // 3][num] = True
+
+                    prev_val = board[list_r][list_c]
+                    board[list_r][list_c] = str(num + 1)
+
+                    # Explore further
+                    backtrack(i + 1)
+
+
                     if solved:
-                        return
+                        return 
 
-                    # Backtrack: undo the current placement
-                    row_used[row_idx][digit] = False
-                    col_used[col_idx][digit] = False
-                    block_used[row_idx // 3][col_idx // 3][digit] = False
+                    # Remove Candidates
+                    rows_used[num][list_r] = False
+                    cols_used[num][list_c] = False
+                    block_used[list_r // 3][list_c // 3][num] = False
 
-        # Initialize tracking arrays for used digits
+                    board[list_r][list_c] = prev_val
 
-        # row_used[i][d] = True if digit d+1 is used in row i
         
-        row_used = [[False] * 9 for _ in range(9)]
+        rows_used = [[False] * 9 for _ in range(9)]
+        cols_used = [[False] * 9 for _ in range(9)]
+        block_used = [[[False] * 9 for _ in range(9)] for _ in range(9)]
 
-        # col_used[j][d] = True if digit d+1 is used in column j
-        col_used = [[False] * 9 for _ in range(9)]
+        empty_cells_tuple_list = []
 
-        # block_used[bi][bj][d] = True if digit d+1 is used in block (bi, bj)
-        block_used = [[[False] * 9 for _ in range(3)] for _ in range(3)]
-
-        # List to store positions of empty cells
-
-        empty_cells = []
-
-        # Flag to indicate if solution is found
-        solved = False
-        # Initialize the board state and collect empty cells
-
-        for row_idx in range(9):
-            for col_idx in range(9):
-                if board[row_idx][col_idx] == '.':
-                    # Record empty cell position
-                    empty_cells.append((row_idx, col_idx))
+        for r in range(9):
+            for c in range(9):
+                
+                if board[r][c] == ".":
+                    empty_cells_tuple_list.append((r, c))
 
                 else:
+                    num_str = board[r][c]
+                    num_int_idx = int(num_str) - 1
+                    rows_used[num_int_idx][r] = True
+                    cols_used[num_int_idx][c] = True
+                    block_used[r // 3][c // 3][num_int_idx] = True
 
-                    # Mark existing digits as used
-
-                    digit = int(board[row_idx][col_idx]) - 1
-
-                    row_used[row_idx][digit] = True
-
-                    col_used[col_idx][digit] = True
-
-                    block_used[row_idx // 3][col_idx // 3][digit] = True
-
-        # Start solving from the first empty cell
-
+        solved = False
         backtrack(0)
-
-        
+        return solved
