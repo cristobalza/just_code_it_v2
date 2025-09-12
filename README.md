@@ -127,6 +127,7 @@
 | [0226-invert-binary-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/0226-invert-binary-tree) |
 | [0261-graph-valid-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/0261-graph-valid-tree) |
 | [0322-coin-change](https://github.com/cristobalza/just_code_it_v2/tree/master/0322-coin-change) |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/cristobalza/just_code_it_v2/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0417-pacific-atlantic-water-flow](https://github.com/cristobalza/just_code_it_v2/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/cristobalza/just_code_it_v2/tree/master/0463-island-perimeter) |
 | [1396-count-servers-that-communicate](https://github.com/cristobalza/just_code_it_v2/tree/master/1396-count-servers-that-communicate) |
@@ -261,6 +262,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/cristobalza/just_code_it_v2/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0261-graph-valid-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/0261-graph-valid-tree) |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/cristobalza/just_code_it_v2/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0417-pacific-atlantic-water-flow](https://github.com/cristobalza/just_code_it_v2/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/cristobalza/just_code_it_v2/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/0543-diameter-of-binary-tree) |
@@ -386,6 +388,7 @@
 | [0133-clone-graph](https://github.com/cristobalza/just_code_it_v2/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/cristobalza/just_code_it_v2/tree/master/0207-course-schedule) |
 | [0261-graph-valid-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/0261-graph-valid-tree) |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/cristobalza/just_code_it_v2/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [2793-count-the-number-of-complete-components](https://github.com/cristobalza/just_code_it_v2/tree/master/2793-count-the-number-of-complete-components) |
 ## Topological Sort
 |  |
@@ -444,6 +447,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/cristobalza/just_code_it_v2/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/cristobalza/just_code_it_v2/tree/master/0200-number-of-islands) |
 | [0261-graph-valid-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/0261-graph-valid-tree) |
+| [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/cristobalza/just_code_it_v2/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [1396-count-servers-that-communicate](https://github.com/cristobalza/just_code_it_v2/tree/master/1396-count-servers-that-communicate) |
 | [2793-count-the-number-of-complete-components](https://github.com/cristobalza/just_code_it_v2/tree/master/2793-count-the-number-of-complete-components) |
 ## Design
