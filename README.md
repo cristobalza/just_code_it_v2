@@ -111,6 +111,7 @@
 | [0954-maximum-sum-circular-subarray](https://github.com/cristobalza/just_code_it_v2/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/cristobalza/just_code_it_v2/tree/master/1013-fibonacci-number) |
 | [1020-longest-turbulent-subarray](https://github.com/cristobalza/just_code_it_v2/tree/master/1020-longest-turbulent-subarray) |
+| [1250-longest-common-subsequence](https://github.com/cristobalza/just_code_it_v2/tree/master/1250-longest-common-subsequence) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/cristobalza/just_code_it_v2/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/cristobalza/just_code_it_v2/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 ## Breadth-First Search
@@ -186,6 +187,7 @@
 | [0647-palindromic-substrings](https://github.com/cristobalza/just_code_it_v2/tree/master/0647-palindromic-substrings) |
 | [0878-shifting-letters](https://github.com/cristobalza/just_code_it_v2/tree/master/0878-shifting-letters) |
 | [1023-time-based-key-value-store](https://github.com/cristobalza/just_code_it_v2/tree/master/1023-time-based-key-value-store) |
+| [1250-longest-common-subsequence](https://github.com/cristobalza/just_code_it_v2/tree/master/1250-longest-common-subsequence) |
 | [2887-sort-vowels-in-a-string](https://github.com/cristobalza/just_code_it_v2/tree/master/2887-sort-vowels-in-a-string) |
 ## Stack
 |  |
