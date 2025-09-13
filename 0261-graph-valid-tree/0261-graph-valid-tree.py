@@ -1,24 +1,26 @@
 class Solution:
     def validTree(self, n: int, edges: List[List[int]]) -> bool:
 
-        def dfs(curr, prev):
+        def dfs(node, parent):
+            nonlocal visited, graph
 
-            if curr in cycle_set or curr == prev:
+            if node in visited or node == parent:
                 return False
 
-            cycle_set.add(curr)
+            visited.add(node)
 
-            for preq in graph[curr]:
-                if preq != prev and not dfs(preq, curr):
+            for neigh in graph[node]:
+                if neigh != parent and not dfs(neigh, node):
                     return False
-            
+
             return True
 
-        cycle_set = set()
+        graph = {node: [] for node in range(n)}
 
-        graph = collections.defaultdict(list)
         for a, b in edges:
             graph[a].append(b)
             graph[b].append(a)
 
-        return dfs(0, -1) and len(cycle_set) == n 
+        visited = set()
+
+        return dfs(0, None) and len(visited) == n
