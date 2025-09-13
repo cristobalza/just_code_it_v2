@@ -1,34 +1,36 @@
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
+        
+        def backtrack(course, cycled):
+            nonlocal visited, graph
 
-        def dfs(curr_course, cycle_set):
-
-            if curr_course in visited:
+            if course in visited:
                 return True
 
-            if curr_course in cycle_set:
+            if course in cycled:
                 return False
 
-            cycle_set.add(curr_course)
+            cycled.add(course)
 
-            for prev in graph[curr_course]:
-                if not dfs(prev, cycle_set):
+            for prereq in graph[course]:
+                if not backtrack(prereq, cycled):
                     return False
 
-            cycle_set.remove(curr_course)
-            visited.add(curr_course)
+            cycled.remove(course)
+            visited.add(course)
 
             return True
 
+        
         graph = collections.defaultdict(list)
-        for a, b, in prerequisites:
+        for a, b in prerequisites:
             graph[a].append(b)
 
         visited = set()
+
         for course in range(numCourses):
             if course in graph:
-                if not dfs(course, set()):
+                if not backtrack(course, set()):
                     return False
 
         return True
-        
