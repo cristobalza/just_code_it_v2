@@ -1,55 +1,58 @@
 class Solution:
     def totalFruit(self, fruits: List[int]) -> int:
         """
-                         0 1 2 3 4
-        Input: fruits = [1,2,3,2,2]
-                                 r
+        fruits := List[int] -> i := tree
+                               fruits[i] := type of fruit 
+
+        Rules:
+            -  two baskets only -> can only hold one type of fruit per basket. No limit on amount of fruits
+            -  Starting at any tree, myst pick one fruit from every tree
+
+        Input: fruits = [1,2,1]
+                         l
+                             r
+
+                    basket = {1: 2, 2: 1}
+
+                    window = r - l + 1
+
+        Input: fruits = [0,1,2,2]
                            l
-        
-        tree type fruit[i]: count
-        {
-            1: 0 X
-            2: 3
-            3: 1
-        }
-        hmap[fruit[r]] = 1 + hmap.get(r, 0)
-        curr_sum += 1
-        if len(hmap) > 2:
-            fruit[l] # 1
-            hmap[fruit[l]] -= 1
-            l += 1
-            curr_sum -= 1
+                               r
 
-            if not hmap[fruit[l]]:
-                hmap.pop(fruit[l])
+            basket = [1, 2]
 
+            res = 3
 
+        [3,3,3,1,2,1,1,2,3,3,4]
+               l
+                         r
 
-        curr_sum = 4
-        res = max(3, 4) = 4
+         basket= {1, 2}
 
-        res = max(res, curr_sum)
+         res = 5
+
         """
 
-        hmap = {}
         l = 0
+        basket = {} # use a hmap as tree fruit: frequency
+
+        n = len(fruits)
+
         res = 0
-        curr_sum = 0
 
-        for r in range(len(fruits)):
-            hmap[fruits[r]] = 1 + hmap.get(fruits[r], 0)
-            curr_sum += 1
+        for r in range(n):
+            basket[fruits[r]] = 1 + basket.get(fruits[r], 0)
 
-            if len(hmap) > 2:
-                tree_fruit = fruits[l]
-                hmap[tree_fruit] -= 1
+            while len(basket) > 2:
+                basket[fruits[l]] -= 1
+                if not basket[fruits[l]]:
+                    del basket[fruits[l]]
+
                 l += 1
-                curr_sum -= 1
 
-                if not hmap[tree_fruit]: 
-                    del hmap[tree_fruit]
-            
-            res = max(res, curr_sum)
+            res = max(res, r - l + 1)
 
         return res
-        
+
+
