@@ -1,22 +1,16 @@
 class Solution:
     def maxArea(self, height: List[int]) -> int:
-        # sliding window O(N) time and O(1) space
-
-        l = 0
-        r = len(height) - 1
-        res = 0
+        
+        area = 0
+        l, r = 0, len(height) - 1
 
         while l < r:
-
-            area = min(height[l], height[r]) * (r - l)
-
-            res = max(res, area)
+            
+            area = max(area, (r - l) * min(height[l], height[r]))
 
             if height[l] < height[r]:
                 l += 1
             else:
                 r -= 1
-                
 
-        
-        return res
+        return area
