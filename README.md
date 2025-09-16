@@ -87,6 +87,7 @@
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/cristobalza/just_code_it_v2/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/cristobalza/just_code_it_v2/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/cristobalza/just_code_it_v2/tree/master/1635-number-of-good-pairs) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/cristobalza/just_code_it_v2/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -153,6 +154,7 @@
 | [0441-arranging-coins](https://github.com/cristobalza/just_code_it_v2/tree/master/0441-arranging-coins) |
 | [1013-fibonacci-number](https://github.com/cristobalza/just_code_it_v2/tree/master/1013-fibonacci-number) |
 | [1635-number-of-good-pairs](https://github.com/cristobalza/just_code_it_v2/tree/master/1635-number-of-good-pairs) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/cristobalza/just_code_it_v2/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Memoization
 |  |
 | ------- |
@@ -207,6 +209,7 @@
 | [0739-daily-temperatures](https://github.com/cristobalza/just_code_it_v2/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/cristobalza/just_code_it_v2/tree/master/0883-car-fleet) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/cristobalza/just_code_it_v2/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/cristobalza/just_code_it_v2/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -624,4 +627,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/cristobalza/just_code_it_v2/tree/master/0062-unique-paths) |
+## Number Theory
+|  |
+| ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/cristobalza/just_code_it_v2/tree/master/2307-replace-non-coprime-numbers-in-array) |
 <!---LeetCode Topics End-->
