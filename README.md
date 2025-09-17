@@ -52,6 +52,7 @@
 | [0217-contains-duplicate](https://github.com/cristobalza/just_code_it_v2/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/cristobalza/just_code_it_v2/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/cristobalza/just_code_it_v2/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/cristobalza/just_code_it_v2/tree/master/0239-sliding-window-maximum) |
 | [0252-meeting-rooms](https://github.com/cristobalza/just_code_it_v2/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/cristobalza/just_code_it_v2/tree/master/0253-meeting-rooms-ii) |
 | [0268-missing-number](https://github.com/cristobalza/just_code_it_v2/tree/master/0268-missing-number) |
@@ -445,6 +446,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/cristobalza/just_code_it_v2/tree/master/0023-merge-k-sorted-lists) |
+| [0239-sliding-window-maximum](https://github.com/cristobalza/just_code_it_v2/tree/master/0239-sliding-window-maximum) |
 | [0253-meeting-rooms-ii](https://github.com/cristobalza/just_code_it_v2/tree/master/0253-meeting-rooms-ii) |
 | [0295-find-median-from-data-stream](https://github.com/cristobalza/just_code_it_v2/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/cristobalza/just_code_it_v2/tree/master/0347-top-k-frequent-elements) |
@@ -560,6 +562,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/cristobalza/just_code_it_v2/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/cristobalza/just_code_it_v2/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/cristobalza/just_code_it_v2/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/cristobalza/just_code_it_v2/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/cristobalza/just_code_it_v2/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/cristobalza/just_code_it_v2/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/cristobalza/just_code_it_v2/tree/master/0643-maximum-average-subarray-i) |
@@ -634,10 +637,12 @@
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/cristobalza/just_code_it_v2/tree/master/0239-sliding-window-maximum) |
 | [0954-maximum-sum-circular-subarray](https://github.com/cristobalza/just_code_it_v2/tree/master/0954-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/cristobalza/just_code_it_v2/tree/master/0239-sliding-window-maximum) |
 | [0954-maximum-sum-circular-subarray](https://github.com/cristobalza/just_code_it_v2/tree/master/0954-maximum-sum-circular-subarray) |
 ## Trie
 |  |
