@@ -36,5 +36,3 @@ Input: nums = [1,3,-1,-3,5,3,6,7], k = 3
                 l += 1
 
         return res
-
-        return res
