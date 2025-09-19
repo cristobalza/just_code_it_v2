@@ -255,6 +255,7 @@
 | [1264-maximum-number-of-words-you-can-type](https://github.com/cristobalza/just_code_it_v2/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1635-number-of-good-pairs](https://github.com/cristobalza/just_code_it_v2/tree/master/1635-number-of-good-pairs) |
 | [2429-design-a-food-rating-system](https://github.com/cristobalza/just_code_it_v2/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/cristobalza/just_code_it_v2/tree/master/3678-design-task-manager) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/cristobalza/just_code_it_v2/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Matrix
 |  |
@@ -453,6 +454,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/cristobalza/just_code_it_v2/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0778-reorganize-string](https://github.com/cristobalza/just_code_it_v2/tree/master/0778-reorganize-string) |
 | [2429-design-a-food-rating-system](https://github.com/cristobalza/just_code_it_v2/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/cristobalza/just_code_it_v2/tree/master/3678-design-task-manager) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -505,6 +507,7 @@
 | [0817-design-hashmap](https://github.com/cristobalza/just_code_it_v2/tree/master/0817-design-hashmap) |
 | [1023-time-based-key-value-store](https://github.com/cristobalza/just_code_it_v2/tree/master/1023-time-based-key-value-store) |
 | [2429-design-a-food-rating-system](https://github.com/cristobalza/just_code_it_v2/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/cristobalza/just_code_it_v2/tree/master/3678-design-task-manager) |
 ## Binary Search
 |  |
 | ------- |
@@ -661,4 +664,5 @@
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/cristobalza/just_code_it_v2/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/cristobalza/just_code_it_v2/tree/master/3678-design-task-manager) |
 <!---LeetCode Topics End-->
