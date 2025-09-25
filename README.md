@@ -35,6 +35,7 @@
 | [0090-subsets-ii](https://github.com/cristobalza/just_code_it_v2/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/cristobalza/just_code_it_v2/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/cristobalza/just_code_it_v2/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/cristobalza/just_code_it_v2/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/cristobalza/just_code_it_v2/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/cristobalza/just_code_it_v2/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/cristobalza/just_code_it_v2/tree/master/0134-gas-station) |
@@ -107,6 +108,7 @@
 | [0070-climbing-stairs](https://github.com/cristobalza/just_code_it_v2/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/cristobalza/just_code_it_v2/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/cristobalza/just_code_it_v2/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/cristobalza/just_code_it_v2/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/cristobalza/just_code_it_v2/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/cristobalza/just_code_it_v2/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/cristobalza/just_code_it_v2/tree/master/0139-word-break) |
