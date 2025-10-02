@@ -166,6 +166,7 @@
 | [1013-fibonacci-number](https://github.com/cristobalza/just_code_it_v2/tree/master/1013-fibonacci-number) |
 | [1635-number-of-good-pairs](https://github.com/cristobalza/just_code_it_v2/tree/master/1635-number-of-good-pairs) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/cristobalza/just_code_it_v2/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [3336-water-bottles-ii](https://github.com/cristobalza/just_code_it_v2/tree/master/3336-water-bottles-ii) |
 ## Memoization
 |  |
 | ------- |
@@ -609,6 +610,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/cristobalza/just_code_it_v2/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/cristobalza/just_code_it_v2/tree/master/0498-diagonal-traverse) |
+| [3336-water-bottles-ii](https://github.com/cristobalza/just_code_it_v2/tree/master/3336-water-bottles-ii) |
 ## Merge Sort
 |  |
 | ------- |
