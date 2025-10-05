@@ -1,33 +1,29 @@
 class Solution:
     def generateParenthesis(self, n: int) -> List[str]:
 
-        def backtrack(start, end, subset):
+        def backtrack(_open, _close, subset):
 
-            if start == end == n:
-                res.append("".join(subset))
+            if _open == _close == n:
+                res.append("".join(subset[::]))
                 return
 
-            if start < n:
+            if _open < n:
                 subset.append("(")
-                backtrack(start + 1, end, subset)
+                backtrack(_open + 1, _close, subset)
                 subset.pop()
 
-            if end < start:
+            if _close < _open:
                 subset.append(")")
-                backtrack(start, end + 1, subset)
+                backtrack(_open, _close + 1, subset)
                 subset.pop()
 
-            return
+            return 
+
 
         res = []
-
+        
         backtrack(0, 0, [])
 
         return res
 
-
-            
-
-
-                
         
