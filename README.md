@@ -148,6 +148,7 @@
 | [0463-island-perimeter](https://github.com/cristobalza/just_code_it_v2/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/cristobalza/just_code_it_v2/tree/master/0733-flood-fill) |
 | [1396-count-servers-that-communicate](https://github.com/cristobalza/just_code_it_v2/tree/master/1396-count-servers-that-communicate) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/cristobalza/just_code_it_v2/tree/master/2793-count-the-number-of-complete-components) |
 ## Math
 |  |
@@ -312,6 +313,7 @@
 | [0572-subtree-of-another-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/0572-subtree-of-another-tree) |
 | [0733-flood-fill](https://github.com/cristobalza/just_code_it_v2/tree/master/0733-flood-fill) |
 | [1396-count-servers-that-communicate](https://github.com/cristobalza/just_code_it_v2/tree/master/1396-count-servers-that-communicate) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2793-count-the-number-of-complete-components](https://github.com/cristobalza/just_code_it_v2/tree/master/2793-count-the-number-of-complete-components) |
 ## Tree
 |  |
@@ -332,6 +334,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/0572-subtree-of-another-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -351,6 +354,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/0572-subtree-of-another-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Linked List
 |  |
 | ------- |
