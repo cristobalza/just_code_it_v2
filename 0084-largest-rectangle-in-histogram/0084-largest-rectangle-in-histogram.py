@@ -1,8 +1,6 @@
 class Solution:
     def largestRectangleArea(self, heights: List[int]) -> int:
-        if len(heights) == 1:
-            return heights[0]
-        
+
         area = lambda x, y: x*y
         
         res = 0
