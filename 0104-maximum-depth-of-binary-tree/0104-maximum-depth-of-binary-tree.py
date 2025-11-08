@@ -11,9 +11,9 @@ class Solution:
             if not node:
                 return 0
 
-            l = 1 + dfs(node.left)
-            r = 1 + dfs(node.right)
+            r = dfs(node.right)
+            l = dfs(node.left)
 
-            return max(l, r)
+            return 1 + max(r, l)
 
         return dfs(root)
