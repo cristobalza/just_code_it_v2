@@ -1,7 +1,7 @@
 class Solution:
     def permute(self, nums: List[int]) -> List[List[int]]:
         
-        def backtrack(i, subset):
+        def backtrack(i):
             if i == len(nums):
                 res.append(nums[::])
                 return 
@@ -10,13 +10,13 @@ class Solution:
 
                 nums[i], nums[j] = nums[j], nums[i]
 
-                backtrack(i + 1, subset)
+                backtrack(i + 1)
 
                 nums[i], nums[j] = nums[j], nums[i]
 
 
         res = []
 
-        backtrack(0, nums)
+        backtrack(0)
 
         return res
