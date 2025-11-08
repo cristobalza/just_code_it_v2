@@ -1,32 +1,33 @@
 class Solution:
     def countComponents(self, n: int, edges: List[List[int]]) -> int:
-
-        def dfs(node):
+        
+        def dfs(node, prev):
             nonlocal visited, graph
 
             if node in visited:
-                return 
+                return False
 
             visited.add(node)
-
+            
             for neigh in graph[node]:
-                dfs(neigh)
+                if neigh != prev and neigh not in visited:
+                    if not dfs(neigh, node):
+                        return False
 
-            return
+            return True
 
-
-        graph = {num : [] for num in range(n)}
+        visited = set()
+        graph = collections.defaultdict(list)
 
         for a, b in edges:
             graph[a].append(b)
             graph[b].append(a)
 
-        visited = set()
         res = 0
 
         for node in range(n):
-            if node not in visited:
+
+            if dfs(node, None):
                 res += 1
-                dfs(node)
 
         return res
