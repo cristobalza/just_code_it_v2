@@ -5,9 +5,7 @@ class Solution:
 
         nums.sort()
 
-        n = len(nums)
-
-        if n % 2 == 0:
-            return (nums[n // 2] + nums[(n // 2) - 1]) / 2
+        if len(nums) % 2 != 0:
+            return nums[len(nums) // 2]
         else:
-            return nums[n // 2]
+            return (nums[(len(nums) // 2)] + nums[(len(nums) // 2) - 1]) / 2
