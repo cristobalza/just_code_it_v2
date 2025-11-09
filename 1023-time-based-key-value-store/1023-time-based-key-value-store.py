@@ -1,34 +1,32 @@
 class TimeMap:
 
     def __init__(self):
-        self.hashmap = collections.defaultdict(list[tuple])
-
-    def set(self, key: str, value: str, timestamp: int) -> None:
-        self.hashmap[key].append((timestamp, value))
+        self.hmap = {} # key: [value, timestamp]
         
+    def set(self, key: str, value: str, timestamp: int) -> None:
+        if key not in self.hmap:
+            self.hmap[key] = []
+        self.hmap[key].append([value, timestamp])
+
     def get(self, key: str, timestamp: int) -> str:
-        arr = self.hashmap.get(key, None)
-        if arr is None:
+        if key not in self.hmap:
             return ""
 
-        l, r = 0, len(arr)
+        res = ""
+        value_time_list = self.hmap[key]
+        l, r = 0, len(value_time_list) - 1
 
-        if arr[r - 1][0] <= timestamp: # get last one 
-            return arr[r - 1][1]
+        while l <= r:
+            m = (l + r) // 2
 
-        if arr[l][0] > timestamp: # timestamp is before the oldest timestamp
-            return ""
-
-        while l < r:
-            mid = (l + r) // 2
-
-            if arr[mid][0] <= timestamp:
-                l = mid + 1
+            if value_time_list[m][1] <= timestamp:
+                res = value_time_list[m][0]
+                l = m + 1
             else:
-                r = mid
+                r = m - 1
 
-        return arr[r - 1][1]
-            
+        return res
+        
 
 
 # Your TimeMap object will be instantiated and called as such:
