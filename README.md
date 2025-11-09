@@ -82,6 +82,7 @@
 | [0724-find-pivot-index](https://github.com/cristobalza/just_code_it_v2/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/cristobalza/just_code_it_v2/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/cristobalza/just_code_it_v2/tree/master/0739-daily-temperatures) |
+| [0747-min-cost-climbing-stairs](https://github.com/cristobalza/just_code_it_v2/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/cristobalza/just_code_it_v2/tree/master/0792-binary-search) |
 | [0817-design-hashmap](https://github.com/cristobalza/just_code_it_v2/tree/master/0817-design-hashmap) |
 | [0878-shifting-letters](https://github.com/cristobalza/just_code_it_v2/tree/master/0878-shifting-letters) |
@@ -124,6 +125,7 @@
 | [0322-coin-change](https://github.com/cristobalza/just_code_it_v2/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/cristobalza/just_code_it_v2/tree/master/0435-non-overlapping-intervals) |
 | [0647-palindromic-substrings](https://github.com/cristobalza/just_code_it_v2/tree/master/0647-palindromic-substrings) |
+| [0747-min-cost-climbing-stairs](https://github.com/cristobalza/just_code_it_v2/tree/master/0747-min-cost-climbing-stairs) |
 | [0954-maximum-sum-circular-subarray](https://github.com/cristobalza/just_code_it_v2/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/cristobalza/just_code_it_v2/tree/master/1013-fibonacci-number) |
 | [1020-longest-turbulent-subarray](https://github.com/cristobalza/just_code_it_v2/tree/master/1020-longest-turbulent-subarray) |
