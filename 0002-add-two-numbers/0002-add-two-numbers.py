@@ -5,28 +5,27 @@
 #         self.next = next
 class Solution:
     def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
-        """
-        243 + 564 = 807 => 708
-        """
-        num1, num2 = "", ""
-        c1, c2 = l1, l2
+        num1_str, num2_str = "", ""
 
-        while c1:
-            num1 += str(c1.val)
-            c1 = c1.next
+        curr = l1
+        while curr:
+            num1_str += str(curr.val)
+            curr = curr.next
 
-        while c2:
-            num2 += str(c2.val)
-            c2 = c2.next
+        curr = l2
+        while curr:
+            num2_str += str(curr.val)
+            curr = curr.next
 
-        total_reversed_str = str(int(num1[::-1]) + int(num2[::-1]))[::-1]
+        num1_str, num2_str = num1_str[::-1], num2_str[::-1]
+
+        total_num_str = str(int(num1_str) + int(num2_str))[::-1]
 
         dummy = ListNode(-1)
         curr = dummy
-
-        for val in total_reversed_str:
-            node = ListNode(val=int(val))
-            curr.next = node
+        for digit_str in total_num_str:
+            curr.next = ListNode(val=int(digit_str))
             curr = curr.next
-        
+
         return dummy.next
+
