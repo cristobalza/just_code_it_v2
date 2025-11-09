@@ -6,25 +6,29 @@
 #         self.right = right
 class Solution:
     def isBalanced(self, root: Optional[TreeNode]) -> bool:
-        
+        """
+        How to check that a tree is unbalance?
+            Number of nodes in left and right -> if abs(r_height - l_height) > 1 then its false
 
-        def dfs(node, curr_height, is_balanced):
+    
+        """
+
+        def dfs(node, height, is_balanced) -> [int, bool]:
             if not node:
                 return 0, True
 
-            l_height, l_balanced = dfs(node.left, curr_height, is_balanced)
-            if l_balanced is False:
-                return curr_height, False
+            l_h, l_is_balanced = dfs(node.left, height, is_balanced)
+            r_h, r_is_balanced = dfs(node.right, height, is_balanced)
 
-            r_height, r_balanced = dfs(node.right, curr_height, is_balanced)
-            if r_balanced is False:
-                return curr_height, False
+            if l_is_balanced is False or r_is_balanced is False:
+                return height, False
 
-            if abs(r_height - l_height) > 1:
+            if abs(l_h - r_h) > 1:
                 is_balanced = False
 
-            return 1 + max(l_height, r_height), is_balanced
+            return 1 + max(l_h, r_h), is_balanced
 
-        _, res = dfs(root, 0, True)
+        return dfs(root, 0, True)[1]
 
-        return res
+
+        
