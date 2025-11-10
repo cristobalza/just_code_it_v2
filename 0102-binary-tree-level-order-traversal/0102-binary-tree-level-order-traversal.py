@@ -6,21 +6,23 @@
 #         self.right = right
 class Solution:
     def levelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
-        # bfs
+        # BFS
 
         if not root:
             return []
 
         q = collections.deque()
         q.append(root)
+
         res = []
 
         while q:
-            children = len(q)
+            nodes_level_count = len(q)
             subset = []
 
-            for _ in range(children):
+            for _ in range(nodes_level_count):
                 node = q.popleft()
+
                 subset.append(node.val)
 
                 if node.left:
@@ -30,6 +32,5 @@ class Solution:
                     q.append(node.right)
 
             res.append(subset)
-        
+
         return res
-        
