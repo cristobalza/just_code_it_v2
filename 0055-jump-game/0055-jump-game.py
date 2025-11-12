@@ -1,18 +1,28 @@
 class Solution:
     def canJump(self, nums: List[int]) -> bool:
-        n = len(nums)
-        dp = [False] * n
 
-        dp[0] = True
+        def dfs(i):
 
-        for i in range(n):
+            if i in memo:
+                return memo[i]
+            
+            if i == n - 1:
+                return True
 
-            if dp[i] is False:
+            if nums[i] == 0:
+                memo[i] = False
                 return False
 
-            jump = min(i + nums[i], n - 1)
+            jump_upper_bound = min(i + nums[i], n - 1)
 
-            for j in range(i + 1, jump + 1):
-                dp[j] = True
+            for j in range(jump_upper_bound, i, -1):
+                if dfs(j):
+                    memo[i] = True
+                    return True
+            memo[i] = False
+            return False
 
-        return dp[-1]
+        memo = {}
+        n = len(nums)
+
+        return dfs(0)
