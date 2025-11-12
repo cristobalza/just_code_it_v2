@@ -10,7 +10,6 @@ class Solution:
                 return True
 
             if nums[i] == 0:
-                memo[i] = False
                 return False
 
             jump_upper_bound = min(i + nums[i], n - 1)
