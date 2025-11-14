@@ -150,6 +150,7 @@
 | [0210-course-schedule-ii](https://github.com/cristobalza/just_code_it_v2/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/0226-invert-binary-tree) |
 | [0261-graph-valid-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/0261-graph-valid-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/cristobalza/just_code_it_v2/tree/master/0322-coin-change) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/cristobalza/just_code_it_v2/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0417-pacific-atlantic-water-flow](https://github.com/cristobalza/just_code_it_v2/tree/master/0417-pacific-atlantic-water-flow) |
@@ -211,6 +212,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/cristobalza/just_code_it_v2/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/cristobalza/just_code_it_v2/tree/master/0242-valid-anagram) |
 | [0271-encode-and-decode-strings](https://github.com/cristobalza/just_code_it_v2/tree/master/0271-encode-and-decode-strings) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0383-ransom-note](https://github.com/cristobalza/just_code_it_v2/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/cristobalza/just_code_it_v2/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/cristobalza/just_code_it_v2/tree/master/0567-permutation-in-string) |
@@ -321,6 +323,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/cristobalza/just_code_it_v2/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0261-graph-valid-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/0261-graph-valid-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/cristobalza/just_code_it_v2/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0417-pacific-atlantic-water-flow](https://github.com/cristobalza/just_code_it_v2/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/cristobalza/just_code_it_v2/tree/master/0463-island-perimeter) |
@@ -348,6 +351,7 @@
 | [0226-invert-binary-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/cristobalza/just_code_it_v2/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/0572-subtree-of-another-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -368,6 +372,7 @@
 | [0226-invert-binary-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/cristobalza/just_code_it_v2/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/0572-subtree-of-another-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -546,6 +551,7 @@
 | [0211-design-add-and-search-words-data-structure](https://github.com/cristobalza/just_code_it_v2/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0271-encode-and-decode-strings](https://github.com/cristobalza/just_code_it_v2/tree/master/0271-encode-and-decode-strings) |
 | [0295-find-median-from-data-stream](https://github.com/cristobalza/just_code_it_v2/tree/master/0295-find-median-from-data-stream) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/cristobalza/just_code_it_v2/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/cristobalza/just_code_it_v2/tree/master/0304-range-sum-query-2d-immutable) |
 | [0359-logger-rate-limiter](https://github.com/cristobalza/just_code_it_v2/tree/master/0359-logger-rate-limiter) |
