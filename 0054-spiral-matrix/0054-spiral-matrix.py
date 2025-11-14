@@ -8,6 +8,8 @@ class Solution:
         i = 0
 
         while i < area:
+
+            # Right
             for c in range(S_COLS, E_COLS):
                 res.append(matrix[S_ROWS][c])
                 i += 1
@@ -17,6 +19,7 @@ class Solution:
 
             S_ROWS += 1
 
+            # Down
             for r in range(S_ROWS, E_ROWS):
                 res.append(matrix[r][E_COLS - 1])
                 i += 1
@@ -26,6 +29,7 @@ class Solution:
 
             E_COLS -= 1
 
+            # Left
             for c in range(E_COLS - 1, S_COLS - 1, -1):
                 res.append(matrix[E_ROWS - 1][c])
                 i += 1
@@ -35,6 +39,7 @@ class Solution:
 
             E_ROWS -= 1
 
+            # Up
             for r in range(E_ROWS - 1, S_ROWS - 1, -1):
                 res.append(matrix[r][S_COLS])
                 i += 1
