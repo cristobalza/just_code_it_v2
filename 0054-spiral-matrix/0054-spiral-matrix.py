@@ -1,54 +1,46 @@
 class Solution:
     def spiralOrder(self, matrix: List[List[int]]) -> List[int]:
-        ROWS, COLS = len(matrix), len(matrix[0])
-
-        limit_top = 0
-        limit_bottom = 0
-        limit_left = 0
-        limit_right = 0
-
+        E_ROWS, E_COLS = len(matrix), len(matrix[0]) 
+        area = E_ROWS * E_COLS
+        S_ROWS, S_COLS = 0, 0
         res = []
 
         i = 0
-        size = ROWS * COLS
 
-        while i < size:
-
-            # Right traversal
-            for c in range(limit_left, COLS - limit_right):
-                if i == size:
-                    break
+        while i < area:
+            for c in range(S_COLS, E_COLS):
+                res.append(matrix[S_ROWS][c])
                 i += 1
-                res.append(matrix[limit_top][c])
 
-            limit_top += 1
+            if i == area:
+                break
 
-            # Down traversal
-            for r in range(limit_top, ROWS - limit_bottom):
-                if i == size:
-                    break
+            S_ROWS += 1
+
+            for r in range(S_ROWS, E_ROWS):
+                res.append(matrix[r][E_COLS - 1])
                 i += 1
-                res.append(matrix[r][COLS - 1 - limit_right])
-            
-            limit_right += 1
 
-            # Left traversal
-            for c in range(COLS - 1 - limit_right, limit_left - 1, -1):
-                if i == size:
-                    break
+            if i == area:
+                break
+
+            E_COLS -= 1
+
+            for c in range(E_COLS - 1, S_COLS - 1, -1):
+                res.append(matrix[E_ROWS - 1][c])
                 i += 1
-                res.append(matrix[ROWS - 1 - limit_bottom][c])
-            
-            limit_bottom += 1
 
-            # Up traversal
-            for r in range(ROWS - 1 - limit_top, limit_bottom - 1, -1):
-                if i == size:
-                    break
+            if i == area:
+                break
+
+            E_ROWS -= 1
+
+            for r in range(E_ROWS - 1, S_ROWS - 1, -1):
+                res.append(matrix[r][S_COLS])
                 i += 1
-                res.append(matrix[r][limit_left])
 
-            limit_left += 1
-        
+            if i == area:
+                break
+            S_COLS += 1
+
         return res
-
