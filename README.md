@@ -223,6 +223,7 @@
 | [1264-maximum-number-of-words-you-can-type](https://github.com/cristobalza/just_code_it_v2/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2429-design-a-food-rating-system](https://github.com/cristobalza/just_code_it_v2/tree/master/2429-design-a-food-rating-system) |
 | [2887-sort-vowels-in-a-string](https://github.com/cristobalza/just_code_it_v2/tree/master/2887-sort-vowels-in-a-string) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/cristobalza/just_code_it_v2/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3797-design-spreadsheet](https://github.com/cristobalza/just_code_it_v2/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/cristobalza/just_code_it_v2/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
@@ -508,6 +509,7 @@
 | [0778-reorganize-string](https://github.com/cristobalza/just_code_it_v2/tree/master/0778-reorganize-string) |
 | [1396-count-servers-that-communicate](https://github.com/cristobalza/just_code_it_v2/tree/master/1396-count-servers-that-communicate) |
 | [1635-number-of-good-pairs](https://github.com/cristobalza/just_code_it_v2/tree/master/1635-number-of-good-pairs) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/cristobalza/just_code_it_v2/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/cristobalza/just_code_it_v2/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Quickselect
 |  |
@@ -586,6 +588,7 @@
 | [0455-assign-cookies](https://github.com/cristobalza/just_code_it_v2/tree/master/0455-assign-cookies) |
 | [0778-reorganize-string](https://github.com/cristobalza/just_code_it_v2/tree/master/0778-reorganize-string) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/cristobalza/just_code_it_v2/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/cristobalza/just_code_it_v2/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Backtracking
 |  |
 | ------- |
