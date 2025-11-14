@@ -13,25 +13,27 @@ class Codec:
         :type root: TreeNode
         :rtype: str
         """
-        def dfs(node):
-            if not node:
-                res.append("N")
-                return
 
-            res.append(str(node.val))
+        if not root:
+            return "N"
 
-            dfs(node.left)
-            dfs(node.right)
-
-            return
+        q = collections.deque()
+        q.append(root)
 
         res = []
-        dfs(root)
+
+        while q:
+            node = q.popleft()
+            if node:
+                res.append(str(node.val))
+                q.append(node.left)
+                q.append(node.right)
+            else:
+                res.append("N")
+
         return ",".join(res)
 
-
-
-        
+            
 
     def deserialize(self, data):
         """Decodes your encoded data to tree.
@@ -39,26 +41,31 @@ class Codec:
         :type data: str
         :rtype: TreeNode
         """
-
-        def dfs():
-            nonlocal i
-            if i >= len(data) or data[i] == "N":
-                i += 1
-                return None
-
-            node = TreeNode(int(data[i]))
-            i += 1
-            node.left = dfs()
-            node.right = dfs()
-            return node
-
-        data = data.split(",")
-        i = 0
-        return dfs()
-
-            
         
+        # BFS
+        data = data.split(",")
+        if data[0] == "N":
+            return None
 
+        q = collections.deque()
+        root = TreeNode(int(data[0]))
+        q.append(root)
+        i = 1
+
+        while q:
+            node = q.popleft()
+            if data[i] != "N": 
+                node.left = TreeNode(int(data[i]))
+                q.append(node.left)
+            i += 1
+            
+            if data[i] != "N":
+                node.right = TreeNode(int(data[i]))
+                q.append(node.right)
+            i += 1
+
+        return root
+        
 # Your Codec object will be instantiated and called as such:
 # ser = Codec()
 # deser = Codec()
