@@ -3,7 +3,7 @@ class Solution:
         
         def dfs(node, prev):
 
-            if node in visited or node == prev:
+            if node in visited:
                 return False
             
             visited.add(node)
