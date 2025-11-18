@@ -7,20 +7,23 @@
 class Solution:
     def isValidBST(self, root: Optional[TreeNode]) -> bool:
 
-        def dfs(node, all_min, all_max):
-
+        def dfs(node):
             if not node:
-                return True
+                return None, None, True # min, max, is valid BST
 
-            if node.val <= all_min or node.val >= all_max:
-                return False
+            l_min, l_max, l_valid = dfs(node.left)
 
-            l = dfs(node=node.left, all_min=all_min, all_max =node.val)
-            r = dfs(node=node.right, all_min=node.val, all_max=all_max)
+            if not l_valid or (l_max is not None and node.val <= l_max):
+                return None, None, False
 
-            return l and r
+            r_min, r_max, r_valid = dfs(node.right)
 
+            if not r_valid or (r_min is not None and node.val >= r_min):
+                return None, None, False
 
-        return dfs(node=root, all_min=float("-inf"), all_max=float("inf"))
-        
-        
+            curr_min = l_min if l_min is not None else node.val
+            curr_max = r_max if r_max is not None else node.val
+
+            return curr_min, curr_max, True
+
+        return dfs(root)[2]
