@@ -9,22 +9,22 @@ class Node:
 from typing import Optional
 class Solution:
     def cloneGraph(self, node: Optional['Node']) -> Optional['Node']:
-        old_to_new_hmap = {}
 
         def dfs(node):
-            if not node:
-                return None
-                
-            if node in old_to_new_hmap:
-                return old_to_new_hmap[node]
 
-            copy_node = Node(node.val)
-            old_to_new_hmap[node] = copy_node
+            if node in hmap:
+                return hmap[node]
+
+            if not node:
+                return 
+            
+            hmap[node] = Node(node.val)
 
             for neigh in node.neighbors:
-                copy_node.neighbors.append(dfs(neigh))
+                hmap[node].neighbors.append(dfs(neigh))
+            
+            return hmap[node]
 
-            return copy_node
+        hmap = {} # old node: copy node
 
         return dfs(node)
-        
