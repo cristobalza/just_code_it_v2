@@ -1,23 +1,25 @@
 class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:
-
+        
         def backtrack(i, subset):
 
+            
             if i == len(nums):
-                res.append(subset[::])
-                return
+                res.add(tuple(subset[::]))
+                return 
 
             subset.append(nums[i])
-            backtrack(i + 1, subset)
+
+            backtrack(i+1, subset)
 
             subset.pop()
-            backtrack(i + 1, subset)
 
-            return
+            backtrack(i+ 1, subset)
 
-        res = []
+            return 
 
+        res = set()
         backtrack(0, [])
 
-        return res
-        
+        return list(res)
+                
