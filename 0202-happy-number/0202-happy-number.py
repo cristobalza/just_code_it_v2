@@ -1,28 +1,22 @@
 class Solution:
     def isHappy(self, n: int) -> bool:
-
-        def helper(num):
-            if num == 1:
+        
+        def helper(n):
+            if n == 1:
                 return True
 
-            if num in hs:
+            if n in hset:
                 return False
 
-            hs.add(num)
+            hset.add(n)
+            curr_n = 0
 
-            total = 0
+            while n > 0:
+                curr_n = curr_n + ((n % 10)**2)
 
-            while num > 0:
-                total = total + (num % 10)**2
+                n = n // 10
 
-                num = num // 10
+            return helper(curr_n)
 
-            return helper(total)
-
-        hs = set()
+        hset = set()
         return helper(n)
-
-
-
-        
-        
