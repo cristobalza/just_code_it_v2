@@ -13,40 +13,28 @@ class Solution:
                        ...
                        11x
 
-        memoization:
+        bottom up:
 
-        base case: amount == 0: return 0 or if amount in memo: return memo
+        dp: [0, inf, inf, ..., inf] * (amount + 1)
+                 i 
+        
+        for i in range(1, n):
+            if i - coin >= 0:
+                dp[i] = min(dp[i], 1 + dp[i - coin])
+        
+        retun dp[-1] if possible
 
-        res = inf
-        for coin in coins
-            if  new_amount -> amount - coin >= 0
-                    res = min(res, 1 + recursion call dfs( new_amount))
-                                    add one more coin
-
-        memo[amount] = res
-        return memo[amount]
-
-        O(coins^amount) time 
-        O(amount) space
+        dp : [float(")]
+        O(coins * amount) time 
+        O(coins * amount) space
         """
 
-        def dfs(amount):
-            if amount == 0:
-                return 0
+        dp = [float("inf")] * (amount + 1) 
+        dp[0] = 0
 
-            if amount in memo:
-                return memo[amount]
-
-            res = float("inf")
+        for i in range(1, (amount + 1)):
             for coin in coins:
-                if amount - coin >= 0:
-                    res = min(res, 1 + dfs(amount - coin))
-            
-            memo[amount] = res
-            return memo[amount]
+                if i - coin >= 0:
+                    dp[i] = min(dp[i], 1 + dp[i - coin])
 
-        memo = {}
-
-        min_number_coins = dfs(amount)
-
-        return min_number_coins if min_number_coins != float("inf") else -1
+        return dp[-1] if dp[-1] != float("inf") else -1
