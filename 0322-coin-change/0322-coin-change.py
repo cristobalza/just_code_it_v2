@@ -1,22 +1,14 @@
 class Solution:
     def coinChange(self, coins: List[int], amount: int) -> int:
-        # Memoization
+        # Bottom up
 
-        def dfs(amount):
-            if amount == 0:
-                return 0
+        dp = [float('inf')] * (amount + 1)
 
-            if amount in memo:
-                return memo[amount]
+        dp[0] = 0
 
-            res = float('inf') 
+        for i in range(1, (amount + 1)):
             for coin in coins:
-                if amount - coin >= 0:
-                    res = min(res, 1 + dfs(amount - coin))
-            
-            memo[amount] = res
-            return memo[amount]
+                if i - coin >= 0:
+                    dp[i] = min(dp[i], 1 + dp[i - coin])
 
-        memo = {}
-        min_number = dfs(amount)
-        return min_number if min_number != float("inf") else -1
+        return -1 if dp[-1] == float('inf') else dp[-1]
