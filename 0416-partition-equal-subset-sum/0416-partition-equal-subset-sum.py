@@ -1,5 +1,7 @@
 class Solution:
     def canPartition(self, nums: List[int]) -> bool:
+        # Memoization
+
         if sum(nums) % 2 != 0:
             return False
         
@@ -14,7 +16,7 @@ class Solution:
             if (i, target) in memo:
                 return memo[(i, target)]
             
-            # Try including or excluding current number
+            # Recursion call: Try including or excluding current number
             memo[(i, target)] = dfs(i + 1, target - nums[i]) or dfs(i + 1, target)
             
             return memo[(i, target)]
