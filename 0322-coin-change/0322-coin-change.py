@@ -1,40 +1,22 @@
 class Solution:
     def coinChange(self, coins: List[int], amount: int) -> int:
-        """
-        coins = [1,2,5], amount = 11
+        # Memoization
 
+        def dfs(amount):
+            if amount == 0:
+                return 0
 
-                        1
-                       1 2 5
-                       1 ...
-                       1  6x   5
-                       1       3x
-                       1
-                       ...
-                       11x
+            if amount in memo:
+                return memo[amount]
 
-        bottom up:
-
-        dp: [0, inf, inf, ..., inf] * (amount + 1)
-                 i 
-        
-        for i in range(1, n):
-            if i - coin >= 0:
-                dp[i] = min(dp[i], 1 + dp[i - coin])
-        
-        retun dp[-1] if possible
-
-        dp : [float(")]
-        O(coins * amount) time 
-        O(coins * amount) space
-        """
-
-        dp = [float("inf")] * (amount + 1) 
-        dp[0] = 0
-
-        for i in range(1, (amount + 1)):
+            res = float('inf') 
             for coin in coins:
-                if i - coin >= 0:
-                    dp[i] = min(dp[i], 1 + dp[i - coin])
+                if amount - coin >= 0:
+                    res = min(res, 1 + dfs(amount - coin))
+            
+            memo[amount] = res
+            return memo[amount]
 
-        return dp[-1] if dp[-1] != float("inf") else -1
+        memo = {}
+        min_number = dfs(amount)
+        return min_number if min_number != float("inf") else -1
