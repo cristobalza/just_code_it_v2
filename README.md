@@ -76,6 +76,7 @@
 | [0435-non-overlapping-intervals](https://github.com/cristobalza/just_code_it_v2/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/cristobalza/just_code_it_v2/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/cristobalza/just_code_it_v2/tree/master/0463-island-perimeter) |
+| [0494-target-sum](https://github.com/cristobalza/just_code_it_v2/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/cristobalza/just_code_it_v2/tree/master/0498-diagonal-traverse) |
 | [0540-single-element-in-a-sorted-array](https://github.com/cristobalza/just_code_it_v2/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/cristobalza/just_code_it_v2/tree/master/0560-subarray-sum-equals-k) |
@@ -128,6 +129,7 @@
 | [0322-coin-change](https://github.com/cristobalza/just_code_it_v2/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/cristobalza/just_code_it_v2/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/cristobalza/just_code_it_v2/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/cristobalza/just_code_it_v2/tree/master/0494-target-sum) |
 | [0647-palindromic-substrings](https://github.com/cristobalza/just_code_it_v2/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/cristobalza/just_code_it_v2/tree/master/0747-min-cost-climbing-stairs) |
 | [0954-maximum-sum-circular-subarray](https://github.com/cristobalza/just_code_it_v2/tree/master/0954-maximum-sum-circular-subarray) |
@@ -610,6 +612,7 @@
 | [0079-word-search](https://github.com/cristobalza/just_code_it_v2/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/cristobalza/just_code_it_v2/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/cristobalza/just_code_it_v2/tree/master/0093-restore-ip-addresses) |
+| [0494-target-sum](https://github.com/cristobalza/just_code_it_v2/tree/master/0494-target-sum) |
 ## Monotonic Stack
 |  |
 | ------- |
