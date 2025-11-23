@@ -1,26 +1,18 @@
 class Solution:
     def mincostTickets(self, days: List[int], costs: List[int]) -> int:
-        # Memoization
+        # Bottom-up
 
-        def dfs(i):
-            if i == len(days):
-                return 0
+        dp = [0] * (len(days) + 1)
 
-            if i in memo:
-                return memo[i]
-
-            res = float("inf")
+        for i in range(len(days) - 1, -1, -1):
             j = i
 
+            dp[i] = float("inf")
+
             for cost, duration in zip(costs, [1, 7, 30]):
-            
                 while j < len(days) and days[j] < days[i] + duration:
                     j += 1
 
-                res = min(res, cost + dfs(j))
+                dp[i] = min(dp[i], cost + dp[j])
 
-            memo[i] = res
-            return memo[i]
-
-        memo = {}
-        return dfs(0)
+        return dp[0]
