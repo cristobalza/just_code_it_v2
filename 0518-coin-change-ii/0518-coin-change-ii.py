@@ -1,26 +1,28 @@
 class Solution:
     def change(self, amount: int, coins: List[int]) -> int:
 
-        # Memoization
+        # Bottom-up
+        
+        """
+        amount = 5
+        coins = [1, 2, 5]
 
-        def dfs(i, amount):
+          0 1 2 3 4 5
+          - - - - - -          
+       1 |1 0 0 0 0 0 
+       2 |1 0 0 0 0 0
+       5 |1 0 0 0 0 0
+        """
 
-            # Base case
-            if i == len(coins) or amount < 0:
-                return 0
+        dp = [[0]* (len(coins) + 1) for _ in range(amount + 1)] 
 
-            if amount == 0:
-                return 1
+        for c in range(len(coins) + 1):
+            dp[0][c] = 1
 
-            if (i, amount) in memo:
-                return memo[(i, amount)]
+        for i in range(1, amount + 1):
+            for j in range(len(coins) - 1,  -1, -1):
+                dp[i][j] = dp[i][j + 1] 
+                if i - coins[j] >= 0:
+                    dp[i][j] += dp[i - coins[j]][j]
 
-            # Recursive call:
-            #     1. Try current coin
-            #     2. Skip current coin
-            memo[(i, amount)] = dfs(i, amount - coins[i]) + dfs(i + 1, amount)
-
-            return memo[(i, amount)]
-
-        memo = {}
-        return dfs(0, amount)
+        return dp[amount][0]
