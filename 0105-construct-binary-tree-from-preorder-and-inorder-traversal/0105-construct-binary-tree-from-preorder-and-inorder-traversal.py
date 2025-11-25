@@ -6,26 +6,22 @@
 #         self.right = right
 class Solution:
     def buildTree(self, preorder: List[int], inorder: List[int]) -> Optional[TreeNode]:
-        """
-         preorder = [3,9,20,15,7], inorder = [9,| 3 | ,15,20,7]
-                       i                      l-- i.  ----r
 
-        """
+        def dfs(q_preorder, inorder):
+            # Base case
+            if not q_preorder or not inorder:
+                return 
 
-        def dfs(i, inorder):
-            if i == len(preorder):
-                return None
-            
-            if not inorder:
-                return None
-
-            val = preorder[i]
+            val = q_preorder.popleft()
             node = TreeNode(val)
-            idx = inorder.index(val)
+            i = inorder.index(val)
 
-            node.left = dfs(i + 1, inorder[:idx])
-            node.right = dfs(i + 1 + idx, inorder[idx+1:])
+            # Recursive call
+            node.left = dfs(q_preorder, inorder[:i])
+            node.right = dfs(q_preorder, inorder[i + 1:])
 
             return node
 
-        return dfs(0, inorder)
+        q = collections.deque(preorder)
+        return dfs(q, inorder)
+
