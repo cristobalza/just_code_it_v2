@@ -3,33 +3,31 @@ class Solution:
         """
         Do not return anything, modify matrix in-place instead.
         """
-
-        m, n = len(matrix), len(matrix[0])
-        zeroes_hs = set()
         
-        # Collect zeroes
-        for r in range(m):
-            for c in range(n):
+        ROWS, COLS = len(matrix), len(matrix[0])
+
+        bag = []
+
+        for r in range(ROWS):
+            for c in range(COLS):
                 if matrix[r][c] == 0:
-                    zeroes_hs.add((r, c))
+                    bag.append((r, c))
 
-        
-        # Explore
-        while zeroes_hs:
-            pivot_r, pivot_c = zeroes_hs.pop()
+        for r, c in bag:
+            # To right
+            for _c in range(c + 1, COLS):
+                matrix[r][_c] = 0
 
-            # Go down
-            for r in range(pivot_r + 1, m):
-                matrix[r][pivot_c] = 0
+            # To left
+            for _c in range(COLS - 1, -c, -1):
+                matrix[r][_c] = 0
 
-            # Go up
-            for r in range(m - 1, -pivot_r - 1, -1):
-                matrix[r][pivot_c] = 0
+            # Up
+            for _r in range(r + 1, ROWS):
+                matrix[_r][c] = 0
 
-            # Go right
-            for c in range(pivot_c + 1, n):
-                matrix[pivot_r][c] = 0
+            # Down
+            for _r in range(ROWS-1, -r, -1):
+                matrix[_r][c] = 0
 
-            # Go left
-            for c in range(n - 1, -pivot_c - 1, -1):
-                matrix[pivot_r][c] = 0
+            
