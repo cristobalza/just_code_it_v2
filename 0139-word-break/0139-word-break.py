@@ -1,15 +1,21 @@
 class Solution:
     def wordBreak(self, s: str, wordDict: List[str]) -> bool:
-        n = len(s)
-        dp = [False] * (n + 1)
-        dp[n] = True
+        
+        def dfs(i):
 
-        for i in range(n - 1, -1, -1):
+            if i == len(s):
+                return True
+
+            if i in memo:
+                return memo[i]
+
             for word in wordDict:
-                word_size = len(word)
-                if i + word_size <= n and word == s[i: i + word_size]:
-                    dp[i] = dp[i + word_size]
-                if dp[i]:
-                    break
+                if ((i + len(word)) <= len(s)) and (s[i: i + len(word)] == word):
+                    memo[i] = dfs(i + len(word))
+                    if memo[i]:
+                        return True
+        
+            return False
 
-        return dp[0]
+        memo = {}
+        return dfs(0)
