@@ -8,54 +8,22 @@ class Solution:
         """
         Do not return anything, modify head in-place instead.
         """
+        # Find mid and end (slow fast pointers)
+        s, f = head, head
+        while f and f.next:
+            s = s.next
+            f = f.next.next
 
-        """
-
-        [1,2,3,4,5]
-               s
-                     f
-
-        4 -> 5
-      r m
-
-        mid.next = reverse
-        reverse = mid
-        mid = mid.next
-
-        [1,2,3,4,5]
-         c   m   
-
-        1 -> 2 => 3
-             c
-        5 -> 4 reverse second half
-             r
-        1 -> 5 -> 2 -> 4 -> 3
-
-        find mid
-        build reverse from mid
-        rebuild
-
-        """
-        if not head and not head.next:
-            return 
-
-        slow, fast = head, head
-        
-        while fast and fast.next:
-            slow = slow.next
-            fast = fast.next.next
-
-        mid = slow
-        reverse = None
-
+        mid = s
+        # Reverse from mid to end 
+        prev = None
         while mid:
-            mid.next, reverse, mid = reverse, mid, mid.next
-
-        curr = head
-        while curr.next and reverse.next:
-            curr.next, reverse.next, reverse, curr = reverse, curr.next, reverse.next, curr.next
-
+            mid.next, mid, prev = prev, mid.next, mid
         
-
-
+        reverse_curr = prev
+        # Merge the start with the reversed ll
+        curr = head
+        dummy = ListNode(-1, curr)
+        while curr.next and reverse_curr.next:
+            curr.next, reverse_curr.next, curr, reverse_curr = reverse_curr, curr.next, curr.next, reverse_curr.next
         
