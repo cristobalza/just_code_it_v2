@@ -1,17 +1,15 @@
 class Solution:
     def maxProduct(self, nums: List[int]) -> int:
-
-        max_val, min_val = 1, 1
-
         res = float("-inf")
+
+        max_v, min_v = 1, 1
+
         for num in nums:
+            curr = max_v * num
 
-            curr = max_val * num
+            max_v = max(max_v * num, min_v * num, num)
+            min_v = min(curr, min_v * num, num)
 
-            max_val = max(max_val * num, min_val * num, num)
-            min_val = min(curr, min_val * num, num)
-
-            res = max(res, max_val, min_val)
+            res = max(max_v, res, num)
 
         return res
-        
