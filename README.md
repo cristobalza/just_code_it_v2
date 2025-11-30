@@ -68,6 +68,7 @@
 | [0303-range-sum-query-immutable](https://github.com/cristobalza/just_code_it_v2/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/cristobalza/just_code_it_v2/tree/master/0304-range-sum-query-2d-immutable) |
 | [0322-coin-change](https://github.com/cristobalza/just_code_it_v2/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/cristobalza/just_code_it_v2/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/cristobalza/just_code_it_v2/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/cristobalza/just_code_it_v2/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/cristobalza/just_code_it_v2/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -129,6 +130,7 @@
 | [0213-house-robber-ii](https://github.com/cristobalza/just_code_it_v2/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/cristobalza/just_code_it_v2/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/cristobalza/just_code_it_v2/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/cristobalza/just_code_it_v2/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/cristobalza/just_code_it_v2/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/cristobalza/just_code_it_v2/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/cristobalza/just_code_it_v2/tree/master/0494-target-sum) |
@@ -161,6 +163,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/cristobalza/just_code_it_v2/tree/master/0322-coin-change) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/cristobalza/just_code_it_v2/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/cristobalza/just_code_it_v2/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/cristobalza/just_code_it_v2/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/cristobalza/just_code_it_v2/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/cristobalza/just_code_it_v2/tree/master/0695-max-area-of-island) |
@@ -194,6 +197,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/cristobalza/just_code_it_v2/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/cristobalza/just_code_it_v2/tree/master/0139-word-break) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/cristobalza/just_code_it_v2/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1013-fibonacci-number](https://github.com/cristobalza/just_code_it_v2/tree/master/1013-fibonacci-number) |
 ## String
 |  |
@@ -305,6 +309,7 @@
 | [0079-word-search](https://github.com/cristobalza/just_code_it_v2/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/cristobalza/just_code_it_v2/tree/master/0200-number-of-islands) |
 | [0304-range-sum-query-2d-immutable](https://github.com/cristobalza/just_code_it_v2/tree/master/0304-range-sum-query-2d-immutable) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/cristobalza/just_code_it_v2/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/cristobalza/just_code_it_v2/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/cristobalza/just_code_it_v2/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/cristobalza/just_code_it_v2/tree/master/0463-island-perimeter) |
@@ -336,6 +341,7 @@
 | [0261-graph-valid-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/0261-graph-valid-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/cristobalza/just_code_it_v2/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/cristobalza/just_code_it_v2/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/cristobalza/just_code_it_v2/tree/master/0332-reconstruct-itinerary) |
 | [0417-pacific-atlantic-water-flow](https://github.com/cristobalza/just_code_it_v2/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/cristobalza/just_code_it_v2/tree/master/0463-island-perimeter) |
@@ -485,6 +491,7 @@
 | [0210-course-schedule-ii](https://github.com/cristobalza/just_code_it_v2/tree/master/0210-course-schedule-ii) |
 | [0261-graph-valid-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/0261-graph-valid-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/cristobalza/just_code_it_v2/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/cristobalza/just_code_it_v2/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/cristobalza/just_code_it_v2/tree/master/0332-reconstruct-itinerary) |
 | [0744-network-delay-time](https://github.com/cristobalza/just_code_it_v2/tree/master/0744-network-delay-time) |
 | [2793-count-the-number-of-complete-components](https://github.com/cristobalza/just_code_it_v2/tree/master/2793-count-the-number-of-complete-components) |
@@ -493,6 +500,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/cristobalza/just_code_it_v2/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/cristobalza/just_code_it_v2/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/cristobalza/just_code_it_v2/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
