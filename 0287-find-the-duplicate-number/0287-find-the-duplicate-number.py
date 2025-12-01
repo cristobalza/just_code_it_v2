@@ -1,17 +1,11 @@
 class Solution:
     def findDuplicate(self, nums: List[int]) -> int:
-        l, r = 0, len(nums) - 1
+        nums.sort()
+        prev = nums[0]
 
-        while l < r:
-            m = l + (r - l) // 2
+        for i in range(1, len(nums)):
+            curr = nums[i]
+            if prev == curr:
+                return curr
+            prev = curr
 
-            pivot = sum(1 for num in nums if num <= m)
-
-            if pivot <= m:
-                l = m + 1
-
-            else:
-                r = m
-
-        return l
-                
