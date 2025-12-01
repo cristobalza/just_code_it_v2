@@ -108,6 +108,7 @@
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/cristobalza/just_code_it_v2/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/cristobalza/just_code_it_v2/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2429-design-a-food-rating-system](https://github.com/cristobalza/just_code_it_v2/tree/master/2429-design-a-food-rating-system) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/cristobalza/just_code_it_v2/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3797-design-spreadsheet](https://github.com/cristobalza/just_code_it_v2/tree/master/3797-design-spreadsheet) |
 ## Dynamic Programming
 |  |
@@ -193,6 +194,7 @@
 | [1635-number-of-good-pairs](https://github.com/cristobalza/just_code_it_v2/tree/master/1635-number-of-good-pairs) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/cristobalza/just_code_it_v2/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3336-water-bottles-ii](https://github.com/cristobalza/just_code_it_v2/tree/master/3336-water-bottles-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/cristobalza/just_code_it_v2/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Memoization
 |  |
 | ------- |
