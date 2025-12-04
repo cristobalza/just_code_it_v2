@@ -108,6 +108,7 @@
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/cristobalza/just_code_it_v2/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/cristobalza/just_code_it_v2/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2429-design-a-food-rating-system](https://github.com/cristobalza/just_code_it_v2/tree/master/2429-design-a-food-rating-system) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/cristobalza/just_code_it_v2/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/cristobalza/just_code_it_v2/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3797-design-spreadsheet](https://github.com/cristobalza/just_code_it_v2/tree/master/3797-design-spreadsheet) |
 ## Dynamic Programming
@@ -299,6 +300,7 @@
 | [1264-maximum-number-of-words-you-can-type](https://github.com/cristobalza/just_code_it_v2/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1635-number-of-good-pairs](https://github.com/cristobalza/just_code_it_v2/tree/master/1635-number-of-good-pairs) |
 | [2429-design-a-food-rating-system](https://github.com/cristobalza/just_code_it_v2/tree/master/2429-design-a-food-rating-system) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/cristobalza/just_code_it_v2/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3678-design-task-manager](https://github.com/cristobalza/just_code_it_v2/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/cristobalza/just_code_it_v2/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/cristobalza/just_code_it_v2/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -419,6 +421,7 @@
 | [0817-design-hashmap](https://github.com/cristobalza/just_code_it_v2/tree/master/0817-design-hashmap) |
 | [0908-middle-of-the-linked-list](https://github.com/cristobalza/just_code_it_v2/tree/master/0908-middle-of-the-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/cristobalza/just_code_it_v2/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/cristobalza/just_code_it_v2/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
 | ------- |
