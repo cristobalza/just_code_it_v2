@@ -9,34 +9,44 @@ class Node:
 
 class Solution:
     def copyRandomList(self, head: 'Optional[Node]') -> 'Optional[Node]':
+        """
+        Deep copy steps: - the references have been severed
+
+        1. Destroy current references and store them in some data structure 
+
+        2. From that data structure, build it up from the original
+
+        """
 
         if not head:
-            return None
+            return 
 
-        hmap = {}
+        # Step 1
+        curr = head
+        hmap = {} # original: copy 
 
+        while curr:
+            copied_node = Node(curr.val)
+            hmap[curr] = copied_node # original: copy
+            curr = curr.next 
+
+        # Step 2
         curr = head
 
         while curr:
-            node = Node(curr.val)
-            hmap[curr] = node
-            curr = curr.next
 
-        curr = head
-        while curr:
-            node = hmap[curr]
+            copied_node = hmap[curr]
+
             if curr.next:
-                node.next = hmap[curr.next]
-            else:
-                node.next = None
+                copied_node.next = hmap[curr.next]
 
             if curr.random:
-                node.random = hmap[curr.random]
-            else:
-                node.random = None
+                copied_node.random = hmap[curr.random]
 
             curr = curr.next
 
         return hmap[head]
+
+
 
         
