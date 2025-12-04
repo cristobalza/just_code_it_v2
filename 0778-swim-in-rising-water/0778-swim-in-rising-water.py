@@ -17,8 +17,8 @@ class Solution:
             if r == ROWS - 1 and c == COLS - 1:
                 return curr_time
 
-            for _r, _c in [(r + 1, c), (r - 1, c), (r, c + 1), (r, c - 1)]:
-                if 0 <= _r < ROWS and 0 <= _c < COLS and (_r, _c) not in visited:
-                    max_t = max(curr_time, grid[_r][_c])
-                    heapq.heappush(minheap, (max_t, _r, _c))
+            for adj_r, adj_c in [(r + 1, c), (r - 1, c), (r, c + 1), (r, c - 1)]:
+                if 0 <= adj_r < ROWS and 0 <= adj_c < COLS and (adj_r, adj_c) not in visited:
+                    max_t = max(curr_time, grid[adj_r][adj_c])
+                    heapq.heappush(minheap, (max_t, adj_r, adj_c))
             
