@@ -100,6 +100,7 @@
 | [1025-minimum-cost-for-tickets](https://github.com/cristobalza/just_code_it_v2/tree/master/1025-minimum-cost-for-tickets) |
 | [1046-max-consecutive-ones-iii](https://github.com/cristobalza/just_code_it_v2/tree/master/1046-max-consecutive-ones-iii) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/cristobalza/just_code_it_v2/tree/master/1108-analyze-user-website-visit-pattern) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/cristobalza/just_code_it_v2/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1396-count-servers-that-communicate](https://github.com/cristobalza/just_code_it_v2/tree/master/1396-count-servers-that-communicate) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/cristobalza/just_code_it_v2/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/cristobalza/just_code_it_v2/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -180,6 +181,7 @@
 | [0744-network-delay-time](https://github.com/cristobalza/just_code_it_v2/tree/master/0744-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/cristobalza/just_code_it_v2/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/cristobalza/just_code_it_v2/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/cristobalza/just_code_it_v2/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1396-count-servers-that-communicate](https://github.com/cristobalza/just_code_it_v2/tree/master/1396-count-servers-that-communicate) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/cristobalza/just_code_it_v2/tree/master/1631-path-with-minimum-effort) |
@@ -332,6 +334,7 @@
 | [0695-max-area-of-island](https://github.com/cristobalza/just_code_it_v2/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/cristobalza/just_code_it_v2/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/cristobalza/just_code_it_v2/tree/master/0778-swim-in-rising-water) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/cristobalza/just_code_it_v2/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1396-count-servers-that-communicate](https://github.com/cristobalza/just_code_it_v2/tree/master/1396-count-servers-that-communicate) |
 | [1631-path-with-minimum-effort](https://github.com/cristobalza/just_code_it_v2/tree/master/1631-path-with-minimum-effort) |
 | [3797-design-spreadsheet](https://github.com/cristobalza/just_code_it_v2/tree/master/3797-design-spreadsheet) |
