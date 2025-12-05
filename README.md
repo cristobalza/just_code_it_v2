@@ -105,6 +105,7 @@
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/cristobalza/just_code_it_v2/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/cristobalza/just_code_it_v2/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/cristobalza/just_code_it_v2/tree/master/1603-running-sum-of-1d-array) |
+| [1631-path-with-minimum-effort](https://github.com/cristobalza/just_code_it_v2/tree/master/1631-path-with-minimum-effort) |
 | [1635-number-of-good-pairs](https://github.com/cristobalza/just_code_it_v2/tree/master/1635-number-of-good-pairs) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/cristobalza/just_code_it_v2/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/cristobalza/just_code_it_v2/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -181,6 +182,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/cristobalza/just_code_it_v2/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1396-count-servers-that-communicate](https://github.com/cristobalza/just_code_it_v2/tree/master/1396-count-servers-that-communicate) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1631-path-with-minimum-effort](https://github.com/cristobalza/just_code_it_v2/tree/master/1631-path-with-minimum-effort) |
 | [2793-count-the-number-of-complete-components](https://github.com/cristobalza/just_code_it_v2/tree/master/2793-count-the-number-of-complete-components) |
 ## Math
 |  |
@@ -331,6 +333,7 @@
 | [0733-flood-fill](https://github.com/cristobalza/just_code_it_v2/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/cristobalza/just_code_it_v2/tree/master/0778-swim-in-rising-water) |
 | [1396-count-servers-that-communicate](https://github.com/cristobalza/just_code_it_v2/tree/master/1396-count-servers-that-communicate) |
+| [1631-path-with-minimum-effort](https://github.com/cristobalza/just_code_it_v2/tree/master/1631-path-with-minimum-effort) |
 | [3797-design-spreadsheet](https://github.com/cristobalza/just_code_it_v2/tree/master/3797-design-spreadsheet) |
 ## Depth-First Search
 |  |
@@ -368,6 +371,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/cristobalza/just_code_it_v2/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1396-count-servers-that-communicate](https://github.com/cristobalza/just_code_it_v2/tree/master/1396-count-servers-that-communicate) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [1631-path-with-minimum-effort](https://github.com/cristobalza/just_code_it_v2/tree/master/1631-path-with-minimum-effort) |
 | [2793-count-the-number-of-complete-components](https://github.com/cristobalza/just_code_it_v2/tree/master/2793-count-the-number-of-complete-components) |
 ## Tree
 |  |
@@ -549,6 +553,7 @@
 | [0778-reorganize-string](https://github.com/cristobalza/just_code_it_v2/tree/master/0778-reorganize-string) |
 | [0778-swim-in-rising-water](https://github.com/cristobalza/just_code_it_v2/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/cristobalza/just_code_it_v2/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1631-path-with-minimum-effort](https://github.com/cristobalza/just_code_it_v2/tree/master/1631-path-with-minimum-effort) |
 | [2429-design-a-food-rating-system](https://github.com/cristobalza/just_code_it_v2/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/cristobalza/just_code_it_v2/tree/master/3678-design-task-manager) |
 ## Bucket Sort
@@ -594,6 +599,7 @@
 | [0695-max-area-of-island](https://github.com/cristobalza/just_code_it_v2/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/cristobalza/just_code_it_v2/tree/master/0778-swim-in-rising-water) |
 | [1396-count-servers-that-communicate](https://github.com/cristobalza/just_code_it_v2/tree/master/1396-count-servers-that-communicate) |
+| [1631-path-with-minimum-effort](https://github.com/cristobalza/just_code_it_v2/tree/master/1631-path-with-minimum-effort) |
 | [2793-count-the-number-of-complete-components](https://github.com/cristobalza/just_code_it_v2/tree/master/2793-count-the-number-of-complete-components) |
 ## Design
 |  |
@@ -633,6 +639,7 @@
 | [0907-koko-eating-bananas](https://github.com/cristobalza/just_code_it_v2/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/cristobalza/just_code_it_v2/tree/master/1023-time-based-key-value-store) |
 | [1046-max-consecutive-ones-iii](https://github.com/cristobalza/just_code_it_v2/tree/master/1046-max-consecutive-ones-iii) |
+| [1631-path-with-minimum-effort](https://github.com/cristobalza/just_code_it_v2/tree/master/1631-path-with-minimum-effort) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/cristobalza/just_code_it_v2/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Greedy
 |  |
