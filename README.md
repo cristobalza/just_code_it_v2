@@ -79,6 +79,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/cristobalza/just_code_it_v2/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/cristobalza/just_code_it_v2/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/cristobalza/just_code_it_v2/tree/master/0455-assign-cookies) |
+| [0456-132-pattern](https://github.com/cristobalza/just_code_it_v2/tree/master/0456-132-pattern) |
 | [0463-island-perimeter](https://github.com/cristobalza/just_code_it_v2/tree/master/0463-island-perimeter) |
 | [0494-target-sum](https://github.com/cristobalza/just_code_it_v2/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/cristobalza/just_code_it_v2/tree/master/0496-next-greater-element-i) |
@@ -278,6 +279,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/cristobalza/just_code_it_v2/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/cristobalza/just_code_it_v2/tree/master/0155-min-stack) |
 | [0402-remove-k-digits](https://github.com/cristobalza/just_code_it_v2/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/cristobalza/just_code_it_v2/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/cristobalza/just_code_it_v2/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/cristobalza/just_code_it_v2/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/cristobalza/just_code_it_v2/tree/master/0739-daily-temperatures) |
@@ -659,6 +661,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/cristobalza/just_code_it_v2/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/cristobalza/just_code_it_v2/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0441-arranging-coins](https://github.com/cristobalza/just_code_it_v2/tree/master/0441-arranging-coins) |
+| [0456-132-pattern](https://github.com/cristobalza/just_code_it_v2/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/cristobalza/just_code_it_v2/tree/master/0540-single-element-in-a-sorted-array) |
 | [0778-swim-in-rising-water](https://github.com/cristobalza/just_code_it_v2/tree/master/0778-swim-in-rising-water) |
 | [0792-binary-search](https://github.com/cristobalza/just_code_it_v2/tree/master/0792-binary-search) |
@@ -703,6 +706,7 @@
 | [0042-trapping-rain-water](https://github.com/cristobalza/just_code_it_v2/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/cristobalza/just_code_it_v2/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/cristobalza/just_code_it_v2/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/cristobalza/just_code_it_v2/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/cristobalza/just_code_it_v2/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/cristobalza/just_code_it_v2/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/cristobalza/just_code_it_v2/tree/master/0739-daily-temperatures) |
@@ -815,6 +819,7 @@
 ## Ordered Set
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/cristobalza/just_code_it_v2/tree/master/0456-132-pattern) |
 | [2429-design-a-food-rating-system](https://github.com/cristobalza/just_code_it_v2/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/cristobalza/just_code_it_v2/tree/master/3678-design-task-manager) |
 ## Shortest Path
