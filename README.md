@@ -110,6 +110,7 @@
 | [1396-count-servers-that-communicate](https://github.com/cristobalza/just_code_it_v2/tree/master/1396-count-servers-that-communicate) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/cristobalza/just_code_it_v2/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/cristobalza/just_code_it_v2/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/cristobalza/just_code_it_v2/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/cristobalza/just_code_it_v2/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/cristobalza/just_code_it_v2/tree/master/1603-running-sum-of-1d-array) |
 | [1631-path-with-minimum-effort](https://github.com/cristobalza/just_code_it_v2/tree/master/1631-path-with-minimum-effort) |
@@ -287,6 +288,7 @@
 | [0503-next-greater-element-ii](https://github.com/cristobalza/just_code_it_v2/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/cristobalza/just_code_it_v2/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/cristobalza/just_code_it_v2/tree/master/0883-car-fleet) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/cristobalza/just_code_it_v2/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1762-buildings-with-an-ocean-view](https://github.com/cristobalza/just_code_it_v2/tree/master/1762-buildings-with-an-ocean-view) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/cristobalza/just_code_it_v2/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/cristobalza/just_code_it_v2/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -717,6 +719,7 @@
 | [0503-next-greater-element-ii](https://github.com/cristobalza/just_code_it_v2/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/cristobalza/just_code_it_v2/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/cristobalza/just_code_it_v2/tree/master/0883-car-fleet) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/cristobalza/just_code_it_v2/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1762-buildings-with-an-ocean-view](https://github.com/cristobalza/just_code_it_v2/tree/master/1762-buildings-with-an-ocean-view) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/cristobalza/just_code_it_v2/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Sliding Window
