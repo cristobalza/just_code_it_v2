@@ -1,28 +1,15 @@
 class Solution:
     def dailyTemperatures(self, temperatures: List[int]) -> List[int]:
-        """
-        temperatures = [73,74,75,71,69,72,76,73]
-                                       i
-        
-        stack [(75, 2),]
-        res [1,1,0,0,1,0,0]
+        n = len(temperatures)
+        stack = [] # store index values (number of days)
+        res = [0] * n # store the diff in index (if any) default is 0
 
-        while stack and stack[-1][0] < temp[i]
-            stack_t, stack_i = stack.pop()
-            res[stack_i] = i - stack_i
-        
-        stack.append((temp[i], i))
+        for i, temp in enumerate(temperatures):
 
-        """
+            while stack and temperatures[stack[-1]] < temp:
+                last_temp_idx = stack.pop()
+                res[last_temp_idx] = i - last_temp_idx
 
-        res = [0] * len(temperatures)
-        stack = []
-
-        for i in range(len(temperatures)):
-            while stack and stack[-1][0] < temperatures[i]:
-                stack_t, stack_i = stack.pop()
-                res[stack_i] = i - stack_i
-
-            stack.append((temperatures[i], i))
+            stack.append(i)
 
         return res
