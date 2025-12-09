@@ -33,7 +33,8 @@ class Solution:
             if ch in visited:
                 continue
 
-            while stack and s[i] < stack[-1] and i < hmap[stack[-1]]:
+            # Pop when the new ch is smaller lexicographically AND its shows up earlier in the s
+            while stack and ch < stack[-1] and i < hmap[stack[-1]]:
                 stack_top = stack.pop()
                 visited.remove(stack_top)
 
