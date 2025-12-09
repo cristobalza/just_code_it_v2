@@ -114,6 +114,7 @@
 | [1631-path-with-minimum-effort](https://github.com/cristobalza/just_code_it_v2/tree/master/1631-path-with-minimum-effort) |
 | [1635-number-of-good-pairs](https://github.com/cristobalza/just_code_it_v2/tree/master/1635-number-of-good-pairs) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/cristobalza/just_code_it_v2/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1762-buildings-with-an-ocean-view](https://github.com/cristobalza/just_code_it_v2/tree/master/1762-buildings-with-an-ocean-view) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/cristobalza/just_code_it_v2/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/cristobalza/just_code_it_v2/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2429-design-a-food-rating-system](https://github.com/cristobalza/just_code_it_v2/tree/master/2429-design-a-food-rating-system) |
@@ -281,6 +282,7 @@
 | [0503-next-greater-element-ii](https://github.com/cristobalza/just_code_it_v2/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/cristobalza/just_code_it_v2/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/cristobalza/just_code_it_v2/tree/master/0883-car-fleet) |
+| [1762-buildings-with-an-ocean-view](https://github.com/cristobalza/just_code_it_v2/tree/master/1762-buildings-with-an-ocean-view) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/cristobalza/just_code_it_v2/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/cristobalza/just_code_it_v2/tree/master/2307-replace-non-coprime-numbers-in-array) |
 ## Hash Table
@@ -705,6 +707,7 @@
 | [0503-next-greater-element-ii](https://github.com/cristobalza/just_code_it_v2/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/cristobalza/just_code_it_v2/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/cristobalza/just_code_it_v2/tree/master/0883-car-fleet) |
+| [1762-buildings-with-an-ocean-view](https://github.com/cristobalza/just_code_it_v2/tree/master/1762-buildings-with-an-ocean-view) |
 ## Sliding Window
 |  |
 | ------- |
