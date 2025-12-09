@@ -1,15 +1,26 @@
 class Solution:
     def nextGreaterElement(self, nums1: List[int], nums2: List[int]) -> List[int]:
-        stack = []
-        hmap = {}
+        nums1_hmap = {num: -1 for i, num in enumerate(nums1)} # set all values to -1
 
-        for num in nums2:
+        stack = [] # store value
+
+        for _, num in enumerate(nums2):
+
+            # pop the value < num (get next greater value)
             while stack and stack[-1] < num:
-                key_num = stack.pop()
-                hmap[key_num] = num # this is next greater element (num) for key_num
+                stack_top = stack.pop()
+                nums1_hmap[stack_top] = num
 
             stack.append(num)
 
-        return [hmap.get(num, -1) for num in nums1]
+        res = []
+        for num in nums1:
+            res.append(nums1_hmap[num])
 
+        return res
 
+        
+
+        
+
+         
