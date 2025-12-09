@@ -252,6 +252,7 @@
 | [0242-valid-anagram](https://github.com/cristobalza/just_code_it_v2/tree/master/0242-valid-anagram) |
 | [0271-encode-and-decode-strings](https://github.com/cristobalza/just_code_it_v2/tree/master/0271-encode-and-decode-strings) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0316-remove-duplicate-letters](https://github.com/cristobalza/just_code_it_v2/tree/master/0316-remove-duplicate-letters) |
 | [0383-ransom-note](https://github.com/cristobalza/just_code_it_v2/tree/master/0383-ransom-note) |
 | [0402-remove-k-digits](https://github.com/cristobalza/just_code_it_v2/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/cristobalza/just_code_it_v2/tree/master/0424-longest-repeating-character-replacement) |
@@ -279,6 +280,7 @@
 | [0143-reorder-list](https://github.com/cristobalza/just_code_it_v2/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/cristobalza/just_code_it_v2/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/cristobalza/just_code_it_v2/tree/master/0155-min-stack) |
+| [0316-remove-duplicate-letters](https://github.com/cristobalza/just_code_it_v2/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/cristobalza/just_code_it_v2/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/cristobalza/just_code_it_v2/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/cristobalza/just_code_it_v2/tree/master/0496-next-greater-element-i) |
@@ -680,6 +682,7 @@
 | [0134-gas-station](https://github.com/cristobalza/just_code_it_v2/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/cristobalza/just_code_it_v2/tree/master/0179-largest-number) |
 | [0253-meeting-rooms-ii](https://github.com/cristobalza/just_code_it_v2/tree/master/0253-meeting-rooms-ii) |
+| [0316-remove-duplicate-letters](https://github.com/cristobalza/just_code_it_v2/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/cristobalza/just_code_it_v2/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/cristobalza/just_code_it_v2/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/cristobalza/just_code_it_v2/tree/master/0455-assign-cookies) |
@@ -707,6 +710,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/cristobalza/just_code_it_v2/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/cristobalza/just_code_it_v2/tree/master/0084-largest-rectangle-in-histogram) |
+| [0316-remove-duplicate-letters](https://github.com/cristobalza/just_code_it_v2/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/cristobalza/just_code_it_v2/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/cristobalza/just_code_it_v2/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/cristobalza/just_code_it_v2/tree/master/0496-next-greater-element-i) |
