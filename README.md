@@ -216,6 +216,7 @@
 | [0441-arranging-coins](https://github.com/cristobalza/just_code_it_v2/tree/master/0441-arranging-coins) |
 | [1013-fibonacci-number](https://github.com/cristobalza/just_code_it_v2/tree/master/1013-fibonacci-number) |
 | [1635-number-of-good-pairs](https://github.com/cristobalza/just_code_it_v2/tree/master/1635-number-of-good-pairs) |
+| [1688-count-of-matches-in-tournament](https://github.com/cristobalza/just_code_it_v2/tree/master/1688-count-of-matches-in-tournament) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/cristobalza/just_code_it_v2/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3336-water-bottles-ii](https://github.com/cristobalza/just_code_it_v2/tree/master/3336-water-bottles-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/cristobalza/just_code_it_v2/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -770,6 +771,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/cristobalza/just_code_it_v2/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/cristobalza/just_code_it_v2/tree/master/0498-diagonal-traverse) |
+| [1688-count-of-matches-in-tournament](https://github.com/cristobalza/just_code_it_v2/tree/master/1688-count-of-matches-in-tournament) |
 | [3336-water-bottles-ii](https://github.com/cristobalza/just_code_it_v2/tree/master/3336-water-bottles-ii) |
 ## Merge Sort
 |  |
