@@ -118,6 +118,7 @@
 | [1635-number-of-good-pairs](https://github.com/cristobalza/just_code_it_v2/tree/master/1635-number-of-good-pairs) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/cristobalza/just_code_it_v2/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1762-buildings-with-an-ocean-view](https://github.com/cristobalza/just_code_it_v2/tree/master/1762-buildings-with-an-ocean-view) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/cristobalza/just_code_it_v2/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/cristobalza/just_code_it_v2/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/cristobalza/just_code_it_v2/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/cristobalza/just_code_it_v2/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -542,6 +543,7 @@
 | [0883-car-fleet](https://github.com/cristobalza/just_code_it_v2/tree/master/0883-car-fleet) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/cristobalza/just_code_it_v2/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/cristobalza/just_code_it_v2/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/cristobalza/just_code_it_v2/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/cristobalza/just_code_it_v2/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2887-sort-vowels-in-a-string](https://github.com/cristobalza/just_code_it_v2/tree/master/2887-sort-vowels-in-a-string) |
 ## Graph
@@ -628,6 +630,7 @@
 | [0878-shifting-letters](https://github.com/cristobalza/just_code_it_v2/tree/master/0878-shifting-letters) |
 | [1046-max-consecutive-ones-iii](https://github.com/cristobalza/just_code_it_v2/tree/master/1046-max-consecutive-ones-iii) |
 | [1603-running-sum-of-1d-array](https://github.com/cristobalza/just_code_it_v2/tree/master/1603-running-sum-of-1d-array) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/cristobalza/just_code_it_v2/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Union Find
 |  |
 | ------- |
@@ -680,6 +683,7 @@
 | [1023-time-based-key-value-store](https://github.com/cristobalza/just_code_it_v2/tree/master/1023-time-based-key-value-store) |
 | [1046-max-consecutive-ones-iii](https://github.com/cristobalza/just_code_it_v2/tree/master/1046-max-consecutive-ones-iii) |
 | [1631-path-with-minimum-effort](https://github.com/cristobalza/just_code_it_v2/tree/master/1631-path-with-minimum-effort) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/cristobalza/just_code_it_v2/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/cristobalza/just_code_it_v2/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Greedy
 |  |
@@ -696,6 +700,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/cristobalza/just_code_it_v2/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0763-partition-labels](https://github.com/cristobalza/just_code_it_v2/tree/master/0763-partition-labels) |
 | [0778-reorganize-string](https://github.com/cristobalza/just_code_it_v2/tree/master/0778-reorganize-string) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/cristobalza/just_code_it_v2/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/cristobalza/just_code_it_v2/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/cristobalza/just_code_it_v2/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Backtracking
@@ -744,6 +749,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/cristobalza/just_code_it_v2/tree/master/1046-max-consecutive-ones-iii) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/cristobalza/just_code_it_v2/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/cristobalza/just_code_it_v2/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/cristobalza/just_code_it_v2/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Binary Search Tree
 |  |
 | ------- |
