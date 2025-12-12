@@ -112,6 +112,7 @@
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/cristobalza/just_code_it_v2/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/cristobalza/just_code_it_v2/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/cristobalza/just_code_it_v2/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1552-magnetic-force-between-two-balls](https://github.com/cristobalza/just_code_it_v2/tree/master/1552-magnetic-force-between-two-balls) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/cristobalza/just_code_it_v2/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/cristobalza/just_code_it_v2/tree/master/1603-running-sum-of-1d-array) |
 | [1631-path-with-minimum-effort](https://github.com/cristobalza/just_code_it_v2/tree/master/1631-path-with-minimum-effort) |
@@ -542,6 +543,7 @@
 | [0778-reorganize-string](https://github.com/cristobalza/just_code_it_v2/tree/master/0778-reorganize-string) |
 | [0883-car-fleet](https://github.com/cristobalza/just_code_it_v2/tree/master/0883-car-fleet) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/cristobalza/just_code_it_v2/tree/master/1108-analyze-user-website-visit-pattern) |
+| [1552-magnetic-force-between-two-balls](https://github.com/cristobalza/just_code_it_v2/tree/master/1552-magnetic-force-between-two-balls) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/cristobalza/just_code_it_v2/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/cristobalza/just_code_it_v2/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/cristobalza/just_code_it_v2/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -682,6 +684,7 @@
 | [0907-koko-eating-bananas](https://github.com/cristobalza/just_code_it_v2/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/cristobalza/just_code_it_v2/tree/master/1023-time-based-key-value-store) |
 | [1046-max-consecutive-ones-iii](https://github.com/cristobalza/just_code_it_v2/tree/master/1046-max-consecutive-ones-iii) |
+| [1552-magnetic-force-between-two-balls](https://github.com/cristobalza/just_code_it_v2/tree/master/1552-magnetic-force-between-two-balls) |
 | [1631-path-with-minimum-effort](https://github.com/cristobalza/just_code_it_v2/tree/master/1631-path-with-minimum-effort) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/cristobalza/just_code_it_v2/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/cristobalza/just_code_it_v2/tree/master/2392-successful-pairs-of-spells-and-potions) |
