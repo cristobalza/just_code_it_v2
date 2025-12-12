@@ -91,6 +91,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/cristobalza/just_code_it_v2/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0643-maximum-average-subarray-i](https://github.com/cristobalza/just_code_it_v2/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/cristobalza/just_code_it_v2/tree/master/0695-max-area-of-island) |
+| [0704-binary-search](https://github.com/cristobalza/just_code_it_v2/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/cristobalza/just_code_it_v2/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/cristobalza/just_code_it_v2/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/cristobalza/just_code_it_v2/tree/master/0739-daily-temperatures) |
@@ -681,6 +682,7 @@
 | [0441-arranging-coins](https://github.com/cristobalza/just_code_it_v2/tree/master/0441-arranging-coins) |
 | [0456-132-pattern](https://github.com/cristobalza/just_code_it_v2/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/cristobalza/just_code_it_v2/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/cristobalza/just_code_it_v2/tree/master/0704-binary-search) |
 | [0778-swim-in-rising-water](https://github.com/cristobalza/just_code_it_v2/tree/master/0778-swim-in-rising-water) |
 | [0792-binary-search](https://github.com/cristobalza/just_code_it_v2/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/cristobalza/just_code_it_v2/tree/master/0907-koko-eating-bananas) |
