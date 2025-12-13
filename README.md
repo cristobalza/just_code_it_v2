@@ -122,6 +122,7 @@
 | [1762-buildings-with-an-ocean-view](https://github.com/cristobalza/just_code_it_v2/tree/master/1762-buildings-with-an-ocean-view) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/cristobalza/just_code_it_v2/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/cristobalza/just_code_it_v2/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/cristobalza/just_code_it_v2/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/cristobalza/just_code_it_v2/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/cristobalza/just_code_it_v2/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2429-design-a-food-rating-system](https://github.com/cristobalza/just_code_it_v2/tree/master/2429-design-a-food-rating-system) |
@@ -271,6 +272,7 @@
 | [1108-analyze-user-website-visit-pattern](https://github.com/cristobalza/just_code_it_v2/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1250-longest-common-subsequence](https://github.com/cristobalza/just_code_it_v2/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/cristobalza/just_code_it_v2/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/cristobalza/just_code_it_v2/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2429-design-a-food-rating-system](https://github.com/cristobalza/just_code_it_v2/tree/master/2429-design-a-food-rating-system) |
 | [2887-sort-vowels-in-a-string](https://github.com/cristobalza/just_code_it_v2/tree/master/2887-sort-vowels-in-a-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/cristobalza/just_code_it_v2/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -338,6 +340,7 @@
 | [1264-maximum-number-of-words-you-can-type](https://github.com/cristobalza/just_code_it_v2/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1635-number-of-good-pairs](https://github.com/cristobalza/just_code_it_v2/tree/master/1635-number-of-good-pairs) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/cristobalza/just_code_it_v2/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/cristobalza/just_code_it_v2/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2429-design-a-food-rating-system](https://github.com/cristobalza/just_code_it_v2/tree/master/2429-design-a-food-rating-system) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/cristobalza/just_code_it_v2/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3678-design-task-manager](https://github.com/cristobalza/just_code_it_v2/tree/master/3678-design-task-manager) |
@@ -548,6 +551,7 @@
 | [1552-magnetic-force-between-two-balls](https://github.com/cristobalza/just_code_it_v2/tree/master/1552-magnetic-force-between-two-balls) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/cristobalza/just_code_it_v2/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/cristobalza/just_code_it_v2/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/cristobalza/just_code_it_v2/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/cristobalza/just_code_it_v2/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2887-sort-vowels-in-a-string](https://github.com/cristobalza/just_code_it_v2/tree/master/2887-sort-vowels-in-a-string) |
 ## Graph
