@@ -193,6 +193,7 @@
 | [0463-island-perimeter](https://github.com/cristobalza/just_code_it_v2/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/cristobalza/just_code_it_v2/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/cristobalza/just_code_it_v2/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/cristobalza/just_code_it_v2/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/cristobalza/just_code_it_v2/tree/master/0744-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/cristobalza/just_code_it_v2/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/cristobalza/just_code_it_v2/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -401,6 +402,7 @@
 | [0572-subtree-of-another-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/0572-subtree-of-another-tree) |
 | [0695-max-area-of-island](https://github.com/cristobalza/just_code_it_v2/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/cristobalza/just_code_it_v2/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/cristobalza/just_code_it_v2/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/cristobalza/just_code_it_v2/tree/master/0744-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/cristobalza/just_code_it_v2/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/cristobalza/just_code_it_v2/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -564,6 +566,7 @@
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/cristobalza/just_code_it_v2/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/cristobalza/just_code_it_v2/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/cristobalza/just_code_it_v2/tree/master/0332-reconstruct-itinerary) |
+| [0743-network-delay-time](https://github.com/cristobalza/just_code_it_v2/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/cristobalza/just_code_it_v2/tree/master/0744-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/cristobalza/just_code_it_v2/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1192-critical-connections-in-a-network](https://github.com/cristobalza/just_code_it_v2/tree/master/1192-critical-connections-in-a-network) |
@@ -598,6 +601,7 @@
 | [0295-find-median-from-data-stream](https://github.com/cristobalza/just_code_it_v2/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/cristobalza/just_code_it_v2/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/cristobalza/just_code_it_v2/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0743-network-delay-time](https://github.com/cristobalza/just_code_it_v2/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/cristobalza/just_code_it_v2/tree/master/0744-network-delay-time) |
 | [0778-reorganize-string](https://github.com/cristobalza/just_code_it_v2/tree/master/0778-reorganize-string) |
 | [0778-swim-in-rising-water](https://github.com/cristobalza/just_code_it_v2/tree/master/0778-swim-in-rising-water) |
@@ -860,6 +864,7 @@
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/cristobalza/just_code_it_v2/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/cristobalza/just_code_it_v2/tree/master/0744-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/cristobalza/just_code_it_v2/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/cristobalza/just_code_it_v2/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
