@@ -87,6 +87,7 @@
 | [0498-diagonal-traverse](https://github.com/cristobalza/just_code_it_v2/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/cristobalza/just_code_it_v2/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/cristobalza/just_code_it_v2/tree/master/0518-coin-change-ii) |
+| [0528-random-pick-with-weight](https://github.com/cristobalza/just_code_it_v2/tree/master/0528-random-pick-with-weight) |
 | [0540-single-element-in-a-sorted-array](https://github.com/cristobalza/just_code_it_v2/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/cristobalza/just_code_it_v2/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/cristobalza/just_code_it_v2/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -221,6 +222,7 @@
 | [0326-power-of-three](https://github.com/cristobalza/just_code_it_v2/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/cristobalza/just_code_it_v2/tree/master/0342-power-of-four) |
 | [0441-arranging-coins](https://github.com/cristobalza/just_code_it_v2/tree/master/0441-arranging-coins) |
+| [0528-random-pick-with-weight](https://github.com/cristobalza/just_code_it_v2/tree/master/0528-random-pick-with-weight) |
 | [1013-fibonacci-number](https://github.com/cristobalza/just_code_it_v2/tree/master/1013-fibonacci-number) |
 | [1635-number-of-good-pairs](https://github.com/cristobalza/just_code_it_v2/tree/master/1635-number-of-good-pairs) |
 | [1688-count-of-matches-in-tournament](https://github.com/cristobalza/just_code_it_v2/tree/master/1688-count-of-matches-in-tournament) |
@@ -646,6 +648,7 @@
 | [0253-meeting-rooms-ii](https://github.com/cristobalza/just_code_it_v2/tree/master/0253-meeting-rooms-ii) |
 | [0303-range-sum-query-immutable](https://github.com/cristobalza/just_code_it_v2/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/cristobalza/just_code_it_v2/tree/master/0304-range-sum-query-2d-immutable) |
+| [0528-random-pick-with-weight](https://github.com/cristobalza/just_code_it_v2/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/cristobalza/just_code_it_v2/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/cristobalza/just_code_it_v2/tree/master/0724-find-pivot-index) |
 | [0878-shifting-letters](https://github.com/cristobalza/just_code_it_v2/tree/master/0878-shifting-letters) |
@@ -698,6 +701,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/cristobalza/just_code_it_v2/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0441-arranging-coins](https://github.com/cristobalza/just_code_it_v2/tree/master/0441-arranging-coins) |
 | [0456-132-pattern](https://github.com/cristobalza/just_code_it_v2/tree/master/0456-132-pattern) |
+| [0528-random-pick-with-weight](https://github.com/cristobalza/just_code_it_v2/tree/master/0528-random-pick-with-weight) |
 | [0540-single-element-in-a-sorted-array](https://github.com/cristobalza/just_code_it_v2/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/cristobalza/just_code_it_v2/tree/master/0704-binary-search) |
 | [0778-swim-in-rising-water](https://github.com/cristobalza/just_code_it_v2/tree/master/0778-swim-in-rising-water) |
@@ -891,4 +895,8 @@
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/cristobalza/just_code_it_v2/tree/master/1192-critical-connections-in-a-network) |
+## Randomized
+|  |
+| ------- |
+| [0528-random-pick-with-weight](https://github.com/cristobalza/just_code_it_v2/tree/master/0528-random-pick-with-weight) |
 <!---LeetCode Topics End-->
