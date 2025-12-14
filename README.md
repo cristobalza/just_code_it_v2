@@ -92,6 +92,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/cristobalza/just_code_it_v2/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/cristobalza/just_code_it_v2/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0643-maximum-average-subarray-i](https://github.com/cristobalza/just_code_it_v2/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/cristobalza/just_code_it_v2/tree/master/0645-set-mismatch) |
 | [0695-max-area-of-island](https://github.com/cristobalza/just_code_it_v2/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/cristobalza/just_code_it_v2/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/cristobalza/just_code_it_v2/tree/master/0724-find-pivot-index) |
@@ -336,6 +337,7 @@
 | [0496-next-greater-element-i](https://github.com/cristobalza/just_code_it_v2/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/cristobalza/just_code_it_v2/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/cristobalza/just_code_it_v2/tree/master/0567-permutation-in-string) |
+| [0645-set-mismatch](https://github.com/cristobalza/just_code_it_v2/tree/master/0645-set-mismatch) |
 | [0763-partition-labels](https://github.com/cristobalza/just_code_it_v2/tree/master/0763-partition-labels) |
 | [0778-reorganize-string](https://github.com/cristobalza/just_code_it_v2/tree/master/0778-reorganize-string) |
 | [0817-design-hashmap](https://github.com/cristobalza/just_code_it_v2/tree/master/0817-design-hashmap) |
@@ -553,6 +555,7 @@
 | [0435-non-overlapping-intervals](https://github.com/cristobalza/just_code_it_v2/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/cristobalza/just_code_it_v2/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/cristobalza/just_code_it_v2/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0645-set-mismatch](https://github.com/cristobalza/just_code_it_v2/tree/master/0645-set-mismatch) |
 | [0778-reorganize-string](https://github.com/cristobalza/just_code_it_v2/tree/master/0778-reorganize-string) |
 | [0883-car-fleet](https://github.com/cristobalza/just_code_it_v2/tree/master/0883-car-fleet) |
 | [1094-car-pooling](https://github.com/cristobalza/just_code_it_v2/tree/master/1094-car-pooling) |
@@ -794,6 +797,7 @@
 | [0268-missing-number](https://github.com/cristobalza/just_code_it_v2/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/cristobalza/just_code_it_v2/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/cristobalza/just_code_it_v2/tree/master/0342-power-of-four) |
+| [0645-set-mismatch](https://github.com/cristobalza/just_code_it_v2/tree/master/0645-set-mismatch) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/cristobalza/just_code_it_v2/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 ## Data Stream
 |  |
