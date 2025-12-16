@@ -278,6 +278,7 @@
 | [1108-analyze-user-website-visit-pattern](https://github.com/cristobalza/just_code_it_v2/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1250-longest-common-subsequence](https://github.com/cristobalza/just_code_it_v2/tree/master/1250-longest-common-subsequence) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/cristobalza/just_code_it_v2/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/cristobalza/just_code_it_v2/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/cristobalza/just_code_it_v2/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2429-design-a-food-rating-system](https://github.com/cristobalza/just_code_it_v2/tree/master/2429-design-a-food-rating-system) |
 | [2887-sort-vowels-in-a-string](https://github.com/cristobalza/just_code_it_v2/tree/master/2887-sort-vowels-in-a-string) |
@@ -345,6 +346,7 @@
 | [1023-time-based-key-value-store](https://github.com/cristobalza/just_code_it_v2/tree/master/1023-time-based-key-value-store) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/cristobalza/just_code_it_v2/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/cristobalza/just_code_it_v2/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/cristobalza/just_code_it_v2/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1635-number-of-good-pairs](https://github.com/cristobalza/just_code_it_v2/tree/master/1635-number-of-good-pairs) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/cristobalza/just_code_it_v2/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/cristobalza/just_code_it_v2/tree/master/2273-find-resultant-array-after-removing-anagrams) |
