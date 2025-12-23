@@ -162,6 +162,7 @@
 | [0494-target-sum](https://github.com/cristobalza/just_code_it_v2/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/cristobalza/just_code_it_v2/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/cristobalza/just_code_it_v2/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/cristobalza/just_code_it_v2/tree/master/0678-valid-parenthesis-string) |
 | [0747-min-cost-climbing-stairs](https://github.com/cristobalza/just_code_it_v2/tree/master/0747-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/cristobalza/just_code_it_v2/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0954-maximum-sum-circular-subarray](https://github.com/cristobalza/just_code_it_v2/tree/master/0954-maximum-sum-circular-subarray) |
@@ -271,6 +272,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/cristobalza/just_code_it_v2/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/cristobalza/just_code_it_v2/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/cristobalza/just_code_it_v2/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/cristobalza/just_code_it_v2/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/cristobalza/just_code_it_v2/tree/master/0763-partition-labels) |
 | [0778-reorganize-string](https://github.com/cristobalza/just_code_it_v2/tree/master/0778-reorganize-string) |
 | [0878-shifting-letters](https://github.com/cristobalza/just_code_it_v2/tree/master/0878-shifting-letters) |
@@ -301,6 +303,7 @@
 | [0496-next-greater-element-i](https://github.com/cristobalza/just_code_it_v2/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/cristobalza/just_code_it_v2/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/cristobalza/just_code_it_v2/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0678-valid-parenthesis-string](https://github.com/cristobalza/just_code_it_v2/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/cristobalza/just_code_it_v2/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/cristobalza/just_code_it_v2/tree/master/0883-car-fleet) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/cristobalza/just_code_it_v2/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -731,6 +734,7 @@
 | [0435-non-overlapping-intervals](https://github.com/cristobalza/just_code_it_v2/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/cristobalza/just_code_it_v2/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/cristobalza/just_code_it_v2/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0678-valid-parenthesis-string](https://github.com/cristobalza/just_code_it_v2/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/cristobalza/just_code_it_v2/tree/master/0763-partition-labels) |
 | [0778-reorganize-string](https://github.com/cristobalza/just_code_it_v2/tree/master/0778-reorganize-string) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/cristobalza/just_code_it_v2/tree/master/1838-frequency-of-the-most-frequent-element) |
