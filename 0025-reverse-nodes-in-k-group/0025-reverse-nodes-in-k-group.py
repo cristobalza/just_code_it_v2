@@ -5,38 +5,82 @@
 #         self.next = next
 class Solution:
     def reverseKGroup(self, head: Optional[ListNode], k: int) -> Optional[ListNode]:
-        # Get the size
-        curr = head
-        size = 0
-        while curr:
-            size += 1
-            curr = curr.next
-        
-        # Reverse function - returns (new_head, new_tail, next_start)
-        def reverse_ll(node, k):
+        """
+
+        head = [1,2,3,4,5], k = 2
+                    c
+            D
+            p.  
+
+          d->  [3, 2, 1] 
+                p     t
+
+            p.next, tail = reverse_ll(p.next, curr)
+            curr = tail.next
+
+
+        count = 3
+
+        def reverse_ll(start, end):
             prev = None
-            curr = node
-            tail = node  # The original head becomes the tail after reversal
-            
-            for _ in range(k):
-                curr.next, prev, curr = prev, curr, curr.next
-            
-            return prev, tail, curr  # new_head of reversed, new_tail of reversed, start of next group
+            curr = start
+            tail = start
+
+            while curr != end:
+                temp = curr.next
+                curr.next = prev
+                prev = curr
+                curr = temp
+
+            return prev, tail # head of reverse ll , end of new reverse ll
+
+
+        """
+
+        def reverse_ll(start, end):
+            prev = None
+            curr = start
+            tail = start
+
+            while curr != end:
+                temp = curr.next
+                curr.next = prev
+                prev = curr
+                curr = temp
+
+            return prev, tail # head of reverse ll , end of new reverse ll
+
         
-        # Use a dummy node to handle edge cases
         dummy = ListNode(-1, head)
-        prev_tail = dummy  # Tail of the previous reversed group
+        prev_global = dummy
+
         curr = head
-        
-        # Reverse groups of k
-        while size >= k:
-            new_head, new_tail, next_start = reverse_ll(curr, k)
-            prev_tail.next = new_head  # Connect previous group to current reversed group
-            prev_tail = new_tail       # Update prev_tail for next iteration
-            curr = next_start          # Move to start of next group
-            size -= k
-        
-        # Connect the remaining nodes (if any)
-        prev_tail.next = curr
-        
+
+        count = 1
+
+        while curr:
+
+            if count % k == 0:
+                
+                # Set start and end
+                start_node = prev_global.next
+                next_node = curr.next
+
+                # Reverse ll
+                new_head, new_tail = reverse_ll(start_node, next_node)
+
+                # Connect new head and the new tail to the next node
+                prev_global.next = new_head
+                new_tail.next = next_node
+
+                # Update iteration
+                prev_global = new_tail
+                curr = next_node
+
+
+            else:
+                curr = curr.next
+                
+            count += 1
+
         return dummy.next
