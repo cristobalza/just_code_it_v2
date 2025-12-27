@@ -18,24 +18,19 @@ class Solution:
         if len(s) != len(t):
             return False
 
-        hmap = {}
+        hmap_s, hmap_t = {}, {}
         for i in range(len(s)):
-            if s[i] in hmap:
-                if hmap[s[i]] != t[i]:
+            if s[i] in hmap_s:
+                if hmap_s[s[i]] != t[i]:
+                    return False
+                    
+            if t[i] in hmap_t:
+                if hmap_t[t[i]] != s[i]:
                     return False
 
             else:
-                hmap[s[i]] = t[i]
-
-
-        hmap = {}
-        for i in range(len(t)):
-            if t[i] in hmap:
-                if hmap[t[i]] != s[i]:
-                    return False
-
-            else:
-                hmap[t[i]] = s[i]
+                hmap_s[s[i]] = t[i]
+                hmap_t[t[i]] = s[i]
 
         return True
 
