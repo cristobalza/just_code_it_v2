@@ -264,6 +264,7 @@
 | [0171-excel-sheet-column-number](https://github.com/cristobalza/just_code_it_v2/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/cristobalza/just_code_it_v2/tree/master/0179-largest-number) |
 | [0186-reverse-words-in-a-string-ii](https://github.com/cristobalza/just_code_it_v2/tree/master/0186-reverse-words-in-a-string-ii) |
+| [0205-isomorphic-strings](https://github.com/cristobalza/just_code_it_v2/tree/master/0205-isomorphic-strings) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/cristobalza/just_code_it_v2/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/cristobalza/just_code_it_v2/tree/master/0242-valid-anagram) |
 | [0271-encode-and-decode-strings](https://github.com/cristobalza/just_code_it_v2/tree/master/0271-encode-and-decode-strings) |
@@ -331,6 +332,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/cristobalza/just_code_it_v2/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/cristobalza/just_code_it_v2/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/cristobalza/just_code_it_v2/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/cristobalza/just_code_it_v2/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/cristobalza/just_code_it_v2/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/cristobalza/just_code_it_v2/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/cristobalza/just_code_it_v2/tree/master/0242-valid-anagram) |
