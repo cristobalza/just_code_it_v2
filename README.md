@@ -478,6 +478,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/cristobalza/just_code_it_v2/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/cristobalza/just_code_it_v2/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/cristobalza/just_code_it_v2/tree/master/0061-rotate-list) |
+| [0086-partition-list](https://github.com/cristobalza/just_code_it_v2/tree/master/0086-partition-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/cristobalza/just_code_it_v2/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0138-copy-list-with-random-pointer](https://github.com/cristobalza/just_code_it_v2/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/cristobalza/just_code_it_v2/tree/master/0141-linked-list-cycle) |
@@ -505,6 +506,7 @@
 | [0061-rotate-list](https://github.com/cristobalza/just_code_it_v2/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/cristobalza/just_code_it_v2/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/cristobalza/just_code_it_v2/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0086-partition-list](https://github.com/cristobalza/just_code_it_v2/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/cristobalza/just_code_it_v2/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/cristobalza/just_code_it_v2/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/cristobalza/just_code_it_v2/tree/master/0142-linked-list-cycle-ii) |
