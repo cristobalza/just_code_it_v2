@@ -108,6 +108,7 @@
 | [0907-koko-eating-bananas](https://github.com/cristobalza/just_code_it_v2/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/cristobalza/just_code_it_v2/tree/master/0940-fruit-into-baskets) |
 | [0954-maximum-sum-circular-subarray](https://github.com/cristobalza/just_code_it_v2/tree/master/0954-maximum-sum-circular-subarray) |
+| [0973-k-closest-points-to-origin](https://github.com/cristobalza/just_code_it_v2/tree/master/0973-k-closest-points-to-origin) |
 | [1020-longest-turbulent-subarray](https://github.com/cristobalza/just_code_it_v2/tree/master/1020-longest-turbulent-subarray) |
 | [1025-minimum-cost-for-tickets](https://github.com/cristobalza/just_code_it_v2/tree/master/1025-minimum-cost-for-tickets) |
 | [1046-max-consecutive-ones-iii](https://github.com/cristobalza/just_code_it_v2/tree/master/1046-max-consecutive-ones-iii) |
@@ -227,6 +228,7 @@
 | [0342-power-of-four](https://github.com/cristobalza/just_code_it_v2/tree/master/0342-power-of-four) |
 | [0441-arranging-coins](https://github.com/cristobalza/just_code_it_v2/tree/master/0441-arranging-coins) |
 | [0528-random-pick-with-weight](https://github.com/cristobalza/just_code_it_v2/tree/master/0528-random-pick-with-weight) |
+| [0973-k-closest-points-to-origin](https://github.com/cristobalza/just_code_it_v2/tree/master/0973-k-closest-points-to-origin) |
 | [1013-fibonacci-number](https://github.com/cristobalza/just_code_it_v2/tree/master/1013-fibonacci-number) |
 | [1635-number-of-good-pairs](https://github.com/cristobalza/just_code_it_v2/tree/master/1635-number-of-good-pairs) |
 | [1688-count-of-matches-in-tournament](https://github.com/cristobalza/just_code_it_v2/tree/master/1688-count-of-matches-in-tournament) |
@@ -570,6 +572,7 @@
 | [0645-set-mismatch](https://github.com/cristobalza/just_code_it_v2/tree/master/0645-set-mismatch) |
 | [0778-reorganize-string](https://github.com/cristobalza/just_code_it_v2/tree/master/0778-reorganize-string) |
 | [0883-car-fleet](https://github.com/cristobalza/just_code_it_v2/tree/master/0883-car-fleet) |
+| [0973-k-closest-points-to-origin](https://github.com/cristobalza/just_code_it_v2/tree/master/0973-k-closest-points-to-origin) |
 | [1094-car-pooling](https://github.com/cristobalza/just_code_it_v2/tree/master/1094-car-pooling) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/cristobalza/just_code_it_v2/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1552-magnetic-force-between-two-balls](https://github.com/cristobalza/just_code_it_v2/tree/master/1552-magnetic-force-between-two-balls) |
@@ -615,6 +618,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/cristobalza/just_code_it_v2/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/cristobalza/just_code_it_v2/tree/master/0347-top-k-frequent-elements) |
 | [0954-maximum-sum-circular-subarray](https://github.com/cristobalza/just_code_it_v2/tree/master/0954-maximum-sum-circular-subarray) |
+| [0973-k-closest-points-to-origin](https://github.com/cristobalza/just_code_it_v2/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -630,6 +634,7 @@
 | [0778-reorganize-string](https://github.com/cristobalza/just_code_it_v2/tree/master/0778-reorganize-string) |
 | [0778-swim-in-rising-water](https://github.com/cristobalza/just_code_it_v2/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/cristobalza/just_code_it_v2/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0973-k-closest-points-to-origin](https://github.com/cristobalza/just_code_it_v2/tree/master/0973-k-closest-points-to-origin) |
 | [1094-car-pooling](https://github.com/cristobalza/just_code_it_v2/tree/master/1094-car-pooling) |
 | [1631-path-with-minimum-effort](https://github.com/cristobalza/just_code_it_v2/tree/master/1631-path-with-minimum-effort) |
 | [2429-design-a-food-rating-system](https://github.com/cristobalza/just_code_it_v2/tree/master/2429-design-a-food-rating-system) |
@@ -655,6 +660,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/cristobalza/just_code_it_v2/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/cristobalza/just_code_it_v2/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/cristobalza/just_code_it_v2/tree/master/0973-k-closest-points-to-origin) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -919,4 +925,8 @@
 |  |
 | ------- |
 | [0528-random-pick-with-weight](https://github.com/cristobalza/just_code_it_v2/tree/master/0528-random-pick-with-weight) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/cristobalza/just_code_it_v2/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
