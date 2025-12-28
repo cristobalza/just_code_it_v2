@@ -18,13 +18,13 @@ class Solution:
         """
         from math import sqrt
 
-        euclidean_distance = lambda p1, p2: sqrt(((p1[0] - p2[0])**2) + ((p1[1] - p2[1])**2))
+        euclidean_distance = lambda p2: sqrt(((p2[0])**2) + ((p2[1])**2))
 
         maxheap = []
 
         for x, y in points:
 
-            heapq.heappush(maxheap, (-euclidean_distance((0, 0), (x, y)), (x, y)))
+            heapq.heappush(maxheap, (-euclidean_distance((x, y)), (x, y)))
 
             if len(maxheap) > k:
                 heapq.heappop(maxheap)
