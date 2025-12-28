@@ -29,12 +29,6 @@ class Solution:
             if len(maxheap) > k:
                 heapq.heappop(maxheap)
 
-        res = []
-
-        while maxheap:
-            _ , point = heapq.heappop(maxheap)
-            res.append(point)
-
-        return res
+        return [point for _, point in maxheap]
 
         
