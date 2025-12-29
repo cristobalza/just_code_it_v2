@@ -223,6 +223,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/cristobalza/just_code_it_v2/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/cristobalza/just_code_it_v2/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/cristobalza/just_code_it_v2/tree/master/0202-happy-number) |
+| [0227-basic-calculator-ii](https://github.com/cristobalza/just_code_it_v2/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/cristobalza/just_code_it_v2/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/cristobalza/just_code_it_v2/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/cristobalza/just_code_it_v2/tree/master/0326-power-of-three) |
@@ -269,6 +270,7 @@
 | [0186-reverse-words-in-a-string-ii](https://github.com/cristobalza/just_code_it_v2/tree/master/0186-reverse-words-in-a-string-ii) |
 | [0205-isomorphic-strings](https://github.com/cristobalza/just_code_it_v2/tree/master/0205-isomorphic-strings) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/cristobalza/just_code_it_v2/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0227-basic-calculator-ii](https://github.com/cristobalza/just_code_it_v2/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/cristobalza/just_code_it_v2/tree/master/0242-valid-anagram) |
 | [0271-encode-and-decode-strings](https://github.com/cristobalza/just_code_it_v2/tree/master/0271-encode-and-decode-strings) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -303,6 +305,7 @@
 | [0143-reorder-list](https://github.com/cristobalza/just_code_it_v2/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/cristobalza/just_code_it_v2/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/cristobalza/just_code_it_v2/tree/master/0155-min-stack) |
+| [0227-basic-calculator-ii](https://github.com/cristobalza/just_code_it_v2/tree/master/0227-basic-calculator-ii) |
 | [0232-implement-queue-using-stacks](https://github.com/cristobalza/just_code_it_v2/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/cristobalza/just_code_it_v2/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/cristobalza/just_code_it_v2/tree/master/0402-remove-k-digits) |
