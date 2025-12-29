@@ -128,6 +128,7 @@
 | [1762-buildings-with-an-ocean-view](https://github.com/cristobalza/just_code_it_v2/tree/master/1762-buildings-with-an-ocean-view) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/cristobalza/just_code_it_v2/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/cristobalza/just_code_it_v2/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [2270-number-of-ways-to-split-array](https://github.com/cristobalza/just_code_it_v2/tree/master/2270-number-of-ways-to-split-array) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/cristobalza/just_code_it_v2/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/cristobalza/just_code_it_v2/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/cristobalza/just_code_it_v2/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -677,6 +678,7 @@
 | [1094-car-pooling](https://github.com/cristobalza/just_code_it_v2/tree/master/1094-car-pooling) |
 | [1603-running-sum-of-1d-array](https://github.com/cristobalza/just_code_it_v2/tree/master/1603-running-sum-of-1d-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/cristobalza/just_code_it_v2/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2270-number-of-ways-to-split-array](https://github.com/cristobalza/just_code_it_v2/tree/master/2270-number-of-ways-to-split-array) |
 ## Union Find
 |  |
 | ------- |
