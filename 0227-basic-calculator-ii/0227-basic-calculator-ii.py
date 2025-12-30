@@ -1,13 +1,9 @@
 class Solution:
     def calculate(self, s: str) -> int:
+        
         s = s.replace(" ", "")
 
-        res = 0
-
-        i, n = 0, len(s)
-
         stack = []
-
         num, operation = 0, "+"
 
         for i, ch in enumerate(s):
