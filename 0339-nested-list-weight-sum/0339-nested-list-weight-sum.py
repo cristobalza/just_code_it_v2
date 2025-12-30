@@ -47,13 +47,14 @@ class Solution:
             if nested_list is None:
                 return 0
             
-            curr = 0
             if nested_list.isInteger():
-                curr = nested_list.getInteger() * depth
+                return nested_list.getInteger() * depth
+
+            curr = 0
 
             for adj_nested_list in nested_list.getList():
                 curr += dfs(depth + 1, adj_nested_list)
-
+                
             return curr
 
         res = 0
