@@ -198,6 +198,7 @@
 | [0322-coin-change](https://github.com/cristobalza/just_code_it_v2/tree/master/0322-coin-change) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/cristobalza/just_code_it_v2/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/cristobalza/just_code_it_v2/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0339-nested-list-weight-sum](https://github.com/cristobalza/just_code_it_v2/tree/master/0339-nested-list-weight-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/cristobalza/just_code_it_v2/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/cristobalza/just_code_it_v2/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/cristobalza/just_code_it_v2/tree/master/0695-max-area-of-island) |
@@ -418,6 +419,7 @@
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/cristobalza/just_code_it_v2/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/cristobalza/just_code_it_v2/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/cristobalza/just_code_it_v2/tree/master/0332-reconstruct-itinerary) |
+| [0339-nested-list-weight-sum](https://github.com/cristobalza/just_code_it_v2/tree/master/0339-nested-list-weight-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/cristobalza/just_code_it_v2/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/cristobalza/just_code_it_v2/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/0543-diameter-of-binary-tree) |
