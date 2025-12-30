@@ -230,6 +230,7 @@
 | [0268-missing-number](https://github.com/cristobalza/just_code_it_v2/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/cristobalza/just_code_it_v2/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/cristobalza/just_code_it_v2/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/cristobalza/just_code_it_v2/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/cristobalza/just_code_it_v2/tree/master/0441-arranging-coins) |
 | [0528-random-pick-with-weight](https://github.com/cristobalza/just_code_it_v2/tree/master/0528-random-pick-with-weight) |
 | [0973-k-closest-points-to-origin](https://github.com/cristobalza/just_code_it_v2/tree/master/0973-k-closest-points-to-origin) |
@@ -280,6 +281,7 @@
 | [0316-remove-duplicate-letters](https://github.com/cristobalza/just_code_it_v2/tree/master/0316-remove-duplicate-letters) |
 | [0383-ransom-note](https://github.com/cristobalza/just_code_it_v2/tree/master/0383-ransom-note) |
 | [0402-remove-k-digits](https://github.com/cristobalza/just_code_it_v2/tree/master/0402-remove-k-digits) |
+| [0412-fizz-buzz](https://github.com/cristobalza/just_code_it_v2/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/cristobalza/just_code_it_v2/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/cristobalza/just_code_it_v2/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/cristobalza/just_code_it_v2/tree/master/0647-palindromic-substrings) |
@@ -839,6 +841,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/cristobalza/just_code_it_v2/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/cristobalza/just_code_it_v2/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/cristobalza/just_code_it_v2/tree/master/0498-diagonal-traverse) |
 | [1094-car-pooling](https://github.com/cristobalza/just_code_it_v2/tree/master/1094-car-pooling) |
 | [1688-count-of-matches-in-tournament](https://github.com/cristobalza/just_code_it_v2/tree/master/1688-count-of-matches-in-tournament) |
