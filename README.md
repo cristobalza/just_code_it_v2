@@ -280,6 +280,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0316-remove-duplicate-letters](https://github.com/cristobalza/just_code_it_v2/tree/master/0316-remove-duplicate-letters) |
 | [0383-ransom-note](https://github.com/cristobalza/just_code_it_v2/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/cristobalza/just_code_it_v2/tree/master/0389-find-the-difference) |
 | [0402-remove-k-digits](https://github.com/cristobalza/just_code_it_v2/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/cristobalza/just_code_it_v2/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/cristobalza/just_code_it_v2/tree/master/0424-longest-repeating-character-replacement) |
@@ -354,6 +355,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/cristobalza/just_code_it_v2/tree/master/0349-intersection-of-two-arrays) |
 | [0359-logger-rate-limiter](https://github.com/cristobalza/just_code_it_v2/tree/master/0359-logger-rate-limiter) |
 | [0383-ransom-note](https://github.com/cristobalza/just_code_it_v2/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/cristobalza/just_code_it_v2/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/cristobalza/just_code_it_v2/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/cristobalza/just_code_it_v2/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/cristobalza/just_code_it_v2/tree/master/0560-subarray-sum-equals-k) |
@@ -577,6 +579,7 @@
 | [0347-top-k-frequent-elements](https://github.com/cristobalza/just_code_it_v2/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/cristobalza/just_code_it_v2/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/cristobalza/just_code_it_v2/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0389-find-the-difference](https://github.com/cristobalza/just_code_it_v2/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/cristobalza/just_code_it_v2/tree/master/0414-third-maximum-number) |
 | [0435-non-overlapping-intervals](https://github.com/cristobalza/just_code_it_v2/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/cristobalza/just_code_it_v2/tree/master/0455-assign-cookies) |
@@ -830,6 +833,7 @@
 | [0268-missing-number](https://github.com/cristobalza/just_code_it_v2/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/cristobalza/just_code_it_v2/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/cristobalza/just_code_it_v2/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/cristobalza/just_code_it_v2/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/cristobalza/just_code_it_v2/tree/master/0645-set-mismatch) |
 | [2710-minimum-operations-to-reduce-an-integer-to-0](https://github.com/cristobalza/just_code_it_v2/tree/master/2710-minimum-operations-to-reduce-an-integer-to-0) |
 ## Data Stream
