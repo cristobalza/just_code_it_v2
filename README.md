@@ -188,6 +188,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/cristobalza/just_code_it_v2/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/cristobalza/just_code_it_v2/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/cristobalza/just_code_it_v2/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0127-word-ladder](https://github.com/cristobalza/just_code_it_v2/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/cristobalza/just_code_it_v2/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/cristobalza/just_code_it_v2/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/cristobalza/just_code_it_v2/tree/master/0200-number-of-islands) |
@@ -266,6 +267,7 @@
 | [0093-restore-ip-addresses](https://github.com/cristobalza/just_code_it_v2/tree/master/0093-restore-ip-addresses) |
 | [0115-distinct-subsequences](https://github.com/cristobalza/just_code_it_v2/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/cristobalza/just_code_it_v2/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/cristobalza/just_code_it_v2/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/cristobalza/just_code_it_v2/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/cristobalza/just_code_it_v2/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/cristobalza/just_code_it_v2/tree/master/0151-reverse-words-in-a-string) |
@@ -340,6 +342,7 @@
 | [0049-group-anagrams](https://github.com/cristobalza/just_code_it_v2/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/cristobalza/just_code_it_v2/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/cristobalza/just_code_it_v2/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0127-word-ladder](https://github.com/cristobalza/just_code_it_v2/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/cristobalza/just_code_it_v2/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/cristobalza/just_code_it_v2/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/cristobalza/just_code_it_v2/tree/master/0138-copy-list-with-random-pointer) |
