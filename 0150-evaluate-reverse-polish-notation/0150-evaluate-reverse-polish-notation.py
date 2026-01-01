@@ -1,35 +1,32 @@
 class Solution:
     def evalRPN(self, tokens: List[str]) -> int:
         """
-        ["4","13","5","/","+"]
-              |       |
-
+        Input: tokens = ["10","6","9","3","+","-11","*","/","*","17","+","5","+"]
+                                                                              i
+        stack = [22]
 
         """
-
         stack = []
+        operation = None
 
-        for token in tokens:
-            if token == "+":
-                digit_a = stack.pop()
-                digit_b = stack.pop()
-                stack.append(digit_a + digit_b)
-            elif token == "-":
-                digit_a = stack.pop()
-                digit_b = stack.pop()
-                stack.append(digit_b - digit_a)
-            elif token == "*":
-                digit_a = stack.pop()
-                digit_b = stack.pop()
-                stack.append(digit_a * digit_b)
-            elif token == "/":
-                digit_a = stack.pop()
-                digit_b = stack.pop()
-                stack.append(int(digit_b / digit_a))
+        for ch in tokens:
+            if len(stack) >= 2 and ch in ["+", "-", "*", "/"]:
+                operation = ch
+                num2 = int(stack.pop())
+                num1 = int(stack.pop())
+
+                if operation == "+":
+                    stack.append(num1 + num2)
+                elif operation == "-":
+                    stack.append(num1 - num2)
+                elif operation == "*":
+                    stack.append(num1 * num2)
+                else:
+                    stack.append(int(num1 / num2))
+            
             else:
-                stack.append(int(token))
-        
+                stack.append(int(ch))
+
         return stack[0]
 
-
-        
+            
