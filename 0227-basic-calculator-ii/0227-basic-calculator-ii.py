@@ -1,31 +1,31 @@
 class Solution:
     def calculate(self, s: str) -> int:
-        
-        s = s.replace(" ", "")
-
         stack = []
-        num, operation = 0, "+"
+        num = 0
+        operation = "+"
 
         for i, ch in enumerate(s):
+            if ch == "":
+                continue
+
             if ch.isdigit():
                 num = num * 10 + int(ch)
 
-            if ch in ['+', '-', '*', '/'] or i == len(s) - 1: # check operations or end of string
-                if operation == "+":
+            if ch in ('+', '-', '*', '/') or i == len(s) - 1:
+                if operation == '+':
                     stack.append(num)
-                if operation == "-":
+                if operation == '-':
                     stack.append(-num)
-                if operation == "*":
-                    last_num = stack.pop()
-                    stack.append(last_num * num)
-                if operation == "/":
-                    last_num = stack.pop()
-                    stack.append(int(last_num / num))
-
-                operation = ch
+                if operation == '*':
+                    stack.append(stack.pop() * num)
+                if operation == '/':
+                    stack.append(int(stack.pop() / num))
+                
                 num = 0
+                operation = ch
+        
+        return sum(stack)
 
-        res = 0
-        for val in stack:
-            res += val
-        return res
+            
+
+                
