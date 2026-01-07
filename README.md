@@ -113,6 +113,7 @@
 | [1020-longest-turbulent-subarray](https://github.com/cristobalza/just_code_it_v2/tree/master/1020-longest-turbulent-subarray) |
 | [1025-minimum-cost-for-tickets](https://github.com/cristobalza/just_code_it_v2/tree/master/1025-minimum-cost-for-tickets) |
 | [1046-max-consecutive-ones-iii](https://github.com/cristobalza/just_code_it_v2/tree/master/1046-max-consecutive-ones-iii) |
+| [1046-last-stone-weight](https://github.com/cristobalza/just_code_it_v2/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/cristobalza/just_code_it_v2/tree/master/1094-car-pooling) |
 | [1108-analyze-user-website-visit-pattern](https://github.com/cristobalza/just_code_it_v2/tree/master/1108-analyze-user-website-visit-pattern) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/cristobalza/just_code_it_v2/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -663,6 +664,7 @@
 | [0778-swim-in-rising-water](https://github.com/cristobalza/just_code_it_v2/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/cristobalza/just_code_it_v2/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/cristobalza/just_code_it_v2/tree/master/0973-k-closest-points-to-origin) |
+| [1046-last-stone-weight](https://github.com/cristobalza/just_code_it_v2/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/cristobalza/just_code_it_v2/tree/master/1094-car-pooling) |
 | [1631-path-with-minimum-effort](https://github.com/cristobalza/just_code_it_v2/tree/master/1631-path-with-minimum-effort) |
 | [2429-design-a-food-rating-system](https://github.com/cristobalza/just_code_it_v2/tree/master/2429-design-a-food-rating-system) |
