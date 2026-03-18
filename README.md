@@ -91,6 +91,7 @@
 | [0518-coin-change-ii](https://github.com/cristobalza/just_code_it_v2/tree/master/0518-coin-change-ii) |
 | [0528-random-pick-with-weight](https://github.com/cristobalza/just_code_it_v2/tree/master/0528-random-pick-with-weight) |
 | [0540-single-element-in-a-sorted-array](https://github.com/cristobalza/just_code_it_v2/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/cristobalza/just_code_it_v2/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/cristobalza/just_code_it_v2/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/cristobalza/just_code_it_v2/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0643-maximum-average-subarray-i](https://github.com/cristobalza/just_code_it_v2/tree/master/0643-maximum-average-subarray-i) |
@@ -169,6 +170,7 @@
 | [0435-non-overlapping-intervals](https://github.com/cristobalza/just_code_it_v2/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/cristobalza/just_code_it_v2/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/cristobalza/just_code_it_v2/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/cristobalza/just_code_it_v2/tree/master/0542-01-matrix) |
 | [0647-palindromic-substrings](https://github.com/cristobalza/just_code_it_v2/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/cristobalza/just_code_it_v2/tree/master/0678-valid-parenthesis-string) |
 | [0747-min-cost-climbing-stairs](https://github.com/cristobalza/just_code_it_v2/tree/master/0747-min-cost-climbing-stairs) |
@@ -206,6 +208,7 @@
 | [0339-nested-list-weight-sum](https://github.com/cristobalza/just_code_it_v2/tree/master/0339-nested-list-weight-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/cristobalza/just_code_it_v2/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/cristobalza/just_code_it_v2/tree/master/0463-island-perimeter) |
+| [0542-01-matrix](https://github.com/cristobalza/just_code_it_v2/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/cristobalza/just_code_it_v2/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/cristobalza/just_code_it_v2/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/cristobalza/just_code_it_v2/tree/master/0743-network-delay-time) |
@@ -406,6 +409,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/cristobalza/just_code_it_v2/tree/master/0417-pacific-atlantic-water-flow) |
 | [0463-island-perimeter](https://github.com/cristobalza/just_code_it_v2/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/cristobalza/just_code_it_v2/tree/master/0498-diagonal-traverse) |
+| [0542-01-matrix](https://github.com/cristobalza/just_code_it_v2/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/cristobalza/just_code_it_v2/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/cristobalza/just_code_it_v2/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/cristobalza/just_code_it_v2/tree/master/0778-swim-in-rising-water) |
