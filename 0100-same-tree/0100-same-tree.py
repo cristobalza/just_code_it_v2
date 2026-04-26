@@ -7,15 +7,20 @@
 class Solution:
     def isSameTree(self, p: Optional[TreeNode], q: Optional[TreeNode]) -> bool:
 
-        def dfs(node_p, node_q):
-            # Base Case
-            if not node_p and not node_q:
+        def dfs(node, q):
+
+            if not node and not q:
                 return True
 
-            if (not node_p or not node_q) or (node_p.val != node_q.val):
+            if not node or not q:
                 return False
 
-            return dfs(node_p.left, node_q.left) and dfs(node_p.right, node_q.right)
+            if node.val != q.val:
+                return False
+
+            l = dfs(node.left, q.left)
+            r = dfs(node.right, q.right)
+
+            return l and r
 
         return dfs(p, q)
-        
