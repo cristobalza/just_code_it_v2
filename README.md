@@ -901,6 +901,7 @@
 | [1246-user-activity-for-the-past-30-days-ii](https://github.com/cristobalza/just_code_it_v2/tree/master/1246-user-activity-for-the-past-30-days-ii) |
 | [1291-immediate-food-delivery-i](https://github.com/cristobalza/just_code_it_v2/tree/master/1291-immediate-food-delivery-i) |
 | [1415-students-and-examinations](https://github.com/cristobalza/just_code_it_v2/tree/master/1415-students-and-examinations) |
+| [1517-find-users-with-valid-e-mails](https://github.com/cristobalza/just_code_it_v2/tree/master/1517-find-users-with-valid-e-mails) |
 | [1607-rectangles-area](https://github.com/cristobalza/just_code_it_v2/tree/master/1607-rectangles-area) |
 | [1667-fix-names-in-a-table](https://github.com/cristobalza/just_code_it_v2/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/cristobalza/just_code_it_v2/tree/master/1683-invalid-tweets) |
