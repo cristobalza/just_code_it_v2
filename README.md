@@ -901,6 +901,7 @@
 | [1415-students-and-examinations](https://github.com/cristobalza/just_code_it_v2/tree/master/1415-students-and-examinations) |
 | [1607-rectangles-area](https://github.com/cristobalza/just_code_it_v2/tree/master/1607-rectangles-area) |
 | [1718-warehouse-manager](https://github.com/cristobalza/just_code_it_v2/tree/master/1718-warehouse-manager) |
+| [1757-recyclable-and-low-fat-products](https://github.com/cristobalza/just_code_it_v2/tree/master/1757-recyclable-and-low-fat-products) |
 | [1759-find-the-missing-ids](https://github.com/cristobalza/just_code_it_v2/tree/master/1759-find-the-missing-ids) |
 | [1908-recyclable-and-low-fat-products](https://github.com/cristobalza/just_code_it_v2/tree/master/1908-recyclable-and-low-fat-products) |
 | [1974-find-customers-with-positive-revenue-this-year](https://github.com/cristobalza/just_code_it_v2/tree/master/1974-find-customers-with-positive-revenue-this-year) |
