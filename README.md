@@ -902,6 +902,7 @@
 | [1291-immediate-food-delivery-i](https://github.com/cristobalza/just_code_it_v2/tree/master/1291-immediate-food-delivery-i) |
 | [1415-students-and-examinations](https://github.com/cristobalza/just_code_it_v2/tree/master/1415-students-and-examinations) |
 | [1607-rectangles-area](https://github.com/cristobalza/just_code_it_v2/tree/master/1607-rectangles-area) |
+| [1667-fix-names-in-a-table](https://github.com/cristobalza/just_code_it_v2/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/cristobalza/just_code_it_v2/tree/master/1683-invalid-tweets) |
 | [1718-warehouse-manager](https://github.com/cristobalza/just_code_it_v2/tree/master/1718-warehouse-manager) |
 | [1757-recyclable-and-low-fat-products](https://github.com/cristobalza/just_code_it_v2/tree/master/1757-recyclable-and-low-fat-products) |
