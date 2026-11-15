@@ -906,6 +906,7 @@
 | [1718-warehouse-manager](https://github.com/cristobalza/just_code_it_v2/tree/master/1718-warehouse-manager) |
 | [1757-recyclable-and-low-fat-products](https://github.com/cristobalza/just_code_it_v2/tree/master/1757-recyclable-and-low-fat-products) |
 | [1759-find-the-missing-ids](https://github.com/cristobalza/just_code_it_v2/tree/master/1759-find-the-missing-ids) |
+| [1873-calculate-special-bonus](https://github.com/cristobalza/just_code_it_v2/tree/master/1873-calculate-special-bonus) |
 | [1908-recyclable-and-low-fat-products](https://github.com/cristobalza/just_code_it_v2/tree/master/1908-recyclable-and-low-fat-products) |
 | [1974-find-customers-with-positive-revenue-this-year](https://github.com/cristobalza/just_code_it_v2/tree/master/1974-find-customers-with-positive-revenue-this-year) |
 | [2484-compute-the-rank-as-a-percentage](https://github.com/cristobalza/just_code_it_v2/tree/master/2484-compute-the-rank-as-a-percentage) |
