@@ -8,6 +8,4 @@ def invalid_tweets(tweets: pd.DataFrame) -> pd.DataFrame:
         count=("content", lambda s: s.str.len().sum())
     ).reset_index()
 
-    df = df[df["count"] > 15]
-
-    return df[["tweet_id"]]
+    return df[df["count"] > 15][["tweet_id"]]
